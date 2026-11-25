@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python -m pip install --disable-pip-version-check pytest
+      - run: python -m pip install --disable-pip-version-check pytest pillow numpy imageio-ffmpeg
       - run: python -I -m pytest -q -p no:cacheprovider hnc/tests
       - run: python -I hnc/qa_legenda.py hnc/shots_cena56.json
       - run: cd hnc && python -I hnc_fetch.py --manifest manifest_cena56.json --mode fetch --limit 3
