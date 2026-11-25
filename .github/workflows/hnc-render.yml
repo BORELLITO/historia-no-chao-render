@@ -19,6 +19,7 @@ jobs:
           python-version: "3.12"
       - run: python -m pip install --disable-pip-version-check pytest
       - run: python -I -m pytest -q -p no:cacheprovider hnc/tests
+      - run: python -I hnc/qa_legenda.py hnc/shots_cena56.json
       - run: cd hnc && python -I hnc_fetch.py --manifest manifest_cena56.json --mode fetch --limit 3
         continue-on-error: true
       - run: cd hnc && cp ledger.json ledger_cena56.json && python -I hnc_fetch.py --manifest manifest_lote5b.json --mode fetch --limit 2
@@ -34,7 +35,8 @@ jobs:
           python -m pip install -q pillow numpy imageio-ffmpeg opencv-python-headless
           python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
           python -m pip install -q transformers
-          python -I hnc/engine_d.py hnc/shots_cena56.json /tmp/demo14p.mp4 preview
+          python -I hnc/engine_d.py hnc/shots_cena56.json /tmp/demo15p.mp4 preview
+          python -I hnc/qa_legenda.py hnc/shots_cena56.json /tmp/demo15p.mp4 | tee /tmp/qa_video.txt || true
         if: always()
       - uses: actions/upload-artifact@v4
         if: always()

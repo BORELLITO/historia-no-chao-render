@@ -80,7 +80,7 @@
   },
   {
    "src": "WC-HOET-PORTA",
-   "dur": 5,
+   "dur": 6.5,
    "a": [
     0.34,
     0.52,
@@ -107,7 +107,7 @@
   },
   {
    "src": "WC-HOET-PORTA",
-   "dur": 5,
+   "dur": 5.5,
    "a": [
     0.66,
     0.36,
@@ -118,7 +118,7 @@
     0.4,
     0.78
    ],
-   "cap": "Os visitantes o puxam para dentro e fecham a porta.",
+   "cap": "Os visitantes puxam Ló para dentro e fecham a porta.",
    "ref": "Gênesis 19:10",
    "in": "cut",
    "fx": {
@@ -203,7 +203,7 @@
   },
   {
    "kind": "black",
-   "dur": 2.5,
+   "dur": 4,
    "cap": "A destruição esperou por ele.",
    "in": "dip"
   },
