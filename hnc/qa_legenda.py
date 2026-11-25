@@ -70,12 +70,18 @@ if len(sys.argv) > 2:
     ff = imageio_ffmpeg.get_ffmpeg_exe(); pos = 0
     for i, s in enumerate(cfg["shots"], 1):
         if i > 1 and s.get("in", "dissolve") == "dissolve": pos -= OV
-        F = s["dur"]; mid = pos + F * 0.55; pos += F
+        F = s["dur"]; mid = pos + F * (0.45 if s.get("kind") == "black" else 0.55); pos += F
         if not s.get("cap"): continue
         n = int(mid * FPS)
         r = subprocess.run([ff, "-v", "error", "-i", sys.argv[2], "-vf", f"select=eq(n\\,{n})", "-vframes", "1", "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], capture_output=True).stdout
         if not r: Wn(f"plano {i}: quadro nao lido"); continue
         a = np.frombuffer(r, np.uint8).reshape(-1, 960, 3).astype(float); h = a.shape[0]
+        if s.get("kind") == "black":
+            mm = a[int(F * 0 + 0):].min(axis=2) > 150; ys, xs = np.nonzero(mm)
+            if len(xs) < 20: Wn(f"plano {i}: cartao preto sem texto no quadro"); continue
+            ox = (xs.min() + xs.max()) / 2 - 480; oy = (ys.min() + ys.max()) / 2 - h / 2
+            (E if abs(ox) > 6 or abs(oy) > 6 else info.append)(f"plano {i}: cartao preto centro dx={ox:+.1f} dy={oy:+.1f}px")
+            continue
         nl = len(wrap(s["cap"], W * 2 * 0.78)); y0 = int((2160 - 190 - 119.6 * nl) / 4) - 6; y1 = y0 + int(30 * nl) + 12
         reg = a[y0:y1]
         m = (reg.min(axis=2) > 225) | ((reg[..., 1] > 175) & (reg[..., 2] < 150) & (reg[..., 0] > 150))
