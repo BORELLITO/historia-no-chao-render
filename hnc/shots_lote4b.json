@@ -1,0 +1,87 @@
+{
+ "fps": 30,
+ "w": 1280,
+ "h": 720,
+ "overlap_s": 1.2,
+ "plates": {
+  "RB-HEBRON": {
+   "box": "auto",
+   "sepia": false
+  },
+  "WH-ESCAPE-BODE": {
+   "box": [
+    0.0,
+    0.02,
+    1.0,
+    0.41
+   ],
+   "sepia": false
+  },
+  "RB-RIJKS-TERRASANTA": {
+   "box": "auto",
+   "sepia": true
+  }
+ },
+ "shots": [
+  {
+   "src": "RB-HEBRON",
+   "dur": 9,
+   "a": [
+    0.3,
+    0.56,
+    0.62
+   ],
+   "b": [
+    0.66,
+    0.6,
+    0.58
+   ],
+   "cap": "Hebron, na região onde Abraão viveu.",
+   "fx": {
+    "parallax": 16,
+    "bloom": 0.5,
+    "haze": 0.07
+   }
+  },
+  {
+   "src": "WH-ESCAPE-BODE",
+   "dur": 8,
+   "a": [
+    0.3,
+    0.5,
+    0.6
+   ],
+   "b": [
+    0.72,
+    0.5,
+    0.6
+   ],
+   "cap": "O Mar Morto ao entardecer.",
+   "fx": {
+    "parallax": 10,
+    "bloom": 0.7,
+    "haze": 0.05
+   }
+  },
+  {
+   "src": "RB-RIJKS-TERRASANTA",
+   "dur": 8,
+   "a": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "b": [
+    0.5,
+    0.56,
+    0.8
+   ],
+   "cap": "Penhascos do deserto da Judeia.",
+   "fx": {
+    "parallax": 16,
+    "bloom": 0.4,
+    "haze": 0.08
+   }
+  }
+ ]
+}

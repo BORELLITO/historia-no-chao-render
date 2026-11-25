@@ -1,0 +1,267 @@
+{
+ "fps": 30,
+ "w": 1920,
+ "h": 1080,
+ "overlap_s": 0.8,
+ "caption_style": "v2",
+ "plates": {
+  "NGA-DURER-FUGA": {
+   "box": [
+    0.005,
+    0.005,
+    0.995,
+    0.995
+   ],
+   "sepia": false
+  },
+  "RK-LO-FUGA": {
+   "box": [
+    0.035,
+    0.03,
+    0.955,
+    0.965
+   ],
+   "sepia": true
+  },
+  "RK-LOTSVROUW": {
+   "box": [
+    0.035,
+    0.03,
+    0.96,
+    0.965
+   ],
+   "sepia": true
+  },
+  "WC-HOET-PORTA": {
+   "box": [
+    0.03,
+    0.01,
+    0.97,
+    0.875
+   ],
+   "sepia": true
+  },
+  "WM-PATINIR-SODOMA": {
+   "box": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "sepia": false
+  }
+ },
+ "shots": [
+  {
+   "src": "WC-HOET-PORTA",
+   "dur": 6,
+   "a": [
+    0.5,
+    0.2,
+    1.0
+   ],
+   "b": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "cap": "Ao anoitecer, os dois chegam a Sodoma.",
+   "ref": "Gênesis 19:1",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05,
+    "dof": 0.5,
+    "focus": [
+     0.7,
+     0.5
+    ]
+   }
+  },
+  {
+   "src": "WC-HOET-PORTA",
+   "dur": 5,
+   "a": [
+    0.34,
+    0.52,
+    0.86
+   ],
+   "b": [
+    0.42,
+    0.52,
+    0.8
+   ],
+   "cap": "Antes de dormirem, a casa é cercada. Jovens e velhos, a cidade inteira.",
+   "ref": "Gênesis 19:4",
+   "in": "cut",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05,
+    "dof": 0.4,
+    "focus": [
+     0.7,
+     0.5
+    ]
+   }
+  },
+  {
+   "src": "WC-HOET-PORTA",
+   "dur": 5,
+   "a": [
+    0.66,
+    0.36,
+    0.84
+   ],
+   "b": [
+    0.62,
+    0.4,
+    0.78
+   ],
+   "cap": "Os visitantes o puxam para dentro e fecham a porta.",
+   "ref": "Gênesis 19:10",
+   "in": "cut",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05,
+    "dof": 0.4,
+    "focus": [
+     0.7,
+     0.5
+    ]
+   }
+  },
+  {
+   "src": "WC-HOET-PORTA",
+   "dur": 5,
+   "a": [
+    0.42,
+    0.58,
+    0.9
+   ],
+   "b": [
+    0.38,
+    0.62,
+    0.82
+   ],
+   "cap": "E os homens do lado de fora ficam cegos.",
+   "ref": "Gênesis 19:11",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05,
+    "dof": 0.4,
+    "focus": [
+     0.7,
+     0.5
+    ]
+   }
+  },
+  {
+   "src": "NGA-DURER-FUGA",
+   "dur": 6,
+   "a": [
+    0.5,
+    0.24,
+    1.0
+   ],
+   "b": [
+    0.5,
+    0.7,
+    1.0
+   ],
+   "cap": "Ao amanhecer, os anjos apressam Ló.",
+   "ref": "Gênesis 19:15",
+   "in": "dip",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05
+   }
+  },
+  {
+   "src": "RK-LO-FUGA",
+   "dur": 5,
+   "a": [
+    0.5,
+    0.5,
+    0.96
+   ],
+   "b": [
+    0.5,
+    0.46,
+    0.8
+   ],
+   "cap": "Fuja pela sua vida. Não olhe para trás.",
+   "ref": "Gênesis 19:17",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05
+   }
+  },
+  {
+   "kind": "black",
+   "dur": 2.5,
+   "cap": "A destruição esperou por ele.",
+   "in": "dip"
+  },
+  {
+   "src": "WM-PATINIR-SODOMA",
+   "dur": 7,
+   "a": [
+    0.3,
+    0.34,
+    0.62
+   ],
+   "b": [
+    0.52,
+    0.36,
+    0.62
+   ],
+   "cap": "Então o Senhor fez chover enxofre e fogo.",
+   "ref": "Gênesis 19:24",
+   "in": "cut",
+   "fx": {
+    "parallax": 14,
+    "bloom": 0.8,
+    "haze": 0.05,
+    "fire": true,
+    "dof": 0.6,
+    "focus": [
+     0.4,
+     0.6
+    ],
+    "rays": 0.35,
+    "embers": 0.7,
+    "grade": {
+     "sat": 0.85,
+     "warm": 1.0,
+     "contrast": 0.95
+    }
+   }
+  },
+  {
+   "src": "RK-LOTSVROUW",
+   "dur": 7,
+   "a": [
+    0.5,
+    0.28,
+    1.0
+   ],
+   "b": [
+    0.5,
+    0.66,
+    1.0
+   ],
+   "cap": "E a mulher de Ló olhou para trás.",
+   "ref": "Gênesis 19:26",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05
+   }
+  }
+ ]
+}

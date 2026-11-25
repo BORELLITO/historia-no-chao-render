@@ -1,0 +1,32 @@
+{
+ "episode": "HNC01",
+ "max_files": 2,
+ "assets": [
+  {
+   "id": "WC-HOET-PORTA",
+   "source": "wellcome",
+   "page": "https://wellcomecollection.org/works/pw7dkcwb",
+   "file": "https://iiif.wellcomecollection.org/image/V0034236/full/full/0/default.jpg",
+   "license_marker": "Public Domain Mark",
+   "planos": [
+    "P059",
+    "P060",
+    "P061",
+    "P062"
+   ],
+   "qa": "agua-forte Hoet/van der Gucht (Wellcome 15819i): anjos puxam Lo para casa, multidao cega. Europeana lista CC-BY 4.0 para o mesmo item: CONFLITO a resolver; asas NAO VERIFICADO"
+  },
+  {
+   "id": "WM-PATINIR-SODOMA",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Joachim_Patinir_010.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Joachim_Patinir_010.jpg",
+   "license_marker": "public domain",
+   "planos": [
+    "P072",
+    "P073"
+   ],
+   "qa": "Patinir, paisagem com a destruicao de Sodoma (Boijmans); asas NAO VERIFICADO"
+  }
+ ]
+}

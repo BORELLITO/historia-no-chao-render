@@ -1,0 +1,206 @@
+{
+ "fps": 30,
+ "w": 1920,
+ "h": 1080,
+ "overlap_s": 1.2,
+ "plates": {
+  "RK-ABRAAO-REFEICAO": {
+   "box": [
+    0.015,
+    0.015,
+    0.985,
+    0.935
+   ],
+   "sepia": true
+  },
+  "WM-FRENCH-ABRAHAM": {
+   "box": [
+    0.03,
+    0.03,
+    0.97,
+    0.97
+   ],
+   "sepia": true
+  },
+  "WM-MARTIN": {
+   "box": [
+    0.005,
+    0.005,
+    0.995,
+    0.995
+   ],
+   "sepia": false
+  },
+  "NGA-DURER-FUGA": {
+   "box": [
+    0.005,
+    0.005,
+    0.995,
+    0.995
+   ],
+   "sepia": false
+  },
+  "RK-LO-FUGA": {
+   "box": [
+    0.035,
+    0.03,
+    0.955,
+    0.965
+   ],
+   "sepia": true
+  },
+  "RK-LOTSVROUW": {
+   "box": [
+    0.035,
+    0.03,
+    0.96,
+    0.965
+   ],
+   "sepia": true
+  }
+ },
+ "shots": [
+  {
+   "src": "RK-ABRAAO-REFEICAO",
+   "dur": 7,
+   "a": [
+    0.36,
+    0.52,
+    0.62
+   ],
+   "b": [
+    0.64,
+    0.52,
+    0.62
+   ],
+   "cap": "Abraão recebeu três homens à sombra da árvore.",
+   "fx": {
+    "parallax": 14,
+    "bloom": 0.4,
+    "haze": 0.05
+   }
+  },
+  {
+   "src": "RK-ABRAAO-REFEICAO",
+   "dur": 6,
+   "a": [
+    0.3,
+    0.4,
+    0.62
+   ],
+   "b": [
+    0.34,
+    0.42,
+    0.56
+   ],
+   "cap": "Sara ouvia da entrada da tenda.",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.4,
+    "haze": 0.05
+   }
+  },
+  {
+   "src": "WM-FRENCH-ABRAHAM",
+   "dur": 6,
+   "a": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "b": [
+    0.5,
+    0.55,
+    0.84
+   ],
+   "cap": "Três homens, de pé, diante dele.",
+   "fx": {
+    "parallax": 10,
+    "bloom": 0.3,
+    "haze": 0.04
+   }
+  },
+  {
+   "src": "WM-MARTIN",
+   "dur": 6,
+   "a": [
+    0.5,
+    0.5,
+    1.0
+   ],
+   "b": [
+    0.44,
+    0.5,
+    0.86
+   ],
+   "cap": "Então o Senhor fez chover enxofre e fogo.",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.9,
+    "haze": 0.06,
+    "fire": true
+   }
+  },
+  {
+   "src": "NGA-DURER-FUGA",
+   "dur": 7,
+   "a": [
+    0.5,
+    0.24,
+    1.0
+   ],
+   "b": [
+    0.5,
+    0.7,
+    1.0
+   ],
+   "cap": "Ló foi levado para fora da cidade.",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05
+   }
+  },
+  {
+   "src": "RK-LO-FUGA",
+   "dur": 6,
+   "a": [
+    0.5,
+    0.5,
+    0.96
+   ],
+   "b": [
+    0.5,
+    0.46,
+    0.8
+   ],
+   "cap": "Fuja pela sua vida. Não olhe para trás.",
+   "fx": {
+    "parallax": 14,
+    "bloom": 0.5,
+    "haze": 0.06,
+    "fire": true
+   }
+  },
+  {
+   "src": "RK-LOTSVROUW",
+   "dur": 7,
+   "a": [
+    0.5,
+    0.28,
+    1.0
+   ],
+   "b": [
+    0.5,
+    0.66,
+    1.0
+   ],
+   "cap": "E a mulher de Ló olhou para trás.",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.4,
+    "haze": 0.07
+   }
+  }
+ ]
+}

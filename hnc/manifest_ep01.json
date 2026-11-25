@@ -1,0 +1,117 @@
+{
+ "episode": "HNC01",
+ "max_files": 8,
+ "assets": [
+  {
+   "id": "RK-LO-MENIGTE",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Lot%20maant%20de%20menigte%20tot%20kalmte%20Incestus%20(titel%20op%20object)%20Geschiedenis%20van%20Lot%20(serietitel)%20Historia%20Loth%20(serietitel)%20Thesaurus%20sacrarum%20historiarum%20veteris%20testamenti,%20elegantissimis%20imaginibus%20expressum%20excellent,%20RP-P-1995-25-30.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Lot%20maant%20de%20menigte%20tot%20kalmte%20Incestus%20%28titel%20op%20object%29%20Geschiedenis%20van%20Lot%20%28serietitel%29%20Historia%20Loth%20%28serietitel%29%20Thesaurus%20sacrarum%20historiarum%20veteris%20testamenti%2C%20elegantissimis%20imaginibus%20expressum%20excellent%2C%20RP-P-1995-25-30.jpg",
+   "license_marker": "CC0",
+   "planos": [
+    "P059",
+    "P060",
+    "P064",
+    "P065"
+   ],
+   "qa": "visto em 1400 px; recorte sem asas (parte 7)"
+  },
+  {
+   "id": "RK-SODOMA-CEGOS",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:De%20mannen%20van%20Sodom%20met%20blindheid%20geslagen%20Geschiedenis%20van%20Lot%20(serietitel),%20RP-P-OB-5926.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/De%20mannen%20van%20Sodom%20met%20blindheid%20geslagen%20Geschiedenis%20van%20Lot%20%28serietitel%29%2C%20RP-P-OB-5926.jpg",
+   "license_marker": "CC0",
+   "planos": [
+    "P068",
+    "P069",
+    "P070",
+    "P071"
+   ],
+   "qa": "visto em 1400 px; recorte sem asas (parte 7)"
+  },
+  {
+   "id": "RK-LO-FUGA",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Lot%20en%20zijn%20dochters%20verlaten%20het%20brandende%20Sodom,%20RP-P-OB-45.776.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Lot%20en%20zijn%20dochters%20verlaten%20het%20brandende%20Sodom%2C%20RP-P-OB-45.776.jpg",
+   "license_marker": "CC0",
+   "planos": [
+    "P074",
+    "P077",
+    "P078",
+    "P081",
+    "P082",
+    "P085",
+    "P118"
+   ],
+   "qa": "visto em 1100 px: Ló e filhas fugindo, cidade em chamas, raios, esposa ao fundo; sem asas"
+  },
+  {
+   "id": "RK-LOTSVROUW",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Lots%20vrouw%20verandert%20in%20een%20zoutpilaar,%20RP-P-1906-2747.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Lots%20vrouw%20verandert%20in%20een%20zoutpilaar%2C%20RP-P-1906-2747.jpg",
+   "license_marker": "CC0",
+   "planos": [
+    "P088",
+    "P089",
+    "P091",
+    "P092"
+   ],
+   "qa": "visto inteiro em 1100 px (2 telas): esposa olhando para trás, cidade em ruínas; sem asas; legenda latina no pé"
+  },
+  {
+   "id": "RK-ABRAAO-REFEICAO",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Abraham%20ontvangt%20de%20drie%20engelen,%20RP-P-1894-A-18261.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20ontvangt%20de%20drie%20engelen%2C%20RP-P-1894-A-18261.jpg",
+   "license_marker": "CC0",
+   "planos": [
+    "P025",
+    "P026",
+    "P028",
+    "P029",
+    "P032"
+   ],
+   "qa": "visto em 1100 px: Abraão e 3 homens à mesa, Sara na porta da tenda; sem asas"
+  },
+  {
+   "id": "NGA-DURER-FUGA",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Albrecht%20D%C3%BCrer%20-%20Lot%27s%20Flight%20-%20National%20Gallery%20of%20Art.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Lot%27s%20Flight%20-%20National%20Gallery%20of%20Art.jpg",
+   "license_marker": "public domain",
+   "planos": [
+    "P074",
+    "P079",
+    "P081",
+    "P084"
+   ],
+   "qa": "visto parcialmente (metade superior) em 1100 px: pintura colorida, cidade em chamas; sem asas na parte vista; parte inferior só filhas e Ló"
+  },
+  {
+   "id": "WM-MARTIN",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:John_Martin_-_Sodom_and_Gomorrah.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Martin_-_Sodom_and_Gomorrah.jpg",
+   "license_marker": "public domain",
+   "planos": [
+    "P010",
+    "P085"
+   ],
+   "qa": "visto (parte 2)"
+  },
+  {
+   "id": "WM-FRENCH-ABRAHAM",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:French_-_Abraham_and_the_Angels_-_Google_Art_Project.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/French_-_Abraham_and_the_Angels_-_Google_Art_Project.jpg",
+   "license_marker": "public domain",
+   "planos": [
+    "P021-P034 candidata Gn18"
+   ],
+   "qa": "visto em 1000 px"
+  }
+ ]
+}

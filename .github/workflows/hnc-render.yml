@@ -1,0 +1,46 @@
+name: HNC render (publico, so dominio publico)
+# Teste autorizado pelo dono: FETCH de 2 ativos (Mixkit 52009 e Wikimedia Martin) para quarentena (artefato, nada commitado). Roda so na branch hnc/fetch-check.
+on:
+  push:
+    branches: ["main"]
+    paths: ["hnc/**", ".github/workflows/hnc-render.yml"]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install --disable-pip-version-check pytest
+      - run: python -I -m pytest -q -p no:cacheprovider hnc/tests
+      - run: cd hnc && python -I hnc_fetch.py --manifest manifest_cena56.json --mode fetch --limit 3
+        continue-on-error: true
+      - run: cd hnc && cp ledger.json ledger_cena56.json && python -I hnc_fetch.py --manifest manifest_lote5b.json --mode fetch --limit 2
+        continue-on-error: true
+      - run: |
+          cd hnc && cat ledger.json; ls -l quarentena || true
+          python -m pip install -q imageio-ffmpeg
+          FF=$(python -c "import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())")
+          true
+          python -c "import struct,glob;[print(f,struct.unpack('>II',open(f,'rb').read(24)[16:24])) for f in glob.glob('quarentena/*.jpg')]" || true
+        if: always()
+      - run: |
+          python -m pip install -q pillow numpy imageio-ffmpeg opencv-python-headless
+          python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -q transformers
+          python -I hnc/engine_d.py hnc/shots_cena56.json /tmp/demo14p.mp4 preview
+        if: always()
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: hnc-ledger
+          path: |
+            hnc/ledger.json
+            hnc/quarentena/
+          if-no-files-found: warn

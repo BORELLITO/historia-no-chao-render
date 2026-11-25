@@ -1,0 +1,89 @@
+{
+ "fps": 30,
+ "w": 1920,
+ "h": 1080,
+ "overlap_s": 1.2,
+ "plates": {
+  "WC-HOET-PORTA": {
+   "box": [
+    0.03,
+    0.01,
+    0.97,
+    0.875
+   ],
+   "sepia": true
+  },
+  "WM-PATINIR-SODOMA": {
+   "box": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "sepia": false
+  }
+ },
+ "shots": [
+  {
+   "src": "WC-HOET-PORTA",
+   "dur": 8,
+   "a": [
+    0.5,
+    0.2,
+    1.0
+   ],
+   "b": [
+    0.5,
+    0.52,
+    1.0
+   ],
+   "cap": "Os homens da cidade cercaram a casa de Ló.",
+   "fx": {
+    "parallax": 12,
+    "bloom": 0.5,
+    "haze": 0.05
+   }
+  },
+  {
+   "src": "WC-HOET-PORTA",
+   "dur": 7,
+   "a": [
+    0.7,
+    0.34,
+    0.7
+   ],
+   "b": [
+    0.66,
+    0.4,
+    0.62
+   ],
+   "cap": "Os anjos puxaram Ló para dentro e fecharam a porta.",
+   "fx": {
+    "parallax": 10,
+    "bloom": 0.4,
+    "haze": 0.04
+   }
+  },
+  {
+   "src": "WM-PATINIR-SODOMA",
+   "dur": 8,
+   "a": [
+    0.3,
+    0.34,
+    0.62
+   ],
+   "b": [
+    0.52,
+    0.36,
+    0.62
+   ],
+   "cap": "O Senhor fez chover enxofre e fogo sobre Sodoma.",
+   "fx": {
+    "parallax": 14,
+    "bloom": 0.8,
+    "haze": 0.05,
+    "fire": true
+   }
+  }
+ ]
+}

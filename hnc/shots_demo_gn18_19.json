@@ -1,0 +1,16 @@
+{"fps": 24, "w": 1280, "h": 720, "overlap_s": 1,
+ "plates": {
+  "RK-ABRAAO-REFEICAO": {"box": [0.015, 0.015, 0.985, 0.935], "sepia": true},
+  "WM-FRENCH-ABRAHAM": {"box": [0.03, 0.03, 0.97, 0.97], "sepia": true},
+  "WM-MARTIN": {"box": [0.005, 0.005, 0.995, 0.995], "sepia": false},
+  "NGA-DURER-FUGA": {"box": [0.005, 0.005, 0.995, 0.995], "sepia": false},
+  "RK-LO-FUGA": {"box": [0.035, 0.03, 0.955, 0.965], "sepia": true},
+  "RK-LOTSVROUW": {"box": [0.035, 0.03, 0.96, 0.965], "sepia": true}},
+ "shots": [
+  {"src": "RK-ABRAAO-REFEICAO", "dur": 7, "a": [0.36, 0.52, 0.62], "b": [0.64, 0.52, 0.62], "cap": "Abraão recebeu três homens à sombra da árvore."},
+  {"src": "RK-ABRAAO-REFEICAO", "dur": 6, "a": [0.30, 0.40, 0.62], "b": [0.34, 0.42, 0.56], "cap": "Sara ouvia da entrada da tenda."},
+  {"src": "WM-FRENCH-ABRAHAM", "dur": 6, "a": [0.50, 0.50, 1.0], "b": [0.50, 0.55, 0.84], "cap": "Três homens, de pé, diante dele."},
+  {"src": "WM-MARTIN", "dur": 6, "a": [0.50, 0.50, 1.0], "b": [0.44, 0.50, 0.86], "cap": "Então o Senhor fez chover enxofre e fogo."},
+  {"src": "NGA-DURER-FUGA", "dur": 7, "a": [0.50, 0.24, 1.0], "b": [0.50, 0.70, 1.0], "cap": "Ló foi levado para fora da cidade."},
+  {"src": "RK-LO-FUGA", "dur": 6, "a": [0.50, 0.50, 0.96], "b": [0.50, 0.46, 0.80], "cap": "Fuja pela sua vida. Não olhe para trás."},
+  {"src": "RK-LOTSVROUW", "dur": 7, "a": [0.50, 0.28, 1.0], "b": [0.50, 0.66, 1.0], "cap": "E a mulher de Ló olhou para trás."}]}

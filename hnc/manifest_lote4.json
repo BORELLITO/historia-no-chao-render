@@ -1,0 +1,56 @@
+{
+ "episode": "HNC01",
+ "max_files": 4,
+ "assets": [
+  {
+   "id": "RB-HEBRON",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:David%20Roberts%20-%20Hebron%20-%201927.140%20-%20Cleveland%20Museum%20of%20Art.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Roberts%20-%20Hebron%20-%201927.140%20-%20Cleveland%20Museum%20of%20Art.jpg",
+   "license_marker": "CC0",
+   "planos": [
+    "P002",
+    "P013"
+   ],
+   "qa": "miniatura 400 px: litografia colorida, cidade e colinas, figuras; sem asas"
+  },
+  {
+   "id": "RB-MARMORTO-BM",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:The%20dead%20sea%20looking%20towards%20Moab,%20April%204th%201839%20(BM%201877,0609.224).jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20dead%20sea%20looking%20towards%20Moab%2C%20April%204th%201839%20%28BM%201877%2C0609.224%29.jpg",
+   "license_marker": "public domain",
+   "planos": [
+    "P094",
+    "P102",
+    "P113",
+    "P114"
+   ],
+   "qa": "miniatura 400 px: desenho sepia, mar e abismo, sem figuras"
+  },
+  {
+   "id": "WH-ESCAPE-BODE",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:William%20Holman%20Hunt%20-%20The%20Scapegoat.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Holman%20Hunt%20-%20The%20Scapegoat.jpg",
+   "license_marker": "public domain",
+   "planos": [
+    "P001",
+    "P003",
+    "P115"
+   ],
+   "qa": "miniatura 400 px: pintura em cor, Mar Morto/sal ao entardecer; bode domina o primeiro plano (simbolo de Lv 16): usar so janela de paisagem/ceu"
+  },
+  {
+   "id": "RB-RIJKS-TERRASANTA",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:La%20terre%20Sainte%20vues,%20cueillies%20par%20D.%20Roberto,%20litho%27s%20door%20F.%20Strobant%20(reeks),%20RP-P-1917-213.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20terre%20Sainte%20vues%2C%20cueillies%20par%20D.%20Roberto%2C%20litho%27s%20door%20F.%20Strobant%20%28reeks%29%2C%20RP-P-1917-213.jpg",
+   "license_marker": "CC0",
+   "planos": [
+    "P013"
+   ],
+   "qa": "miniatura 400 px: litografia de rochedo/vale; conteudo nao identificado"
+  }
+ ]
+}
