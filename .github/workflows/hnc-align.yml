@@ -1,0 +1,29 @@
+name: HNC alinhamento voz x roteiro (publico)
+# Transcreve os 10 trechos (faster-whisper small, CPU, gratis), alinha palavra a palavra ao texto V4g e grava voz/alinhamento.json. Nao gasta credito, nao publica.
+on:
+  push:
+    branches: ["main"]
+    paths: ["run/align.json"]
+permissions:
+  contents: write
+concurrency:
+  group: hnc-align
+  cancel-in-progress: false
+jobs:
+  align:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install --disable-pip-version-check -q pytest faster-whisper
+      - run: python -m pytest -q -p no:cacheprovider voz/test_align.py
+      - name: Alinha
+        run: |
+          python voz/align.py voz | tee /tmp/align.log
+          git config user.name "hnc-align"; git config user.email "hnc-align@users.noreply.github.com"
+          git add voz/alinhamento.json
+          git commit -q -m "HNC EP01: alinhamento voz x roteiro (palavra a palavra)"
+          for i in 1 2 3 4; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done
