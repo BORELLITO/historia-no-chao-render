@@ -1,0 +1,29 @@
+name: HNC ingest da narracao (publico)
+# Baixa 10 trechos (links assinados do ElevenLabs), mede duracao, gera versao +10% (atempo 1.10) e grava em voz/. Nao gasta credito, nao publica. Apaga o link depois.
+on:
+  push:
+    branches: ["main"]
+    paths: ["run/voz_links.json"]
+permissions:
+  contents: write
+concurrency:
+  group: hnc-voz
+  cancel-in-progress: false
+jobs:
+  ingest:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: python -m pip install --disable-pip-version-check -q pytest
+      - run: python -I -m pytest -q -p no:cacheprovider voz/test_ingest_voz.py
+      - name: Baixa, mede, acelera, grava
+        run: |
+          export FFMPEG="$(which ffmpeg)"
+          python3 -I voz/ingest_voz.py run/voz_links.json voz | tee /tmp/voz.log
+          git rm -q --ignore-unmatch run/voz_links.json
+          git config user.name "hnc-voz"; git config user.email "hnc-voz@users.noreply.github.com"
+          git add voz/orig voz/rapida voz/manifesto.json
+          git commit -q -m "HNC EP01: narracao persistida (10 trechos, orig + 1.10x), link assinado removido"
+          for i in 1 2 3 4; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done
