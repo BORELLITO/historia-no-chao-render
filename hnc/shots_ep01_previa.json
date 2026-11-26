@@ -7,39 +7,84 @@
  "karaoke": true,
  "plates": {
   "BRU-MAMRE": {
-   "box": "auto",
+   "box": [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ],
    "sepia": false
   },
   "DORE-011": {
-   "box": "auto",
+   "box": [
+    0.03,
+    0.03,
+    0.97,
+    0.97
+   ],
    "sepia": true
   },
   "DORE-012": {
-   "box": "auto",
+   "box": [
+    0.03,
+    0.03,
+    0.97,
+    0.97
+   ],
    "sepia": true
   },
   "DORE-013": {
-   "box": "auto",
+   "box": [
+    0.03,
+    0.03,
+    0.97,
+    0.97
+   ],
    "sepia": true
   },
   "DUB-SODOMA": {
-   "box": "auto",
+   "box": [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ],
    "sepia": false
   },
   "JM-SODOMA": {
-   "box": "auto",
+   "box": [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ],
    "sepia": false
   },
   "KEU-LO": {
-   "box": "auto",
+   "box": [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ],
    "sepia": false
   },
   "LAS-ABR": {
-   "box": "auto",
+   "box": [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ],
    "sepia": false
   },
   "MOS-LO": {
-   "box": "auto",
+   "box": [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ],
    "sepia": false
   },
   "NGA-DURER-FUGA": {
@@ -91,39 +136,84 @@
    "sepia": true
   },
   "RUB-LO": {
-   "box": "auto",
+   "box": [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ],
    "sepia": false
   },
   "TIS-024": {
-   "box": "auto",
+   "box": [
+    0.04,
+    0.03,
+    0.96,
+    0.97
+   ],
    "sepia": false
   },
   "TIS-028": {
-   "box": "auto",
+   "box": [
+    0.04,
+    0.03,
+    0.96,
+    0.97
+   ],
    "sepia": false
   },
   "TIS-031": {
-   "box": "auto",
+   "box": [
+    0.04,
+    0.03,
+    0.96,
+    0.97
+   ],
    "sepia": false
   },
   "TIS-034": {
-   "box": "auto",
+   "box": [
+    0.04,
+    0.03,
+    0.96,
+    0.97
+   ],
    "sepia": false
   },
   "TIS-037": {
-   "box": "auto",
+   "box": [
+    0.04,
+    0.03,
+    0.96,
+    0.97
+   ],
    "sepia": false
   },
   "TIS-038": {
-   "box": "auto",
+   "box": [
+    0.04,
+    0.03,
+    0.96,
+    0.97
+   ],
    "sepia": false
   },
   "TIS-040": {
-   "box": "auto",
+   "box": [
+    0.04,
+    0.03,
+    0.96,
+    0.97
+   ],
    "sepia": false
   },
   "TIS-048": {
-   "box": "auto",
+   "box": [
+    0.04,
+    0.03,
+    0.96,
+    0.97
+   ],
    "sepia": false
   },
   "WC-HOET-PORTA": {

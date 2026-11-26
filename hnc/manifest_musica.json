@@ -3,31 +3,40 @@
  "max_files": 4,
  "assets": [
   {
-   "id": "MUS-ARIA",
+   "id": "MUS-P8",
    "source": "wikimedia",
-   "page": "https://commons.wikimedia.org/wiki/File:Goldberg_Variations_BWV_988_01_Aria.flac",
-   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Goldberg_Variations_BWV_988_01_Aria.flac",
+   "page": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_15_Prelude_No._8_in_E-flat_minor%2C_BWV_853.ogg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_15_Prelude_No._8_in_E-flat_minor%2C_BWV_853.ogg",
    "license_marker": "CC0",
    "planos": [],
-   "qa": "Bach/Ishizaka CC0"
+   "qa": "Bach/Kimiko Ishizaka, CC0 (Open Well-Tempered Clavier)"
   },
   {
-   "id": "MUS-V13",
+   "id": "MUS-P22",
    "source": "wikimedia",
-   "page": "https://commons.wikimedia.org/wiki/File:Goldberg_Variations_BWV_988_14_Variatio_13_a_2_Clav.flac",
-   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Goldberg_Variations_BWV_988_14_Variatio_13_a_2_Clav.flac",
+   "page": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_43_Prelude_No._22_in_B-flat_minor%2C_BWV_867.ogg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_43_Prelude_No._22_in_B-flat_minor%2C_BWV_867.ogg",
    "license_marker": "CC0",
    "planos": [],
-   "qa": "Bach/Ishizaka CC0"
+   "qa": "Bach/Kimiko Ishizaka, CC0 (Open Well-Tempered Clavier)"
   },
   {
-   "id": "MUS-V25",
+   "id": "MUS-P4",
    "source": "wikimedia",
-   "page": "https://commons.wikimedia.org/wiki/File:Goldberg_Variations_BWV_988_26_Variatio_25_a_2_Clav.flac",
-   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Goldberg_Variations_BWV_988_26_Variatio_25_a_2_Clav.flac",
+   "page": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_07_Prelude_No._4_in_C-sharp_minor%2C_BWV_849.ogg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_07_Prelude_No._4_in_C-sharp_minor%2C_BWV_849.ogg",
    "license_marker": "CC0",
    "planos": [],
-   "qa": "Bach/Ishizaka CC0"
+   "qa": "Bach/Kimiko Ishizaka, CC0 (Open Well-Tempered Clavier)"
+  },
+  {
+   "id": "MUS-P24",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_47_Prelude_No._24_in_B_minor%2C_BWV_869.ogg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_47_Prelude_No._24_in_B_minor%2C_BWV_869.ogg",
+   "license_marker": "CC0",
+   "planos": [],
+   "qa": "Bach/Kimiko Ishizaka, CC0 (Open Well-Tempered Clavier)"
   }
  ]
 }

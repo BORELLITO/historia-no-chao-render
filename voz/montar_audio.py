@@ -39,8 +39,8 @@ def lufs(f):
 
 
 def mixar(voz, musica_dir, saida, dur):
-    """trilha: Aria -> Variatio 13 -> Variatio 25 (Bach/Ishizaka, CC0) em cama continua, -16 dB abaixo da voz, ducking sob a fala, fade-in 3 s / fade-out 6 s."""
-    fs = [Path(musica_dir) / (m + ".flac") for m in ("MUS-ARIA", "MUS-V13", "MUS-V25")]; fs = [f for f in fs if f.exists()]
+    """trilha: Preludios 8, 22, 4 e 24 do Cravo Bem Temperado (Bach/Ishizaka, CC0) em cama continua, -16 dB abaixo da voz, ducking sob a fala, fade-in 3 s / fade-out 6 s."""
+    fs = [Path(musica_dir) / (m + ".ogg") for m in ("MUS-P8", "MUS-P22", "MUS-P4", "MUS-P24")]; fs = [f for f in fs if f.exists()]
     if not fs: print("SEM TRILHA: arquivos ausentes"); return False
     ins = sum([["-i", str(f)] for f in fs], []); n = len(fs)
     ch = ";".join(f"[{k + 1}:a]aformat=sample_rates=44100:channel_layouts=stereo[m{k}]" for k in range(n))
