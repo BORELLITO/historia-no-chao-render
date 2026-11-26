@@ -1,0 +1,7750 @@
+{
+ "fonte_texto": "ROTEIRO V4g (texto exibido; a voz usou Mânre, Zo-ar, Ca-far-na-um)",
+ "versao_audio": "orig",
+ "trechos": {
+  "T1": {
+   "duracao_s": 29.73,
+   "inicio_global_s": 0.0,
+   "palavras": [
+    {
+     "w": "Ele",
+     "ini": 0.0,
+     "fim": 0.18,
+     "casou": true
+    },
+    {
+     "w": "acordou",
+     "ini": 0.18,
+     "fim": 0.58,
+     "casou": true
+    },
+    {
+     "w": "cedo.",
+     "ini": 0.58,
+     "fim": 1.1,
+     "casou": true
+    },
+    {
+     "w": "Foi",
+     "ini": 1.6,
+     "fim": 1.84,
+     "casou": true
+    },
+    {
+     "w": "até",
+     "ini": 1.84,
+     "fim": 2.06,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 2.06,
+     "fim": 2.14,
+     "casou": true
+    },
+    {
+     "w": "lugar",
+     "ini": 2.14,
+     "fim": 2.46,
+     "casou": true
+    },
+    {
+     "w": "onde,",
+     "ini": 2.46,
+     "fim": 2.82,
+     "casou": true
+    },
+    {
+     "w": "na",
+     "ini": 3.04,
+     "fim": 3.18,
+     "casou": true
+    },
+    {
+     "w": "véspera,",
+     "ini": 3.18,
+     "fim": 3.8,
+     "casou": true
+    },
+    {
+     "w": "tinha",
+     "ini": 3.98,
+     "fim": 4.14,
+     "casou": true
+    },
+    {
+     "w": "estado",
+     "ini": 4.14,
+     "fim": 4.56,
+     "casou": true
+    },
+    {
+     "w": "diante",
+     "ini": 4.56,
+     "fim": 4.98,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 4.98,
+     "fim": 5.18,
+     "casou": true
+    },
+    {
+     "w": "Senhor.",
+     "ini": 5.18,
+     "fim": 5.48,
+     "casou": true
+    },
+    {
+     "w": "Olhou",
+     "ini": 6.26,
+     "fim": 6.58,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 6.58,
+     "fim": 6.82,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 6.82,
+     "fim": 6.96,
+     "casou": true
+    },
+    {
+     "w": "vale.",
+     "ini": 6.96,
+     "fim": 7.24,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 8.02,
+     "fim": 8.1,
+     "casou": true
+    },
+    {
+     "w": "viu",
+     "ini": 8.1,
+     "fim": 8.26,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 8.26,
+     "fim": 8.42,
+     "casou": true
+    },
+    {
+     "w": "fumaça",
+     "ini": 8.42,
+     "fim": 8.98,
+     "casou": true
+    },
+    {
+     "w": "subindo",
+     "ini": 8.98,
+     "fim": 9.4,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 9.4,
+     "fim": 9.62,
+     "casou": true
+    },
+    {
+     "w": "terra,",
+     "ini": 9.62,
+     "fim": 10.04,
+     "casou": true
+    },
+    {
+     "w": "como",
+     "ini": 10.04,
+     "fim": 10.4,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 10.4,
+     "fim": 10.52,
+     "casou": true
+    },
+    {
+     "w": "fumaça",
+     "ini": 10.52,
+     "fim": 11.02,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 11.02,
+     "fim": 11.14,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 11.14,
+     "fim": 11.26,
+     "casou": true
+    },
+    {
+     "w": "fornalha.",
+     "ini": 11.26,
+     "fim": 11.9,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 12.7,
+     "fim": 12.78,
+     "casou": true
+    },
+    {
+     "w": "nome",
+     "ini": 12.78,
+     "fim": 12.98,
+     "casou": true
+    },
+    {
+     "w": "dele",
+     "ini": 12.98,
+     "fim": 13.34,
+     "casou": true
+    },
+    {
+     "w": "era",
+     "ini": 13.34,
+     "fim": 13.76,
+     "casou": true
+    },
+    {
+     "w": "Abraão.",
+     "ini": 13.76,
+     "fim": 14.42,
+     "casou": true
+    },
+    {
+     "w": "A",
+     "ini": 15.06,
+     "fim": 15.2,
+     "casou": true
+    },
+    {
+     "w": "cidade",
+     "ini": 15.2,
+     "fim": 15.46,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 15.46,
+     "fim": 15.84,
+     "casou": true
+    },
+    {
+     "w": "ardia",
+     "ini": 15.84,
+     "fim": 16.22,
+     "casou": true
+    },
+    {
+     "w": "lá",
+     "ini": 16.22,
+     "fim": 16.38,
+     "casou": true
+    },
+    {
+     "w": "embaixo",
+     "ini": 16.38,
+     "fim": 16.86,
+     "casou": true
+    },
+    {
+     "w": "era",
+     "ini": 16.86,
+     "fim": 17.32,
+     "casou": true
+    },
+    {
+     "w": "Sodoma.",
+     "ini": 17.32,
+     "fim": 17.92,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 18.86,
+     "fim": 18.98,
+     "casou": true
+    },
+    {
+     "w": "texto",
+     "ini": 18.98,
+     "fim": 19.22,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 19.22,
+     "fim": 19.6,
+     "casou": true
+    },
+    {
+     "w": "registra",
+     "ini": 19.6,
+     "fim": 20.26,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 20.26,
+     "fim": 20.36,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 20.36,
+     "fim": 20.46,
+     "casou": true
+    },
+    {
+     "w": "ele",
+     "ini": 20.46,
+     "fim": 20.58,
+     "casou": true
+    },
+    {
+     "w": "sentiu.",
+     "ini": 20.58,
+     "fim": 21.12,
+     "casou": true
+    },
+    {
+     "w": "Só",
+     "ini": 21.56,
+     "fim": 21.82,
+     "casou": true
+    },
+    {
+     "w": "registra",
+     "ini": 21.82,
+     "fim": 22.48,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 22.48,
+     "fim": 22.72,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 22.72,
+     "fim": 22.86,
+     "casou": true
+    },
+    {
+     "w": "ele",
+     "ini": 22.86,
+     "fim": 23.02,
+     "casou": true
+    },
+    {
+     "w": "viu.",
+     "ini": 23.02,
+     "fim": 23.34,
+     "casou": true
+    },
+    {
+     "w": "Para",
+     "ini": 23.34,
+     "fim": 24.26,
+     "casou": true
+    },
+    {
+     "w": "entender,",
+     "ini": 24.26,
+     "fim": 24.7,
+     "casou": true
+    },
+    {
+     "w": "precisamos",
+     "ini": 25.08,
+     "fim": 25.52,
+     "casou": true
+    },
+    {
+     "w": "voltar",
+     "ini": 25.52,
+     "fim": 26.0,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 26.0,
+     "fim": 26.3,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 26.3,
+     "fim": 26.42,
+     "casou": true
+    },
+    {
+     "w": "véspera.",
+     "ini": 26.42,
+     "fim": 26.98,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 26.98,
+     "fim": 27.52,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 27.52,
+     "fim": 27.7,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 27.7,
+     "fim": 27.86,
+     "casou": true
+    },
+    {
+     "w": "número",
+     "ini": 27.86,
+     "fim": 28.2,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 28.2,
+     "fim": 28.5,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 28.5,
+     "fim": 28.62,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 28.62,
+     "fim": 29.04,
+     "casou": true
+    },
+    {
+     "w": "parou.",
+     "ini": 29.04,
+     "fim": 29.4,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "Ele acordou cedo.",
+     "ini": 0.0,
+     "fim": 1.1
+    },
+    {
+     "texto": "Foi até o lugar onde, na véspera, tinha estado diante do Senhor.",
+     "ini": 1.6,
+     "fim": 5.48
+    },
+    {
+     "texto": "Olhou para o vale.",
+     "ini": 6.26,
+     "fim": 7.24
+    },
+    {
+     "texto": "E viu a fumaça subindo da terra, como a fumaça de uma fornalha.",
+     "ini": 8.02,
+     "fim": 11.9
+    },
+    {
+     "texto": "O nome dele era Abraão.",
+     "ini": 12.7,
+     "fim": 14.42
+    },
+    {
+     "texto": "A cidade que ardia lá embaixo era Sodoma.",
+     "ini": 15.06,
+     "fim": 17.92
+    },
+    {
+     "texto": "O texto não registra o que ele sentiu.",
+     "ini": 18.86,
+     "fim": 21.12
+    },
+    {
+     "texto": "Só registra o que ele viu.",
+     "ini": 21.56,
+     "fim": 23.34
+    },
+    {
+     "texto": "Para entender, precisamos voltar para a véspera.",
+     "ini": 23.34,
+     "fim": 26.98
+    },
+    {
+     "texto": "E para um número em que Abraão parou.",
+     "ini": 26.98,
+     "fim": 29.4
+    }
+   ],
+   "cobertura": 1.0,
+   "palavras_asr": 74
+  },
+  "T2": {
+   "duracao_s": 27.64,
+   "inicio_global_s": 29.73,
+   "palavras": [
+    {
+     "w": "Muita",
+     "ini": 0.0,
+     "fim": 0.3,
+     "casou": true
+    },
+    {
+     "w": "gente",
+     "ini": 0.3,
+     "fim": 0.54,
+     "casou": true
+    },
+    {
+     "w": "conhece",
+     "ini": 0.54,
+     "fim": 1.1,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 1.1,
+     "fim": 1.22,
+     "casou": true
+    },
+    {
+     "w": "final:",
+     "ini": 1.22,
+     "fim": 1.44,
+     "casou": true
+    },
+    {
+     "w": "fogo,",
+     "ini": 1.98,
+     "fim": 2.64,
+     "casou": true
+    },
+    {
+     "w": "enxofre,",
+     "ini": 2.9,
+     "fim": 3.5,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 3.82,
+     "fim": 3.98,
+     "casou": true
+    },
+    {
+     "w": "mulher",
+     "ini": 3.98,
+     "fim": 4.28,
+     "casou": true
+    },
+    {
+     "w": "virando",
+     "ini": 4.28,
+     "fim": 4.68,
+     "casou": true
+    },
+    {
+     "w": "sal.",
+     "ini": 4.68,
+     "fim": 5.02,
+     "casou": true
+    },
+    {
+     "w": "Mas",
+     "ini": 5.68,
+     "fim": 5.9,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 5.9,
+     "fim": 6.04,
+     "casou": true
+    },
+    {
+     "w": "começo",
+     "ini": 6.04,
+     "fim": 6.46,
+     "casou": true
+    },
+    {
+     "w": "costuma",
+     "ini": 6.46,
+     "fim": 7.08,
+     "casou": true
+    },
+    {
+     "w": "ficar",
+     "ini": 7.08,
+     "fim": 7.36,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 7.36,
+     "fim": 7.54,
+     "casou": true
+    },
+    {
+     "w": "fora.",
+     "ini": 7.54,
+     "fim": 7.88,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 8.56,
+     "fim": 8.7,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 8.7,
+     "fim": 8.74,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 8.74,
+     "fim": 8.84,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 8.84,
+     "fim": 8.96,
+     "casou": true
+    },
+    {
+     "w": "própria",
+     "ini": 8.96,
+     "fim": 9.24,
+     "casou": true
+    },
+    {
+     "w": "Bíblia",
+     "ini": 9.24,
+     "fim": 9.78,
+     "casou": true
+    },
+    {
+     "w": "diz,",
+     "ini": 9.78,
+     "fim": 10.12,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 10.12,
+     "fim": 10.48,
+     "casou": true
+    },
+    {
+     "w": "outro",
+     "ini": 10.48,
+     "fim": 10.76,
+     "casou": true
+    },
+    {
+     "w": "livro,",
+     "ini": 10.76,
+     "fim": 11.16,
+     "casou": true
+    },
+    {
+     "w": "sobre",
+     "ini": 11.16,
+     "fim": 11.52,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 11.52,
+     "fim": 11.64,
+     "casou": true
+    },
+    {
+     "w": "culpa",
+     "ini": 11.64,
+     "fim": 11.92,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 11.92,
+     "fim": 12.14,
+     "casou": true
+    },
+    {
+     "w": "Sodoma,",
+     "ini": 12.14,
+     "fim": 12.62,
+     "casou": true
+    },
+    {
+     "w": "também",
+     "ini": 12.62,
+     "fim": 13.2,
+     "casou": true
+    },
+    {
+     "w": "fica",
+     "ini": 13.2,
+     "fim": 13.58,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 13.58,
+     "fim": 13.72,
+     "casou": true
+    },
+    {
+     "w": "fora.",
+     "ini": 13.72,
+     "fim": 14.04,
+     "casou": true
+    },
+    {
+     "w": "No",
+     "ini": 14.78,
+     "fim": 14.96,
+     "casou": true
+    },
+    {
+     "w": "caminho,",
+     "ini": 14.96,
+     "fim": 15.28,
+     "casou": true
+    },
+    {
+     "w": "você",
+     "ini": 15.72,
+     "fim": 15.9,
+     "casou": true
+    },
+    {
+     "w": "vai",
+     "ini": 15.9,
+     "fim": 16.06,
+     "casou": true
+    },
+    {
+     "w": "ver",
+     "ini": 16.06,
+     "fim": 16.26,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 16.26,
+     "fim": 16.42,
+     "casou": true
+    },
+    {
+     "w": "homem",
+     "ini": 16.42,
+     "fim": 16.68,
+     "casou": true
+    },
+    {
+     "w": "interceder",
+     "ini": 16.68,
+     "fim": 17.54,
+     "casou": true
+    },
+    {
+     "w": "diante",
+     "ini": 17.54,
+     "fim": 17.84,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 17.84,
+     "fim": 18.06,
+     "casou": true
+    },
+    {
+     "w": "Deus,",
+     "ini": 18.06,
+     "fim": 18.36,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 18.36,
+     "fim": 18.86,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 18.86,
+     "fim": 19.02,
+     "casou": true
+    },
+    {
+     "w": "porta",
+     "ini": 19.02,
+     "fim": 19.44,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 19.44,
+     "fim": 19.66,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 19.66,
+     "fim": 19.88,
+     "casou": true
+    },
+    {
+     "w": "abria.",
+     "ini": 19.88,
+     "fim": 20.34,
+     "casou": true
+    },
+    {
+     "w": "E,",
+     "ini": 20.96,
+     "fim": 21.02,
+     "casou": true
+    },
+    {
+     "w": "no",
+     "ini": 21.02,
+     "fim": 21.12,
+     "casou": true
+    },
+    {
+     "w": "fim,",
+     "ini": 21.12,
+     "fim": 21.34,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 21.76,
+     "fim": 21.94,
+     "casou": true
+    },
+    {
+     "w": "resposta",
+     "ini": 21.94,
+     "fim": 22.46,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 22.46,
+     "fim": 22.72,
+     "casou": true
+    },
+    {
+     "w": "raramente",
+     "ini": 22.72,
+     "fim": 23.42,
+     "casou": true
+    },
+    {
+     "w": "cabe",
+     "ini": 23.42,
+     "fim": 23.78,
+     "casou": true
+    },
+    {
+     "w": "numa",
+     "ini": 23.96,
+     "fim": 24.1,
+     "casou": true
+    },
+    {
+     "w": "frase",
+     "ini": 24.1,
+     "fim": 24.42,
+     "casou": true
+    },
+    {
+     "w": "só.",
+     "ini": 24.42,
+     "fim": 24.7,
+     "casou": true
+    },
+    {
+     "w": "Tudo",
+     "ini": 24.7,
+     "fim": 25.62,
+     "casou": true
+    },
+    {
+     "w": "começa",
+     "ini": 25.62,
+     "fim": 26.18,
+     "casou": true
+    },
+    {
+     "w": "com",
+     "ini": 26.18,
+     "fim": 26.54,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 26.54,
+     "fim": 26.72,
+     "casou": true
+    },
+    {
+     "w": "refeição.",
+     "ini": 26.72,
+     "fim": 27.32,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "Muita gente conhece o final:",
+     "ini": 0.0,
+     "fim": 1.44
+    },
+    {
+     "texto": "fogo, enxofre, uma mulher virando sal.",
+     "ini": 1.98,
+     "fim": 5.02
+    },
+    {
+     "texto": "Mas o começo costuma ficar de fora.",
+     "ini": 5.68,
+     "fim": 7.88
+    },
+    {
+     "texto": "E o que a própria Bíblia diz, em outro livro, sobre a culpa de Sodoma, também fica de fora.",
+     "ini": 8.56,
+     "fim": 14.04
+    },
+    {
+     "texto": "No caminho, você vai ver um homem interceder diante de Deus, e uma porta que não abria.",
+     "ini": 14.78,
+     "fim": 20.34
+    },
+    {
+     "texto": "E, no fim, uma resposta que raramente cabe numa frase só.",
+     "ini": 20.96,
+     "fim": 24.7
+    },
+    {
+     "texto": "Tudo começa com uma refeição.",
+     "ini": 24.7,
+     "fim": 27.32
+    }
+   ],
+   "cobertura": 1.0,
+   "palavras_asr": 71
+  },
+  "T3": {
+   "duracao_s": 44.59,
+   "inicio_global_s": 57.37,
+   "palavras": [
+    {
+     "w": "No",
+     "ini": 0.0,
+     "fim": 0.18,
+     "casou": true
+    },
+    {
+     "w": "calor",
+     "ini": 0.18,
+     "fim": 0.46,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 0.46,
+     "fim": 0.68,
+     "casou": true
+    },
+    {
+     "w": "dia,",
+     "ini": 0.68,
+     "fim": 1.06,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 1.42,
+     "fim": 1.46,
+     "casou": true
+    },
+    {
+     "w": "Manre,",
+     "ini": 1.46,
+     "fim": 1.9,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 2.36,
+     "fim": 2.42,
+     "casou": true
+    },
+    {
+     "w": "Senhor",
+     "ini": 2.42,
+     "fim": 2.72,
+     "casou": true
+    },
+    {
+     "w": "aparece",
+     "ini": 2.72,
+     "fim": 3.34,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 3.34,
+     "fim": 3.54,
+     "casou": true
+    },
+    {
+     "w": "Abraão.",
+     "ini": 3.54,
+     "fim": 3.98,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 4.62,
+     "fim": 4.78,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 4.78,
+     "fim": 4.86,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 4.86,
+     "fim": 4.92,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 4.92,
+     "fim": 5.26,
+     "casou": true
+    },
+    {
+     "w": "vê",
+     "ini": 5.26,
+     "fim": 5.56,
+     "casou": true
+    },
+    {
+     "w": "são",
+     "ini": 5.56,
+     "fim": 5.88,
+     "casou": true
+    },
+    {
+     "w": "três",
+     "ini": 5.88,
+     "fim": 6.26,
+     "casou": true
+    },
+    {
+     "w": "homens,",
+     "ini": 6.26,
+     "fim": 6.82,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 6.82,
+     "fim": 7.22,
+     "casou": true
+    },
+    {
+     "w": "pé,",
+     "ini": 7.22,
+     "fim": 7.54,
+     "casou": true
+    },
+    {
+     "w": "diante",
+     "ini": 7.54,
+     "fim": 8.16,
+     "casou": true
+    },
+    {
+     "w": "dele.",
+     "ini": 8.16,
+     "fim": 8.5,
+     "casou": true
+    },
+    {
+     "w": "Abraão,",
+     "ini": 9.24,
+     "fim": 9.88,
+     "casou": true
+    },
+    {
+     "w": "já",
+     "ini": 10.06,
+     "fim": 10.34,
+     "casou": true
+    },
+    {
+     "w": "idoso,",
+     "ini": 10.34,
+     "fim": 10.82,
+     "casou": true
+    },
+    {
+     "w": "corre",
+     "ini": 11.22,
+     "fim": 11.46,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 11.46,
+     "fim": 11.6,
+     "casou": true
+    },
+    {
+     "w": "encontro",
+     "ini": 11.6,
+     "fim": 12.02,
+     "casou": true
+    },
+    {
+     "w": "deles.",
+     "ini": 12.02,
+     "fim": 12.34,
+     "casou": true
+    },
+    {
+     "w": "Curva-se",
+     "ini": 13.08,
+     "fim": 13.44,
+     "casou": true
+    },
+    {
+     "w": "até",
+     "ini": 13.62,
+     "fim": 13.84,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 13.84,
+     "fim": 13.96,
+     "casou": true
+    },
+    {
+     "w": "chão.",
+     "ini": 13.96,
+     "fim": 14.26,
+     "casou": true
+    },
+    {
+     "w": "Pede",
+     "ini": 14.9,
+     "fim": 15.06,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 15.06,
+     "fim": 15.22,
+     "casou": true
+    },
+    {
+     "w": "fiquem.",
+     "ini": 15.22,
+     "fim": 15.7,
+     "casou": true
+    },
+    {
+     "w": "Manda",
+     "ini": 16.4,
+     "fim": 16.7,
+     "casou": true
+    },
+    {
+     "w": "assar",
+     "ini": 16.76,
+     "fim": 16.82,
+     "casou": false
+    },
+    {
+     "w": "pão,",
+     "ini": 16.82,
+     "fim": 17.36,
+     "casou": true
+    },
+    {
+     "w": "escolhe",
+     "ini": 17.76,
+     "fim": 18.18,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 18.18,
+     "fim": 18.26,
+     "casou": true
+    },
+    {
+     "w": "novilho,",
+     "ini": 18.26,
+     "fim": 18.82,
+     "casou": true
+    },
+    {
+     "w": "serve",
+     "ini": 19.14,
+     "fim": 19.46,
+     "casou": true
+    },
+    {
+     "w": "coalhada",
+     "ini": 19.72,
+     "fim": 20.12,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 20.12,
+     "fim": 20.28,
+     "casou": true
+    },
+    {
+     "w": "leite,",
+     "ini": 20.28,
+     "fim": 20.64,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 20.64,
+     "fim": 21.16,
+     "casou": true
+    },
+    {
+     "w": "fica",
+     "ini": 21.16,
+     "fim": 21.38,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 21.38,
+     "fim": 21.52,
+     "casou": true
+    },
+    {
+     "w": "pé",
+     "ini": 21.52,
+     "fim": 21.84,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 21.84,
+     "fim": 22.02,
+     "casou": true
+    },
+    {
+     "w": "lado",
+     "ini": 22.02,
+     "fim": 22.2,
+     "casou": true
+    },
+    {
+     "w": "deles,",
+     "ini": 22.2,
+     "fim": 22.62,
+     "casou": true
+    },
+    {
+     "w": "enquanto",
+     "ini": 22.62,
+     "fim": 23.06,
+     "casou": true
+    },
+    {
+     "w": "comem.",
+     "ini": 23.06,
+     "fim": 23.6,
+     "casou": true
+    },
+    {
+     "w": "Para",
+     "ini": 24.12,
+     "fim": 24.34,
+     "casou": true
+    },
+    {
+     "w": "estranhos.",
+     "ini": 24.34,
+     "fim": 25.04,
+     "casou": true
+    },
+    {
+     "w": "Compare",
+     "ini": 25.6,
+     "fim": 26.06,
+     "casou": true
+    },
+    {
+     "w": "isso",
+     "ini": 26.06,
+     "fim": 26.38,
+     "casou": true
+    },
+    {
+     "w": "com",
+     "ini": 26.38,
+     "fim": 26.58,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 26.58,
+     "fim": 26.66,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 26.66,
+     "fim": 26.74,
+     "casou": true
+    },
+    {
+     "w": "vem",
+     "ini": 26.74,
+     "fim": 26.92,
+     "casou": true
+    },
+    {
+     "w": "depois.",
+     "ini": 26.92,
+     "fim": 27.28,
+     "casou": true
+    },
+    {
+     "w": "Um",
+     "ini": 28.04,
+     "fim": 28.36,
+     "casou": true
+    },
+    {
+     "w": "deles",
+     "ini": 28.36,
+     "fim": 28.68,
+     "casou": true
+    },
+    {
+     "w": "diz",
+     "ini": 28.68,
+     "fim": 29.02,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 29.02,
+     "fim": 29.24,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 29.24,
+     "fim": 29.62,
+     "casou": true
+    },
+    {
+     "w": "que,",
+     "ini": 29.62,
+     "fim": 29.92,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 30.24,
+     "fim": 30.26,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 30.26,
+     "fim": 30.48,
+     "casou": true
+    },
+    {
+     "w": "ano,",
+     "ini": 30.48,
+     "fim": 30.76,
+     "casou": true
+    },
+    {
+     "w": "Sara",
+     "ini": 31.16,
+     "fim": 31.32,
+     "casou": true
+    },
+    {
+     "w": "terá",
+     "ini": 31.32,
+     "fim": 31.68,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 31.68,
+     "fim": 31.78,
+     "casou": true
+    },
+    {
+     "w": "filho.",
+     "ini": 31.78,
+     "fim": 32.12,
+     "casou": true
+    },
+    {
+     "w": "Sara,",
+     "ini": 32.82,
+     "fim": 33.26,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 33.48,
+     "fim": 33.58,
+     "casou": true
+    },
+    {
+     "w": "ouvia",
+     "ini": 33.58,
+     "fim": 33.94,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 33.94,
+     "fim": 34.08,
+     "casou": true
+    },
+    {
+     "w": "entrada",
+     "ini": 34.08,
+     "fim": 34.42,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 34.42,
+     "fim": 34.62,
+     "casou": true
+    },
+    {
+     "w": "tenda,",
+     "ini": 34.62,
+     "fim": 35.06,
+     "casou": true
+    },
+    {
+     "w": "ri",
+     "ini": 35.34,
+     "fim": 35.52,
+     "casou": true
+    },
+    {
+     "w": "consigo",
+     "ini": 35.52,
+     "fim": 35.86,
+     "casou": true
+    },
+    {
+     "w": "mesma.",
+     "ini": 35.86,
+     "fim": 36.26,
+     "casou": true
+    },
+    {
+     "w": "Então",
+     "ini": 37.12,
+     "fim": 37.44,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 37.58,
+     "fim": 37.7,
+     "casou": true
+    },
+    {
+     "w": "homens",
+     "ini": 37.7,
+     "fim": 37.94,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 37.94,
+     "fim": 38.1,
+     "casou": true
+    },
+    {
+     "w": "levantam,",
+     "ini": 38.1,
+     "fim": 38.66,
+     "casou": true
+    },
+    {
+     "w": "olham",
+     "ini": 38.94,
+     "fim": 39.28,
+     "casou": true
+    },
+    {
+     "w": "na",
+     "ini": 39.28,
+     "fim": 39.42,
+     "casou": true
+    },
+    {
+     "w": "direção",
+     "ini": 39.42,
+     "fim": 39.84,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 39.84,
+     "fim": 40.0,
+     "casou": true
+    },
+    {
+     "w": "Sodoma,",
+     "ini": 40.0,
+     "fim": 40.56,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 41.06,
+     "fim": 41.08,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 41.08,
+     "fim": 41.16,
+     "casou": true
+    },
+    {
+     "w": "Senhor",
+     "ini": 41.16,
+     "fim": 41.4,
+     "casou": true
+    },
+    {
+     "w": "decide",
+     "ini": 41.4,
+     "fim": 41.9,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 41.9,
+     "fim": 42.28,
+     "casou": true
+    },
+    {
+     "w": "esconder",
+     "ini": 42.28,
+     "fim": 42.82,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 42.82,
+     "fim": 42.98,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 42.98,
+     "fim": 43.44,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 43.44,
+     "fim": 43.6,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 43.6,
+     "fim": 43.7,
+     "casou": true
+    },
+    {
+     "w": "vai",
+     "ini": 43.7,
+     "fim": 43.88,
+     "casou": true
+    },
+    {
+     "w": "fazer.",
+     "ini": 43.88,
+     "fim": 44.22,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "No calor do dia, em Manre, o Senhor aparece a Abraão.",
+     "ini": 0.0,
+     "fim": 3.98
+    },
+    {
+     "texto": "E o que Abraão vê são três homens, de pé, diante dele.",
+     "ini": 4.62,
+     "fim": 8.5
+    },
+    {
+     "texto": "Abraão, já idoso, corre ao encontro deles.",
+     "ini": 9.24,
+     "fim": 12.34
+    },
+    {
+     "texto": "Curva-se até o chão.",
+     "ini": 13.08,
+     "fim": 14.26
+    },
+    {
+     "texto": "Pede que fiquem.",
+     "ini": 14.9,
+     "fim": 15.7
+    },
+    {
+     "texto": "Manda assar pão, escolhe um novilho, serve coalhada e leite, e fica de pé ao lado deles, enquanto comem.",
+     "ini": 16.4,
+     "fim": 23.6
+    },
+    {
+     "texto": "Para estranhos.",
+     "ini": 24.12,
+     "fim": 25.04
+    },
+    {
+     "texto": "Compare isso com o que vem depois.",
+     "ini": 25.6,
+     "fim": 27.28
+    },
+    {
+     "texto": "Um deles diz a Abraão que, em um ano, Sara terá um filho.",
+     "ini": 28.04,
+     "fim": 32.12
+    },
+    {
+     "texto": "Sara, que ouvia da entrada da tenda, ri consigo mesma.",
+     "ini": 32.82,
+     "fim": 36.26
+    },
+    {
+     "texto": "Então os homens se levantam, olham na direção de Sodoma, e o Senhor decide não esconder de Abraão o que vai fazer.",
+     "ini": 37.12,
+     "fim": 44.22
+    }
+   ],
+   "cobertura": 0.991,
+   "palavras_asr": 112
+  },
+  "T4a": {
+   "duracao_s": 47.8,
+   "inicio_global_s": 101.96,
+   "palavras": [
+    {
+     "w": "O",
+     "ini": 0.0,
+     "fim": 0.12,
+     "casou": true
+    },
+    {
+     "w": "Senhor",
+     "ini": 0.12,
+     "fim": 0.36,
+     "casou": true
+    },
+    {
+     "w": "diz",
+     "ini": 0.36,
+     "fim": 0.78,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 0.78,
+     "fim": 0.98,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 0.98,
+     "fim": 1.08,
+     "casou": true
+    },
+    {
+     "w": "clamor",
+     "ini": 1.08,
+     "fim": 1.52,
+     "casou": true
+    },
+    {
+     "w": "contra",
+     "ini": 1.52,
+     "fim": 1.8,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 1.8,
+     "fim": 2.38,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 2.38,
+     "fim": 2.5,
+     "casou": true
+    },
+    {
+     "w": "Gomorra",
+     "ini": 2.5,
+     "fim": 2.94,
+     "casou": true
+    },
+    {
+     "w": "cresceu,",
+     "ini": 2.94,
+     "fim": 3.56,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 3.92,
+     "fim": 4.12,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 4.12,
+     "fim": 4.2,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 4.2,
+     "fim": 4.32,
+     "casou": true
+    },
+    {
+     "w": "pecado",
+     "ini": 4.32,
+     "fim": 4.68,
+     "casou": true
+    },
+    {
+     "w": "delas",
+     "ini": 4.68,
+     "fim": 5.2,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 5.2,
+     "fim": 5.42,
+     "casou": true
+    },
+    {
+     "w": "muito",
+     "ini": 5.42,
+     "fim": 5.78,
+     "casou": true
+    },
+    {
+     "w": "grave.",
+     "ini": 5.78,
+     "fim": 6.18,
+     "casou": true
+    },
+    {
+     "w": "Vai",
+     "ini": 6.86,
+     "fim": 7.08,
+     "casou": true
+    },
+    {
+     "w": "descer",
+     "ini": 7.08,
+     "fim": 7.46,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 7.46,
+     "fim": 7.66,
+     "casou": true
+    },
+    {
+     "w": "ver.",
+     "ini": 7.66,
+     "fim": 7.94,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 8.64,
+     "fim": 8.76,
+     "casou": true
+    },
+    {
+     "w": "texto",
+     "ini": 8.76,
+     "fim": 8.96,
+     "casou": true
+    },
+    {
+     "w": "fala",
+     "ini": 8.96,
+     "fim": 9.4,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 9.4,
+     "fim": 9.6,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 9.6,
+     "fim": 9.68,
+     "casou": true
+    },
+    {
+     "w": "clamor,",
+     "ini": 9.68,
+     "fim": 10.3,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 10.66,
+     "fim": 10.86,
+     "casou": true
+    },
+    {
+     "w": "esse",
+     "ini": 10.86,
+     "fim": 11.02,
+     "casou": true
+    },
+    {
+     "w": "clamor",
+     "ini": 11.02,
+     "fim": 11.52,
+     "casou": true
+    },
+    {
+     "w": "chegou",
+     "ini": 11.52,
+     "fim": 11.86,
+     "casou": true
+    },
+    {
+     "w": "até",
+     "ini": 11.86,
+     "fim": 12.22,
+     "casou": true
+    },
+    {
+     "w": "Deus.",
+     "ini": 12.22,
+     "fim": 12.52,
+     "casou": true
+    },
+    {
+     "w": "Dois",
+     "ini": 13.3,
+     "fim": 13.7,
+     "casou": true
+    },
+    {
+     "w": "dos",
+     "ini": 13.7,
+     "fim": 13.84,
+     "casou": true
+    },
+    {
+     "w": "homens",
+     "ini": 13.84,
+     "fim": 14.26,
+     "casou": true
+    },
+    {
+     "w": "seguem",
+     "ini": 14.26,
+     "fim": 14.72,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 14.72,
+     "fim": 14.94,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 14.94,
+     "fim": 15.02,
+     "casou": true
+    },
+    {
+     "w": "cidade.",
+     "ini": 15.02,
+     "fim": 15.3,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 15.98,
+     "fim": 16.28,
+     "casou": true
+    },
+    {
+     "w": "fica.",
+     "ini": 16.28,
+     "fim": 16.78,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 16.78,
+     "fim": 17.46,
+     "casou": true
+    },
+    {
+     "w": "faz",
+     "ini": 17.46,
+     "fim": 17.66,
+     "casou": true
+    },
+    {
+     "w": "algo",
+     "ini": 17.66,
+     "fim": 18.0,
+     "casou": true
+    },
+    {
+     "w": "inesperado",
+     "ini": 18.0,
+     "fim": 19.0,
+     "casou": true
+    },
+    {
+     "w": "diante",
+     "ini": 19.0,
+     "fim": 19.38,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 19.38,
+     "fim": 19.56,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 19.56,
+     "fim": 19.66,
+     "casou": true
+    },
+    {
+     "w": "sentença:",
+     "ini": 19.66,
+     "fim": 20.28,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 20.8,
+     "fim": 21.06,
+     "casou": true
+    },
+    {
+     "w": "aproxima.",
+     "ini": 21.06,
+     "fim": 21.72,
+     "casou": true
+    },
+    {
+     "w": "Ele",
+     "ini": 22.3,
+     "fim": 22.54,
+     "casou": true
+    },
+    {
+     "w": "pergunta:",
+     "ini": 22.54,
+     "fim": 22.92,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 23.66,
+     "fim": 23.8,
+     "casou": true
+    },
+    {
+     "w": "Juiz",
+     "ini": 23.8,
+     "fim": 24.08,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 24.08,
+     "fim": 24.26,
+     "casou": true
+    },
+    {
+     "w": "toda",
+     "ini": 24.26,
+     "fim": 24.52,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 24.52,
+     "fim": 24.72,
+     "casou": true
+    },
+    {
+     "w": "terra",
+     "ini": 24.72,
+     "fim": 25.06,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 25.06,
+     "fim": 25.28,
+     "casou": true
+    },
+    {
+     "w": "faria",
+     "ini": 25.28,
+     "fim": 25.6,
+     "casou": true
+    },
+    {
+     "w": "justiça?",
+     "ini": 25.6,
+     "fim": 26.24,
+     "casou": true
+    },
+    {
+     "w": "Destruiria",
+     "ini": 26.78,
+     "fim": 27.46,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 27.46,
+     "fim": 27.58,
+     "casou": true
+    },
+    {
+     "w": "justo",
+     "ini": 27.58,
+     "fim": 27.96,
+     "casou": true
+    },
+    {
+     "w": "junto",
+     "ini": 27.96,
+     "fim": 28.36,
+     "casou": true
+    },
+    {
+     "w": "com",
+     "ini": 28.36,
+     "fim": 28.66,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 28.66,
+     "fim": 28.78,
+     "casou": true
+    },
+    {
+     "w": "ímpio?",
+     "ini": 28.78,
+     "fim": 29.06,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 29.06,
+     "fim": 29.78,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 29.78,
+     "fim": 29.9,
+     "casou": true
+    },
+    {
+     "w": "houver",
+     "ini": 29.9,
+     "fim": 30.18,
+     "casou": true
+    },
+    {
+     "w": "cinquenta",
+     "ini": 30.18,
+     "fim": 30.8,
+     "casou": true
+    },
+    {
+     "w": "justos?",
+     "ini": 30.8,
+     "fim": 31.4,
+     "casou": true
+    },
+    {
+     "w": "Deus",
+     "ini": 31.98,
+     "fim": 32.24,
+     "casou": true
+    },
+    {
+     "w": "responde:",
+     "ini": 32.24,
+     "fim": 33.22,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 33.28,
+     "fim": 33.58,
+     "casou": true
+    },
+    {
+     "w": "causa",
+     "ini": 33.58,
+     "fim": 33.84,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 33.84,
+     "fim": 34.08,
+     "casou": true
+    },
+    {
+     "w": "cinquenta,",
+     "ini": 34.08,
+     "fim": 34.74,
+     "casou": true
+    },
+    {
+     "w": "pouparia",
+     "ini": 35.08,
+     "fim": 35.52,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 35.52,
+     "fim": 35.68,
+     "casou": true
+    },
+    {
+     "w": "cidade",
+     "ini": 35.68,
+     "fim": 35.9,
+     "casou": true
+    },
+    {
+     "w": "inteira.",
+     "ini": 35.9,
+     "fim": 36.62,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 37.24,
+     "fim": 37.6,
+     "casou": true
+    },
+    {
+     "w": "insiste.",
+     "ini": 37.6,
+     "fim": 38.32,
+     "casou": true
+    },
+    {
+     "w": "Quarenta",
+     "ini": 38.84,
+     "fim": 39.26,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 39.26,
+     "fim": 39.28,
+     "casou": true
+    },
+    {
+     "w": "cinco.",
+     "ini": 39.28,
+     "fim": 39.72,
+     "casou": true
+    },
+    {
+     "w": "Quarenta.",
+     "ini": 40.14,
+     "fim": 40.82,
+     "casou": true
+    },
+    {
+     "w": "Trinta.",
+     "ini": 41.3,
+     "fim": 41.66,
+     "casou": true
+    },
+    {
+     "w": "Vinte.",
+     "ini": 42.28,
+     "fim": 42.68,
+     "casou": true
+    },
+    {
+     "w": "Cada",
+     "ini": 43.24,
+     "fim": 43.38,
+     "casou": true
+    },
+    {
+     "w": "vez",
+     "ini": 43.38,
+     "fim": 43.72,
+     "casou": true
+    },
+    {
+     "w": "mais",
+     "ini": 43.72,
+     "fim": 43.96,
+     "casou": true
+    },
+    {
+     "w": "baixo,",
+     "ini": 43.96,
+     "fim": 44.48,
+     "casou": true
+    },
+    {
+     "w": "pedindo",
+     "ini": 44.76,
+     "fim": 45.08,
+     "casou": true
+    },
+    {
+     "w": "licença",
+     "ini": 45.08,
+     "fim": 45.64,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 45.64,
+     "fim": 45.86,
+     "casou": true
+    },
+    {
+     "w": "continuar.",
+     "ini": 45.86,
+     "fim": 46.32,
+     "casou": true
+    },
+    {
+     "w": "Dez.",
+     "ini": 46.32,
+     "fim": 46.37,
+     "casou": false
+    }
+   ],
+   "frases": [
+    {
+     "texto": "O Senhor diz que o clamor contra Sodoma e Gomorra cresceu, e que o pecado delas é muito grave.",
+     "ini": 0.0,
+     "fim": 6.18
+    },
+    {
+     "texto": "Vai descer para ver.",
+     "ini": 6.86,
+     "fim": 7.94
+    },
+    {
+     "texto": "O texto fala de um clamor, e esse clamor chegou até Deus.",
+     "ini": 8.64,
+     "fim": 12.52
+    },
+    {
+     "texto": "Dois dos homens seguem para a cidade.",
+     "ini": 13.3,
+     "fim": 15.3
+    },
+    {
+     "texto": "Abraão fica.",
+     "ini": 15.98,
+     "fim": 16.78
+    },
+    {
+     "texto": "E faz algo inesperado diante de uma sentença:",
+     "ini": 16.78,
+     "fim": 20.28
+    },
+    {
+     "texto": "se aproxima.",
+     "ini": 20.8,
+     "fim": 21.72
+    },
+    {
+     "texto": "Ele pergunta:",
+     "ini": 22.3,
+     "fim": 22.92
+    },
+    {
+     "texto": "o Juiz de toda a terra não faria justiça?",
+     "ini": 23.66,
+     "fim": 26.24
+    },
+    {
+     "texto": "Destruiria o justo junto com o ímpio?",
+     "ini": 26.78,
+     "fim": 29.06
+    },
+    {
+     "texto": "E se houver cinquenta justos?",
+     "ini": 29.06,
+     "fim": 31.4
+    },
+    {
+     "texto": "Deus responde:",
+     "ini": 31.98,
+     "fim": 33.22
+    },
+    {
+     "texto": "por causa de cinquenta, pouparia a cidade inteira.",
+     "ini": 33.28,
+     "fim": 36.62
+    },
+    {
+     "texto": "Abraão insiste.",
+     "ini": 37.24,
+     "fim": 38.32
+    },
+    {
+     "texto": "Quarenta e cinco.",
+     "ini": 38.84,
+     "fim": 39.72
+    },
+    {
+     "texto": "Quarenta.",
+     "ini": 40.14,
+     "fim": 40.82
+    },
+    {
+     "texto": "Trinta.",
+     "ini": 41.3,
+     "fim": 41.66
+    },
+    {
+     "texto": "Vinte.",
+     "ini": 42.28,
+     "fim": 42.68
+    },
+    {
+     "texto": "Cada vez mais baixo, pedindo licença para continuar.",
+     "ini": 43.24,
+     "fim": 46.32
+    },
+    {
+     "texto": "Dez.",
+     "ini": 46.32,
+     "fim": 46.37
+    }
+   ],
+   "cobertura": 0.99,
+   "palavras_asr": 104
+  },
+  "T4b": {
+   "duracao_s": 18.36,
+   "inicio_global_s": 149.76,
+   "palavras": [
+    {
+     "w": "E",
+     "ini": 0.0,
+     "fim": 0.14,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 0.14,
+     "fim": 0.22,
+     "casou": true
+    },
+    {
+     "w": "conversa",
+     "ini": 0.22,
+     "fim": 0.74,
+     "casou": true
+    },
+    {
+     "w": "termina.",
+     "ini": 0.74,
+     "fim": 1.28,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 1.84,
+     "fim": 1.94,
+     "casou": true
+    },
+    {
+     "w": "relato",
+     "ini": 1.94,
+     "fim": 2.26,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 2.26,
+     "fim": 2.44,
+     "casou": true
+    },
+    {
+     "w": "diz",
+     "ini": 2.44,
+     "fim": 2.76,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 2.76,
+     "fim": 3.04,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 3.04,
+     "fim": 3.34,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 3.34,
+     "fim": 3.8,
+     "casou": true
+    },
+    {
+     "w": "parou",
+     "ini": 3.8,
+     "fim": 4.12,
+     "casou": true
+    },
+    {
+     "w": "no",
+     "ini": 4.12,
+     "fim": 4.22,
+     "casou": true
+    },
+    {
+     "w": "dez.",
+     "ini": 4.74,
+     "fim": 5.26,
+     "casou": false
+    },
+    {
+     "w": "Só",
+     "ini": 5.26,
+     "fim": 5.42,
+     "casou": true
+    },
+    {
+     "w": "diz",
+     "ini": 5.42,
+     "fim": 5.64,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 5.64,
+     "fim": 5.78,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 5.78,
+     "fim": 5.88,
+     "casou": true
+    },
+    {
+     "w": "Senhor",
+     "ini": 5.88,
+     "fim": 6.14,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 6.14,
+     "fim": 6.38,
+     "casou": true
+    },
+    {
+     "w": "retira,",
+     "ini": 6.38,
+     "fim": 6.9,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 7.26,
+     "fim": 7.4,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 7.4,
+     "fim": 7.82,
+     "casou": true
+    },
+    {
+     "w": "volta",
+     "ini": 7.82,
+     "fim": 8.26,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 8.26,
+     "fim": 8.5,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 8.5,
+     "fim": 8.6,
+     "casou": true
+    },
+    {
+     "w": "seu",
+     "ini": 8.6,
+     "fim": 8.7,
+     "casou": true
+    },
+    {
+     "w": "lugar.",
+     "ini": 8.7,
+     "fim": 9.04,
+     "casou": true
+    },
+    {
+     "w": "Em",
+     "ini": 9.76,
+     "fim": 9.88,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 9.88,
+     "fim": 10.44,
+     "casou": true
+    },
+    {
+     "w": "morava",
+     "ini": 10.44,
+     "fim": 10.86,
+     "casou": true
+    },
+    {
+     "w": "Ló,",
+     "ini": 10.86,
+     "fim": 11.2,
+     "casou": true
+    },
+    {
+     "w": "sobrinho",
+     "ini": 11.48,
+     "fim": 11.9,
+     "casou": true
+    },
+    {
+     "w": "dele.",
+     "ini": 11.9,
+     "fim": 12.18,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 12.78,
+     "fim": 12.88,
+     "casou": true
+    },
+    {
+     "w": "texto",
+     "ini": 12.88,
+     "fim": 13.1,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 13.1,
+     "fim": 13.4,
+     "casou": true
+    },
+    {
+     "w": "diz",
+     "ini": 13.4,
+     "fim": 13.74,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 13.74,
+     "fim": 13.98,
+     "casou": true
+    },
+    {
+     "w": "era",
+     "ini": 13.98,
+     "fim": 14.14,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 14.14,
+     "fim": 14.28,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 14.28,
+     "fim": 14.6,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 14.6,
+     "fim": 14.74,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 14.74,
+     "fim": 15.1,
+     "casou": true
+    },
+    {
+     "w": "pensava.",
+     "ini": 15.1,
+     "fim": 15.72,
+     "casou": true
+    },
+    {
+     "w": "Mas",
+     "ini": 16.3,
+     "fim": 16.46,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 16.46,
+     "fim": 16.58,
+     "casou": true
+    },
+    {
+     "w": "difícil",
+     "ini": 16.58,
+     "fim": 17.02,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 17.02,
+     "fim": 17.3,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 17.3,
+     "fim": 17.44,
+     "casou": true
+    },
+    {
+     "w": "perguntar.",
+     "ini": 17.44,
+     "fim": 18.02,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "E a conversa termina.",
+     "ini": 0.0,
+     "fim": 1.28
+    },
+    {
+     "texto": "O relato não diz por que Abraão parou no dez.",
+     "ini": 1.84,
+     "fim": 5.26
+    },
+    {
+     "texto": "Só diz que o Senhor se retira, e Abraão volta para o seu lugar.",
+     "ini": 5.26,
+     "fim": 9.04
+    },
+    {
+     "texto": "Em Sodoma morava Ló, sobrinho dele.",
+     "ini": 9.76,
+     "fim": 12.18
+    },
+    {
+     "texto": "O texto não diz que era em Ló que Abraão pensava.",
+     "ini": 12.78,
+     "fim": 15.72
+    },
+    {
+     "texto": "Mas é difícil não se perguntar.",
+     "ini": 16.3,
+     "fim": 18.02
+    }
+   ],
+   "cobertura": 0.98,
+   "palavras_asr": 51
+  },
+  "T5": {
+   "duracao_s": 70.69,
+   "inicio_global_s": 168.12,
+   "palavras": [
+    {
+     "w": "Ao",
+     "ini": 0.0,
+     "fim": 0.16,
+     "casou": true
+    },
+    {
+     "w": "anoitecer,",
+     "ini": 0.16,
+     "fim": 0.82,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 1.14,
+     "fim": 1.3,
+     "casou": true
+    },
+    {
+     "w": "dois",
+     "ini": 1.3,
+     "fim": 1.5,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 1.5,
+     "fim": 1.68,
+     "casou": true
+    },
+    {
+     "w": "partiram",
+     "ini": 1.68,
+     "fim": 2.2,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 2.2,
+     "fim": 2.34,
+     "casou": true
+    },
+    {
+     "w": "Manre",
+     "ini": 2.34,
+     "fim": 2.76,
+     "casou": true
+    },
+    {
+     "w": "chegam",
+     "ini": 2.76,
+     "fim": 3.24,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 3.24,
+     "fim": 3.4,
+     "casou": true
+    },
+    {
+     "w": "Sodoma.",
+     "ini": 3.4,
+     "fim": 3.9,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 4.5,
+     "fim": 4.62,
+     "casou": true
+    },
+    {
+     "w": "texto",
+     "ini": 4.62,
+     "fim": 4.84,
+     "casou": true
+    },
+    {
+     "w": "agora",
+     "ini": 4.84,
+     "fim": 5.3,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 5.3,
+     "fim": 5.54,
+     "casou": true
+    },
+    {
+     "w": "chama",
+     "ini": 5.54,
+     "fim": 5.78,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 5.78,
+     "fim": 5.96,
+     "casou": true
+    },
+    {
+     "w": "anjos.",
+     "ini": 5.96,
+     "fim": 6.46,
+     "casou": true
+    },
+    {
+     "w": "Ló,",
+     "ini": 7.24,
+     "fim": 7.48,
+     "casou": true
+    },
+    {
+     "w": "sentado",
+     "ini": 7.72,
+     "fim": 8.24,
+     "casou": true
+    },
+    {
+     "w": "à",
+     "ini": 8.24,
+     "fim": 8.38,
+     "casou": true
+    },
+    {
+     "w": "porta",
+     "ini": 8.38,
+     "fim": 8.62,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 8.62,
+     "fim": 8.82,
+     "casou": true
+    },
+    {
+     "w": "cidade,",
+     "ini": 8.82,
+     "fim": 9.2,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 9.58,
+     "fim": 9.74,
+     "casou": true
+    },
+    {
+     "w": "levanta,",
+     "ini": 9.74,
+     "fim": 10.28,
+     "casou": true
+    },
+    {
+     "w": "curva-se",
+     "ini": 10.6,
+     "fim": 10.92,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 11.12,
+     "fim": 11.44,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 11.44,
+     "fim": 11.56,
+     "casou": true
+    },
+    {
+     "w": "convida",
+     "ini": 11.56,
+     "fim": 12.0,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 12.0,
+     "fim": 12.22,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 12.22,
+     "fim": 12.27,
+     "casou": false
+    },
+    {
+     "w": "sua",
+     "ini": 12.22,
+     "fim": 12.44,
+     "casou": true
+    },
+    {
+     "w": "casa.",
+     "ini": 12.44,
+     "fim": 12.8,
+     "casou": true
+    },
+    {
+     "w": "Eles",
+     "ini": 13.48,
+     "fim": 13.66,
+     "casou": true
+    },
+    {
+     "w": "recusam.",
+     "ini": 13.66,
+     "fim": 14.24,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 14.78,
+     "fim": 15.04,
+     "casou": true
+    },
+    {
+     "w": "insiste,",
+     "ini": 15.04,
+     "fim": 15.64,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 15.64,
+     "fim": 16.1,
+     "casou": true
+    },
+    {
+     "w": "eles",
+     "ini": 16.1,
+     "fim": 16.32,
+     "casou": true
+    },
+    {
+     "w": "aceitam.",
+     "ini": 16.32,
+     "fim": 16.82,
+     "casou": true
+    },
+    {
+     "w": "Por",
+     "ini": 17.38,
+     "fim": 17.62,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 17.62,
+     "fim": 17.76,
+     "casou": true
+    },
+    {
+     "w": "tanta",
+     "ini": 17.76,
+     "fim": 18.08,
+     "casou": true
+    },
+    {
+     "w": "insistência?",
+     "ini": 18.08,
+     "fim": 18.88,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 19.46,
+     "fim": 19.6,
+     "casou": true
+    },
+    {
+     "w": "relato",
+     "ini": 19.6,
+     "fim": 19.92,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 19.92,
+     "fim": 20.1,
+     "casou": true
+    },
+    {
+     "w": "explica.",
+     "ini": 20.1,
+     "fim": 20.58,
+     "casou": true
+    },
+    {
+     "w": "Antes",
+     "ini": 21.14,
+     "fim": 21.58,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 21.58,
+     "fim": 21.78,
+     "casou": true
+    },
+    {
+     "w": "dormirem,",
+     "ini": 21.78,
+     "fim": 22.34,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 22.56,
+     "fim": 22.66,
+     "casou": true
+    },
+    {
+     "w": "casa",
+     "ini": 22.66,
+     "fim": 22.86,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 22.86,
+     "fim": 23.06,
+     "casou": true
+    },
+    {
+     "w": "cercada.",
+     "ini": 23.06,
+     "fim": 23.6,
+     "casou": true
+    },
+    {
+     "w": "Jovens",
+     "ini": 24.12,
+     "fim": 24.58,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 24.58,
+     "fim": 24.8,
+     "casou": true
+    },
+    {
+     "w": "velhos,",
+     "ini": 24.8,
+     "fim": 25.14,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 25.44,
+     "fim": 25.5,
+     "casou": true
+    },
+    {
+     "w": "cidade",
+     "ini": 25.5,
+     "fim": 25.76,
+     "casou": true
+    },
+    {
+     "w": "inteira.",
+     "ini": 25.76,
+     "fim": 26.5,
+     "casou": true
+    },
+    {
+     "w": "Queriam",
+     "ini": 27.1,
+     "fim": 27.52,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 27.52,
+     "fim": 27.68,
+     "casou": true
+    },
+    {
+     "w": "visitantes.",
+     "ini": 27.68,
+     "fim": 28.26,
+     "casou": true
+    },
+    {
+     "w": "Queriam",
+     "ini": 28.26,
+     "fim": 29.08,
+     "casou": true
+    },
+    {
+     "w": "abusar",
+     "ini": 29.08,
+     "fim": 29.72,
+     "casou": true
+    },
+    {
+     "w": "deles.",
+     "ini": 29.72,
+     "fim": 30.04,
+     "casou": true
+    },
+    {
+     "w": "Lembra",
+     "ini": 30.74,
+     "fim": 31.2,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 31.2,
+     "fim": 31.36,
+     "casou": true
+    },
+    {
+     "w": "cena",
+     "ini": 31.36,
+     "fim": 31.58,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 31.58,
+     "fim": 31.72,
+     "casou": true
+    },
+    {
+     "w": "Manre?",
+     "ini": 31.72,
+     "fim": 32.04,
+     "casou": true
+    },
+    {
+     "w": "Um",
+     "ini": 32.64,
+     "fim": 32.76,
+     "casou": true
+    },
+    {
+     "w": "homem",
+     "ini": 32.76,
+     "fim": 33.0,
+     "casou": true
+    },
+    {
+     "w": "idoso",
+     "ini": 33.0,
+     "fim": 33.44,
+     "casou": true
+    },
+    {
+     "w": "correu",
+     "ini": 33.44,
+     "fim": 34.04,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 34.04,
+     "fim": 34.24,
+     "casou": true
+    },
+    {
+     "w": "acolher",
+     "ini": 34.24,
+     "fim": 34.56,
+     "casou": true
+    },
+    {
+     "w": "estranhos.",
+     "ini": 34.56,
+     "fim": 35.16,
+     "casou": true
+    },
+    {
+     "w": "Em",
+     "ini": 35.66,
+     "fim": 35.8,
+     "casou": true
+    },
+    {
+     "w": "Sodoma,",
+     "ini": 35.8,
+     "fim": 36.28,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 36.62,
+     "fim": 36.74,
+     "casou": true
+    },
+    {
+     "w": "cidade",
+     "ini": 36.74,
+     "fim": 37.02,
+     "casou": true
+    },
+    {
+     "w": "inteira",
+     "ini": 37.02,
+     "fim": 37.74,
+     "casou": true
+    },
+    {
+     "w": "cercou",
+     "ini": 37.74,
+     "fim": 38.18,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 38.18,
+     "fim": 38.38,
+     "casou": true
+    },
+    {
+     "w": "casa",
+     "ini": 38.38,
+     "fim": 38.82,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 38.82,
+     "fim": 39.16,
+     "casou": true
+    },
+    {
+     "w": "abusar",
+     "ini": 39.16,
+     "fim": 39.68,
+     "casou": true
+    },
+    {
+     "w": "deles.",
+     "ini": 39.68,
+     "fim": 39.98,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 40.76,
+     "fim": 41.06,
+     "casou": true
+    },
+    {
+     "w": "sai,",
+     "ini": 41.06,
+     "fim": 41.4,
+     "casou": true
+    },
+    {
+     "w": "fecha",
+     "ini": 41.9,
+     "fim": 42.16,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 42.16,
+     "fim": 42.32,
+     "casou": true
+    },
+    {
+     "w": "porta",
+     "ini": 42.32,
+     "fim": 42.54,
+     "casou": true
+    },
+    {
+     "w": "atrás",
+     "ini": 42.54,
+     "fim": 42.84,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 42.84,
+     "fim": 43.0,
+     "casou": true
+    },
+    {
+     "w": "si",
+     "ini": 43.0,
+     "fim": 43.26,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 43.26,
+     "fim": 43.72,
+     "casou": true
+    },
+    {
+     "w": "pede",
+     "ini": 43.72,
+     "fim": 43.96,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 43.96,
+     "fim": 44.12,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 44.12,
+     "fim": 44.32,
+     "casou": true
+    },
+    {
+     "w": "façam",
+     "ini": 44.32,
+     "fim": 44.84,
+     "casou": true
+    },
+    {
+     "w": "esse",
+     "ini": 44.84,
+     "fim": 45.04,
+     "casou": true
+    },
+    {
+     "w": "mal.",
+     "ini": 45.04,
+     "fim": 45.3,
+     "casou": true
+    },
+    {
+     "w": "A",
+     "ini": 45.88,
+     "fim": 46.04,
+     "casou": true
+    },
+    {
+     "w": "resposta",
+     "ini": 46.04,
+     "fim": 46.4,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 46.4,
+     "fim": 46.88,
+     "casou": true
+    },
+    {
+     "w": "desprezo:",
+     "ini": 46.88,
+     "fim": 47.56,
+     "casou": true
+    },
+    {
+     "w": "este",
+     "ini": 48.16,
+     "fim": 48.42,
+     "casou": true
+    },
+    {
+     "w": "estrangeiro",
+     "ini": 48.42,
+     "fim": 49.06,
+     "casou": true
+    },
+    {
+     "w": "quer",
+     "ini": 49.06,
+     "fim": 49.22,
+     "casou": true
+    },
+    {
+     "w": "ser",
+     "ini": 49.22,
+     "fim": 49.44,
+     "casou": true
+    },
+    {
+     "w": "juiz?",
+     "ini": 49.44,
+     "fim": 49.92,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 50.56,
+     "fim": 50.7,
+     "casou": true
+    },
+    {
+     "w": "ameaçam",
+     "ini": 50.7,
+     "fim": 51.22,
+     "casou": true
+    },
+    {
+     "w": "tratá-lo",
+     "ini": 51.22,
+     "fim": 51.6,
+     "casou": true
+    },
+    {
+     "w": "pior",
+     "ini": 51.7,
+     "fim": 52.08,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 52.08,
+     "fim": 52.32,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 52.32,
+     "fim": 52.42,
+     "casou": true
+    },
+    {
+     "w": "aos",
+     "ini": 52.42,
+     "fim": 52.54,
+     "casou": true
+    },
+    {
+     "w": "visitantes.",
+     "ini": 52.54,
+     "fim": 53.12,
+     "casou": true
+    },
+    {
+     "w": "Avançam",
+     "ini": 53.82,
+     "fim": 54.4,
+     "casou": true
+    },
+    {
+     "w": "contra",
+     "ini": 54.4,
+     "fim": 54.72,
+     "casou": true
+    },
+    {
+     "w": "ele,",
+     "ini": 54.72,
+     "fim": 55.02,
+     "casou": true
+    },
+    {
+     "w": "tentando",
+     "ini": 55.02,
+     "fim": 55.48,
+     "casou": true
+    },
+    {
+     "w": "arrombar",
+     "ini": 55.48,
+     "fim": 55.98,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 55.98,
+     "fim": 56.14,
+     "casou": true
+    },
+    {
+     "w": "porta.",
+     "ini": 56.14,
+     "fim": 56.34,
+     "casou": true
+    },
+    {
+     "w": "Os",
+     "ini": 56.34,
+     "fim": 57.18,
+     "casou": true
+    },
+    {
+     "w": "visitantes",
+     "ini": 57.18,
+     "fim": 57.8,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 57.8,
+     "fim": 57.96,
+     "casou": true
+    },
+    {
+     "w": "puxam",
+     "ini": 57.96,
+     "fim": 58.34,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 58.34,
+     "fim": 58.56,
+     "casou": true
+    },
+    {
+     "w": "dentro",
+     "ini": 58.56,
+     "fim": 58.94,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 58.94,
+     "fim": 59.22,
+     "casou": true
+    },
+    {
+     "w": "fecham",
+     "ini": 59.22,
+     "fim": 59.7,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 59.7,
+     "fim": 59.8,
+     "casou": true
+    },
+    {
+     "w": "porta.",
+     "ini": 59.8,
+     "fim": 60.12,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 60.82,
+     "fim": 60.86,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 60.86,
+     "fim": 61.02,
+     "casou": true
+    },
+    {
+     "w": "homens",
+     "ini": 61.02,
+     "fim": 61.34,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 61.34,
+     "fim": 61.46,
+     "casou": true
+    },
+    {
+     "w": "lado",
+     "ini": 61.46,
+     "fim": 61.68,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 61.68,
+     "fim": 61.82,
+     "casou": true
+    },
+    {
+     "w": "fora",
+     "ini": 61.82,
+     "fim": 62.18,
+     "casou": true
+    },
+    {
+     "w": "ficam",
+     "ini": 62.18,
+     "fim": 62.76,
+     "casou": true
+    },
+    {
+     "w": "cegos.",
+     "ini": 62.76,
+     "fim": 63.46,
+     "casou": true
+    },
+    {
+     "w": "Cegos.",
+     "ini": 64.14,
+     "fim": 64.82,
+     "casou": true
+    },
+    {
+     "w": "Eles",
+     "ini": 65.26,
+     "fim": 65.48,
+     "casou": true
+    },
+    {
+     "w": "já",
+     "ini": 65.48,
+     "fim": 65.68,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 65.68,
+     "fim": 65.86,
+     "casou": true
+    },
+    {
+     "w": "enxergavam.",
+     "ini": 65.86,
+     "fim": 66.52,
+     "casou": true
+    },
+    {
+     "w": "E,",
+     "ini": 66.52,
+     "fim": 67.16,
+     "casou": true
+    },
+    {
+     "w": "segundo",
+     "ini": 67.2,
+     "fim": 67.6,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 67.6,
+     "fim": 67.78,
+     "casou": true
+    },
+    {
+     "w": "relato,",
+     "ini": 67.78,
+     "fim": 68.16,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 68.56,
+     "fim": 68.7,
+     "casou": true
+    },
+    {
+     "w": "cansaram",
+     "ini": 68.7,
+     "fim": 69.32,
+     "casou": true
+    },
+    {
+     "w": "procurando",
+     "ini": 69.32,
+     "fim": 69.88,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 69.88,
+     "fim": 69.96,
+     "casou": true
+    },
+    {
+     "w": "entrada.",
+     "ini": 69.96,
+     "fim": 70.3,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "Ao anoitecer, os dois que partiram de Manre chegam a Sodoma.",
+     "ini": 0.0,
+     "fim": 3.9
+    },
+    {
+     "texto": "O texto agora os chama de anjos.",
+     "ini": 4.5,
+     "fim": 6.46
+    },
+    {
+     "texto": "Ló, sentado à porta da cidade, se levanta, curva-se e os convida para a sua casa.",
+     "ini": 7.24,
+     "fim": 12.8
+    },
+    {
+     "texto": "Eles recusam.",
+     "ini": 13.48,
+     "fim": 14.24
+    },
+    {
+     "texto": "Ló insiste, e eles aceitam.",
+     "ini": 14.78,
+     "fim": 16.82
+    },
+    {
+     "texto": "Por que tanta insistência?",
+     "ini": 17.38,
+     "fim": 18.88
+    },
+    {
+     "texto": "O relato não explica.",
+     "ini": 19.46,
+     "fim": 20.58
+    },
+    {
+     "texto": "Antes de dormirem, a casa é cercada.",
+     "ini": 21.14,
+     "fim": 23.6
+    },
+    {
+     "texto": "Jovens e velhos, a cidade inteira.",
+     "ini": 24.12,
+     "fim": 26.5
+    },
+    {
+     "texto": "Queriam os visitantes.",
+     "ini": 27.1,
+     "fim": 28.26
+    },
+    {
+     "texto": "Queriam abusar deles.",
+     "ini": 28.26,
+     "fim": 30.04
+    },
+    {
+     "texto": "Lembra da cena em Manre?",
+     "ini": 30.74,
+     "fim": 32.04
+    },
+    {
+     "texto": "Um homem idoso correu para acolher estranhos.",
+     "ini": 32.64,
+     "fim": 35.16
+    },
+    {
+     "texto": "Em Sodoma, uma cidade inteira cercou uma casa para abusar deles.",
+     "ini": 35.66,
+     "fim": 39.98
+    },
+    {
+     "texto": "Ló sai, fecha a porta atrás de si e pede que não façam esse mal.",
+     "ini": 40.76,
+     "fim": 45.3
+    },
+    {
+     "texto": "A resposta é desprezo:",
+     "ini": 45.88,
+     "fim": 47.56
+    },
+    {
+     "texto": "este estrangeiro quer ser juiz?",
+     "ini": 48.16,
+     "fim": 49.92
+    },
+    {
+     "texto": "E ameaçam tratá-lo pior do que aos visitantes.",
+     "ini": 50.56,
+     "fim": 53.12
+    },
+    {
+     "texto": "Avançam contra ele, tentando arrombar a porta.",
+     "ini": 53.82,
+     "fim": 56.34
+    },
+    {
+     "texto": "Os visitantes o puxam para dentro e fecham a porta.",
+     "ini": 56.34,
+     "fim": 60.12
+    },
+    {
+     "texto": "E os homens do lado de fora ficam cegos.",
+     "ini": 60.82,
+     "fim": 63.46
+    },
+    {
+     "texto": "Cegos.",
+     "ini": 64.14,
+     "fim": 64.82
+    },
+    {
+     "texto": "Eles já não enxergavam.",
+     "ini": 65.26,
+     "fim": 66.52
+    },
+    {
+     "texto": "E, segundo o relato, se cansaram procurando a entrada.",
+     "ini": 66.52,
+     "fim": 70.3
+    }
+   ],
+   "cobertura": 0.994,
+   "palavras_asr": 164
+  },
+  "T6": {
+   "duracao_s": 76.43,
+   "inicio_global_s": 238.81,
+   "palavras": [
+    {
+     "w": "Ainda",
+     "ini": 0.0,
+     "fim": 0.32,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 0.32,
+     "fim": 0.52,
+     "casou": true
+    },
+    {
+     "w": "noite,",
+     "ini": 0.52,
+     "fim": 0.82,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 1.34,
+     "fim": 1.46,
+     "casou": true
+    },
+    {
+     "w": "sai",
+     "ini": 1.46,
+     "fim": 1.84,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 1.84,
+     "fim": 2.16,
+     "casou": true
+    },
+    {
+     "w": "avisa",
+     "ini": 2.16,
+     "fim": 2.52,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 2.52,
+     "fim": 2.68,
+     "casou": true
+    },
+    {
+     "w": "genros.",
+     "ini": 2.68,
+     "fim": 3.04,
+     "casou": true
+    },
+    {
+     "w": "Eles",
+     "ini": 3.54,
+     "fim": 3.78,
+     "casou": true
+    },
+    {
+     "w": "acham",
+     "ini": 3.78,
+     "fim": 4.14,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 4.14,
+     "fim": 4.28,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 4.28,
+     "fim": 4.34,
+     "casou": true
+    },
+    {
+     "w": "brincadeira.",
+     "ini": 4.34,
+     "fim": 4.98,
+     "casou": true
+    },
+    {
+     "w": "Imagine",
+     "ini": 5.5,
+     "fim": 5.88,
+     "casou": true
+    },
+    {
+     "w": "avisar",
+     "ini": 5.88,
+     "fim": 6.34,
+     "casou": true
+    },
+    {
+     "w": "alguém",
+     "ini": 6.34,
+     "fim": 6.6,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 6.6,
+     "fim": 6.74,
+     "casou": true
+    },
+    {
+     "w": "sua",
+     "ini": 6.74,
+     "fim": 6.92,
+     "casou": true
+    },
+    {
+     "w": "família...",
+     "ini": 6.92,
+     "fim": 7.4,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 7.4,
+     "fim": 8.04,
+     "casou": true
+    },
+    {
+     "w": "ouvir",
+     "ini": 8.04,
+     "fim": 8.4,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 8.4,
+     "fim": 8.56,
+     "casou": true
+    },
+    {
+     "w": "risada.",
+     "ini": 8.56,
+     "fim": 9.14,
+     "casou": true
+    },
+    {
+     "w": "Ao",
+     "ini": 9.76,
+     "fim": 9.88,
+     "casou": true
+    },
+    {
+     "w": "amanhecer,",
+     "ini": 9.88,
+     "fim": 10.48,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 10.92,
+     "fim": 11.04,
+     "casou": true
+    },
+    {
+     "w": "anjos",
+     "ini": 11.04,
+     "fim": 11.28,
+     "casou": true
+    },
+    {
+     "w": "apressam",
+     "ini": 11.28,
+     "fim": 11.94,
+     "casou": true
+    },
+    {
+     "w": "Ló:",
+     "ini": 11.94,
+     "fim": 12.2,
+     "casou": true
+    },
+    {
+     "w": "levanta,",
+     "ini": 12.68,
+     "fim": 13.22,
+     "casou": true
+    },
+    {
+     "w": "leva",
+     "ini": 13.6,
+     "fim": 13.84,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 13.84,
+     "fim": 14.0,
+     "casou": true
+    },
+    {
+     "w": "tua",
+     "ini": 14.0,
+     "fim": 14.08,
+     "casou": true
+    },
+    {
+     "w": "mulher",
+     "ini": 14.08,
+     "fim": 14.38,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 14.38,
+     "fim": 14.6,
+     "casou": true
+    },
+    {
+     "w": "as",
+     "ini": 14.6,
+     "fim": 14.72,
+     "casou": true
+    },
+    {
+     "w": "tuas",
+     "ini": 14.72,
+     "fim": 14.98,
+     "casou": true
+    },
+    {
+     "w": "duas",
+     "ini": 14.98,
+     "fim": 15.2,
+     "casou": true
+    },
+    {
+     "w": "filhas,",
+     "ini": 15.2,
+     "fim": 15.68,
+     "casou": true
+    },
+    {
+     "w": "saiam",
+     "ini": 15.96,
+     "fim": 16.36,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 16.36,
+     "fim": 16.5,
+     "casou": true
+    },
+    {
+     "w": "cidade.",
+     "ini": 16.5,
+     "fim": 16.88,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 17.38,
+     "fim": 17.56,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 17.56,
+     "fim": 17.84,
+     "casou": true
+    },
+    {
+     "w": "ainda",
+     "ini": 17.84,
+     "fim": 18.26,
+     "casou": true
+    },
+    {
+     "w": "hesita.",
+     "ini": 18.26,
+     "fim": 18.8,
+     "casou": true
+    },
+    {
+     "w": "A",
+     "ini": 19.26,
+     "fim": 19.4,
+     "casou": true
+    },
+    {
+     "w": "Bíblia",
+     "ini": 19.4,
+     "fim": 19.68,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 19.68,
+     "fim": 19.82,
+     "casou": true
+    },
+    {
+     "w": "esconde",
+     "ini": 19.82,
+     "fim": 20.22,
+     "casou": true
+    },
+    {
+     "w": "isso.",
+     "ini": 20.22,
+     "fim": 20.56,
+     "casou": true
+    },
+    {
+     "w": "Então",
+     "ini": 20.98,
+     "fim": 21.28,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 21.28,
+     "fim": 21.6,
+     "casou": true
+    },
+    {
+     "w": "anjos",
+     "ini": 21.6,
+     "fim": 21.86,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 21.86,
+     "fim": 22.08,
+     "casou": true
+    },
+    {
+     "w": "seguram",
+     "ini": 22.08,
+     "fim": 22.54,
+     "casou": true
+    },
+    {
+     "w": "pela",
+     "ini": 22.54,
+     "fim": 22.72,
+     "casou": true
+    },
+    {
+     "w": "mão,",
+     "ini": 22.72,
+     "fim": 23.08,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 23.36,
+     "fim": 23.46,
+     "casou": true
+    },
+    {
+     "w": "também",
+     "ini": 23.46,
+     "fim": 23.72,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 23.72,
+     "fim": 23.84,
+     "casou": true
+    },
+    {
+     "w": "mulher",
+     "ini": 23.84,
+     "fim": 24.12,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 24.12,
+     "fim": 24.48,
+     "casou": true
+    },
+    {
+     "w": "as",
+     "ini": 24.48,
+     "fim": 24.62,
+     "casou": true
+    },
+    {
+     "w": "filhas,",
+     "ini": 24.62,
+     "fim": 25.02,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 25.28,
+     "fim": 25.44,
+     "casou": true
+    },
+    {
+     "w": "os",
+     "ini": 25.44,
+     "fim": 25.58,
+     "casou": true
+    },
+    {
+     "w": "levam",
+     "ini": 25.58,
+     "fim": 25.92,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 25.92,
+     "fim": 26.12,
+     "casou": true
+    },
+    {
+     "w": "fora,",
+     "ini": 26.12,
+     "fim": 26.5,
+     "casou": true
+    },
+    {
+     "w": "porque,",
+     "ini": 26.5,
+     "fim": 27.18,
+     "casou": true
+    },
+    {
+     "w": "diz",
+     "ini": 27.42,
+     "fim": 27.68,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 27.68,
+     "fim": 27.82,
+     "casou": true
+    },
+    {
+     "w": "texto,",
+     "ini": 27.82,
+     "fim": 28.04,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 28.62,
+     "fim": 28.74,
+     "casou": true
+    },
+    {
+     "w": "Senhor",
+     "ini": 28.74,
+     "fim": 29.06,
+     "casou": true
+    },
+    {
+     "w": "teve",
+     "ini": 29.06,
+     "fim": 29.42,
+     "casou": true
+    },
+    {
+     "w": "misericórdia",
+     "ini": 29.42,
+     "fim": 30.5,
+     "casou": true
+    },
+    {
+     "w": "dele.",
+     "ini": 30.5,
+     "fim": 30.8,
+     "casou": true
+    },
+    {
+     "w": "Um",
+     "ini": 31.3,
+     "fim": 31.52,
+     "casou": true
+    },
+    {
+     "w": "deles",
+     "ini": 31.52,
+     "fim": 31.76,
+     "casou": true
+    },
+    {
+     "w": "diz:",
+     "ini": 31.76,
+     "fim": 32.1,
+     "casou": true
+    },
+    {
+     "w": "fuja",
+     "ini": 32.62,
+     "fim": 33.1,
+     "casou": true
+    },
+    {
+     "w": "pela",
+     "ini": 33.1,
+     "fim": 33.3,
+     "casou": true
+    },
+    {
+     "w": "sua",
+     "ini": 33.3,
+     "fim": 33.56,
+     "casou": true
+    },
+    {
+     "w": "vida.",
+     "ini": 33.56,
+     "fim": 33.94,
+     "casou": true
+    },
+    {
+     "w": "Não",
+     "ini": 34.36,
+     "fim": 34.52,
+     "casou": true
+    },
+    {
+     "w": "olhe",
+     "ini": 34.52,
+     "fim": 34.88,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 34.88,
+     "fim": 35.04,
+     "casou": true
+    },
+    {
+     "w": "trás.",
+     "ini": 35.04,
+     "fim": 35.46,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 35.98,
+     "fim": 36.16,
+     "casou": true
+    },
+    {
+     "w": "pede",
+     "ini": 36.16,
+     "fim": 36.5,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 36.5,
+     "fim": 36.76,
+     "casou": true
+    },
+    {
+     "w": "ir",
+     "ini": 36.76,
+     "fim": 36.96,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 36.96,
+     "fim": 37.02,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 37.02,
+     "fim": 37.16,
+     "casou": true
+    },
+    {
+     "w": "cidade",
+     "ini": 37.16,
+     "fim": 37.46,
+     "casou": true
+    },
+    {
+     "w": "pequena,",
+     "ini": 37.46,
+     "fim": 38.14,
+     "casou": true
+    },
+    {
+     "w": "ali",
+     "ini": 38.3,
+     "fim": 38.48,
+     "casou": true
+    },
+    {
+     "w": "perto.",
+     "ini": 38.48,
+     "fim": 38.8,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 39.3,
+     "fim": 39.42,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 39.42,
+     "fim": 39.48,
+     "casou": true
+    },
+    {
+     "w": "resposta",
+     "ini": 39.48,
+     "fim": 39.82,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 39.82,
+     "fim": 40.12,
+     "casou": true
+    },
+    {
+     "w": "ele",
+     "ini": 40.12,
+     "fim": 40.22,
+     "casou": true
+    },
+    {
+     "w": "recebe",
+     "ini": 40.22,
+     "fim": 40.74,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 40.74,
+     "fim": 40.86,
+     "casou": true
+    },
+    {
+     "w": "surpreendente:",
+     "ini": 40.86,
+     "fim": 41.82,
+     "casou": true
+    },
+    {
+     "w": "apresse-se,",
+     "ini": 42.3,
+     "fim": 42.74,
+     "casou": true
+    },
+    {
+     "w": "porque",
+     "ini": 43.36,
+     "fim": 43.56,
+     "casou": true
+    },
+    {
+     "w": "nada",
+     "ini": 43.56,
+     "fim": 43.92,
+     "casou": true
+    },
+    {
+     "w": "posso",
+     "ini": 43.92,
+     "fim": 44.3,
+     "casou": true
+    },
+    {
+     "w": "fazer",
+     "ini": 44.3,
+     "fim": 44.78,
+     "casou": true
+    },
+    {
+     "w": "enquanto",
+     "ini": 44.78,
+     "fim": 45.06,
+     "casou": true
+    },
+    {
+     "w": "você",
+     "ini": 45.06,
+     "fim": 45.52,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 45.52,
+     "fim": 45.76,
+     "casou": true
+    },
+    {
+     "w": "chegar",
+     "ini": 45.76,
+     "fim": 46.06,
+     "casou": true
+    },
+    {
+     "w": "lá.",
+     "ini": 46.06,
+     "fim": 46.42,
+     "casou": true
+    },
+    {
+     "w": "A",
+     "ini": 46.9,
+     "fim": 47.06,
+     "casou": true
+    },
+    {
+     "w": "destruição",
+     "ini": 47.06,
+     "fim": 47.66,
+     "casou": true
+    },
+    {
+     "w": "esperou",
+     "ini": 47.66,
+     "fim": 48.26,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 48.26,
+     "fim": 48.5,
+     "casou": true
+    },
+    {
+     "w": "ele.",
+     "ini": 48.5,
+     "fim": 48.7,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 49.14,
+     "fim": 49.28,
+     "casou": true
+    },
+    {
+     "w": "sol",
+     "ini": 49.28,
+     "fim": 49.52,
+     "casou": true
+    },
+    {
+     "w": "já",
+     "ini": 49.52,
+     "fim": 49.74,
+     "casou": true
+    },
+    {
+     "w": "nascia",
+     "ini": 49.74,
+     "fim": 50.26,
+     "casou": true
+    },
+    {
+     "w": "quando",
+     "ini": 50.26,
+     "fim": 50.54,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 50.54,
+     "fim": 50.84,
+     "casou": true
+    },
+    {
+     "w": "entrou",
+     "ini": 50.84,
+     "fim": 51.16,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 51.16,
+     "fim": 51.34,
+     "casou": true
+    },
+    {
+     "w": "Zoar.",
+     "ini": 51.34,
+     "fim": 51.74,
+     "casou": true
+    },
+    {
+     "w": "Então",
+     "ini": 52.22,
+     "fim": 52.6,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 52.6,
+     "fim": 53.0,
+     "casou": true
+    },
+    {
+     "w": "Senhor",
+     "ini": 53.0,
+     "fim": 53.26,
+     "casou": true
+    },
+    {
+     "w": "fez",
+     "ini": 53.26,
+     "fim": 53.54,
+     "casou": true
+    },
+    {
+     "w": "chover",
+     "ini": 53.54,
+     "fim": 53.88,
+     "casou": true
+    },
+    {
+     "w": "enxofre",
+     "ini": 54.25,
+     "fim": 54.62,
+     "casou": false
+    },
+    {
+     "w": "e",
+     "ini": 54.62,
+     "fim": 54.78,
+     "casou": true
+    },
+    {
+     "w": "fogo",
+     "ini": 54.78,
+     "fim": 55.24,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 55.24,
+     "fim": 55.34,
+     "casou": true
+    },
+    {
+     "w": "céu.",
+     "ini": 55.34,
+     "fim": 55.62,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 55.62,
+     "fim": 56.32,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 56.32,
+     "fim": 56.42,
+     "casou": true
+    },
+    {
+     "w": "mulher",
+     "ini": 56.42,
+     "fim": 56.66,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 56.66,
+     "fim": 56.9,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 56.9,
+     "fim": 57.14,
+     "casou": true
+    },
+    {
+     "w": "olhou",
+     "ini": 57.14,
+     "fim": 57.72,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 57.72,
+     "fim": 57.94,
+     "casou": true
+    },
+    {
+     "w": "trás.",
+     "ini": 57.94,
+     "fim": 58.4,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 58.4,
+     "fim": 58.98,
+     "casou": true
+    },
+    {
+     "w": "virou",
+     "ini": 58.98,
+     "fim": 59.36,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 59.36,
+     "fim": 59.54,
+     "casou": true
+    },
+    {
+     "w": "estátua",
+     "ini": 59.54,
+     "fim": 60.1,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 60.1,
+     "fim": 60.2,
+     "casou": true
+    },
+    {
+     "w": "sal.",
+     "ini": 60.2,
+     "fim": 60.5,
+     "casou": true
+    },
+    {
+     "w": "Muitos",
+     "ini": 61.0,
+     "fim": 61.5,
+     "casou": true
+    },
+    {
+     "w": "séculos",
+     "ini": 61.5,
+     "fim": 61.86,
+     "casou": true
+    },
+    {
+     "w": "depois,",
+     "ini": 61.86,
+     "fim": 62.24,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 62.7,
+     "fim": 62.9,
+     "casou": true
+    },
+    {
+     "w": "falar",
+     "ini": 62.9,
+     "fim": 63.18,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 63.18,
+     "fim": 63.4,
+     "casou": true
+    },
+    {
+     "w": "dia",
+     "ini": 63.4,
+     "fim": 63.7,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 63.7,
+     "fim": 63.82,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 63.82,
+     "fim": 63.92,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 63.92,
+     "fim": 64.04,
+     "casou": true
+    },
+    {
+     "w": "Filho",
+     "ini": 64.04,
+     "fim": 64.28,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 64.28,
+     "fim": 64.5,
+     "casou": true
+    },
+    {
+     "w": "Homem",
+     "ini": 64.5,
+     "fim": 64.72,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 64.72,
+     "fim": 64.94,
+     "casou": true
+    },
+    {
+     "w": "manifestar,",
+     "ini": 64.94,
+     "fim": 65.96,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 65.96,
+     "fim": 66.1,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 66.1,
+     "fim": 66.2,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 66.2,
+     "fim": 66.44,
+     "casou": true
+    },
+    {
+     "w": "voltar",
+     "ini": 66.44,
+     "fim": 66.82,
+     "casou": true
+    },
+    {
+     "w": "atrás",
+     "ini": 66.82,
+     "fim": 67.24,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 67.24,
+     "fim": 67.46,
+     "casou": true
+    },
+    {
+     "w": "causa",
+     "ini": 67.46,
+     "fim": 67.7,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 67.7,
+     "fim": 67.9,
+     "casou": true
+    },
+    {
+     "w": "bens,",
+     "ini": 67.9,
+     "fim": 68.32,
+     "casou": true
+    },
+    {
+     "w": "Jesus",
+     "ini": 68.66,
+     "fim": 68.88,
+     "casou": true
+    },
+    {
+     "w": "disse:",
+     "ini": 68.88,
+     "fim": 69.4,
+     "casou": true
+    },
+    {
+     "w": "lembrem-se",
+     "ini": 69.92,
+     "fim": 70.46,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 70.62,
+     "fim": 70.8,
+     "casou": true
+    },
+    {
+     "w": "mulher",
+     "ini": 70.8,
+     "fim": 71.04,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 71.04,
+     "fim": 71.32,
+     "casou": true
+    },
+    {
+     "w": "Ló.",
+     "ini": 71.32,
+     "fim": 71.6,
+     "casou": true
+    },
+    {
+     "w": "Gênesis",
+     "ini": 72.06,
+     "fim": 72.62,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 72.62,
+     "fim": 72.84,
+     "casou": true
+    },
+    {
+     "w": "explica",
+     "ini": 72.84,
+     "fim": 73.38,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 73.38,
+     "fim": 73.43,
+     "casou": false
+    },
+    {
+     "w": "que",
+     "ini": 73.38,
+     "fim": 73.94,
+     "casou": true
+    },
+    {
+     "w": "ela",
+     "ini": 73.94,
+     "fim": 74.08,
+     "casou": true
+    },
+    {
+     "w": "olhou.",
+     "ini": 74.08,
+     "fim": 74.4,
+     "casou": true
+    },
+    {
+     "w": "Só",
+     "ini": 74.82,
+     "fim": 75.04,
+     "casou": true
+    },
+    {
+     "w": "conta",
+     "ini": 75.04,
+     "fim": 75.52,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 75.52,
+     "fim": 75.88,
+     "casou": true
+    },
+    {
+     "w": "olhar.",
+     "ini": 75.88,
+     "fim": 76.12,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "Ainda de noite, Ló sai e avisa os genros.",
+     "ini": 0.0,
+     "fim": 3.04
+    },
+    {
+     "texto": "Eles acham que é brincadeira.",
+     "ini": 3.54,
+     "fim": 4.98
+    },
+    {
+     "texto": "Imagine avisar alguém da sua família...",
+     "ini": 5.5,
+     "fim": 7.4
+    },
+    {
+     "texto": "e ouvir uma risada.",
+     "ini": 7.4,
+     "fim": 9.14
+    },
+    {
+     "texto": "Ao amanhecer, os anjos apressam Ló:",
+     "ini": 9.76,
+     "fim": 12.2
+    },
+    {
+     "texto": "levanta, leva a tua mulher e as tuas duas filhas, saiam da cidade.",
+     "ini": 12.68,
+     "fim": 16.88
+    },
+    {
+     "texto": "E Ló ainda hesita.",
+     "ini": 17.38,
+     "fim": 18.8
+    },
+    {
+     "texto": "A Bíblia não esconde isso.",
+     "ini": 19.26,
+     "fim": 20.56
+    },
+    {
+     "texto": "Então os anjos o seguram pela mão, e também a mulher e as filhas, e os levam para fora, porque, diz o texto, o Senhor teve misericórdia dele.",
+     "ini": 20.98,
+     "fim": 30.8
+    },
+    {
+     "texto": "Um deles diz:",
+     "ini": 31.3,
+     "fim": 32.1
+    },
+    {
+     "texto": "fuja pela sua vida.",
+     "ini": 32.62,
+     "fim": 33.94
+    },
+    {
+     "texto": "Não olhe para trás.",
+     "ini": 34.36,
+     "fim": 35.46
+    },
+    {
+     "texto": "Ló pede para ir a uma cidade pequena, ali perto.",
+     "ini": 35.98,
+     "fim": 38.8
+    },
+    {
+     "texto": "E a resposta que ele recebe é surpreendente:",
+     "ini": 39.3,
+     "fim": 41.82
+    },
+    {
+     "texto": "apresse-se, porque nada posso fazer enquanto você não chegar lá.",
+     "ini": 42.3,
+     "fim": 46.42
+    },
+    {
+     "texto": "A destruição esperou por ele.",
+     "ini": 46.9,
+     "fim": 48.7
+    },
+    {
+     "texto": "O sol já nascia quando Ló entrou em Zoar.",
+     "ini": 49.14,
+     "fim": 51.74
+    },
+    {
+     "texto": "Então o Senhor fez chover enxofre e fogo do céu.",
+     "ini": 52.22,
+     "fim": 55.62
+    },
+    {
+     "texto": "E a mulher de Ló olhou para trás.",
+     "ini": 55.62,
+     "fim": 58.4
+    },
+    {
+     "texto": "E virou uma estátua de sal.",
+     "ini": 58.4,
+     "fim": 60.5
+    },
+    {
+     "texto": "Muitos séculos depois, ao falar do dia em que o Filho do Homem se manifestar, e de não voltar atrás por causa de bens, Jesus disse:",
+     "ini": 61.0,
+     "fim": 69.4
+    },
+    {
+     "texto": "lembrem-se da mulher de Ló.",
+     "ini": 69.92,
+     "fim": 71.6
+    },
+    {
+     "texto": "Gênesis não explica por que ela olhou.",
+     "ini": 72.06,
+     "fim": 74.4
+    },
+    {
+     "texto": "Só conta o olhar.",
+     "ini": 74.82,
+     "fim": 76.12
+    }
+   ],
+   "cobertura": 0.99,
+   "palavras_asr": 201
+  },
+  "T7": {
+   "duracao_s": 95.95,
+   "inicio_global_s": 315.24,
+   "palavras": [
+    {
+     "w": "E",
+     "ini": 0.0,
+     "fim": 0.12,
+     "casou": true
+    },
+    {
+     "w": "agora",
+     "ini": 0.12,
+     "fim": 0.46,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 0.46,
+     "fim": 0.74,
+     "casou": true
+    },
+    {
+     "w": "pergunta",
+     "ini": 0.74,
+     "fim": 1.18,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 1.32,
+     "fim": 1.46,
+     "casou": false
+    },
+    {
+     "w": "a",
+     "ini": 1.46,
+     "fim": 1.52,
+     "casou": true
+    },
+    {
+     "w": "história",
+     "ini": 1.52,
+     "fim": 1.82,
+     "casou": true
+    },
+    {
+     "w": "deixa:",
+     "ini": 1.82,
+     "fim": 2.28,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 2.78,
+     "fim": 3.08,
+     "casou": true
+    },
+    {
+     "w": "quê?",
+     "ini": 3.08,
+     "fim": 3.36,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 4.28,
+     "fim": 4.44,
+     "casou": true
+    },
+    {
+     "w": "pecado",
+     "ini": 4.44,
+     "fim": 4.84,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 4.84,
+     "fim": 5.0,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 5.0,
+     "fim": 5.54,
+     "casou": true
+    },
+    {
+     "w": "costuma",
+     "ini": 5.54,
+     "fim": 6.04,
+     "casou": true
+    },
+    {
+     "w": "ser",
+     "ini": 6.04,
+     "fim": 6.24,
+     "casou": true
+    },
+    {
+     "w": "resumido",
+     "ini": 6.24,
+     "fim": 6.8,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 6.8,
+     "fim": 7.0,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 7.0,
+     "fim": 7.14,
+     "casou": true
+    },
+    {
+     "w": "jeito",
+     "ini": 7.14,
+     "fim": 7.38,
+     "casou": true
+    },
+    {
+     "w": "só.",
+     "ini": 7.38,
+     "fim": 7.82,
+     "casou": true
+    },
+    {
+     "w": "A",
+     "ini": 8.46,
+     "fim": 8.66,
+     "casou": true
+    },
+    {
+     "w": "Bíblia,",
+     "ini": 8.66,
+     "fim": 9.1,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 9.26,
+     "fim": 9.36,
+     "casou": true
+    },
+    {
+     "w": "mais",
+     "ini": 9.36,
+     "fim": 9.7,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 9.7,
+     "fim": 9.84,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 9.84,
+     "fim": 9.94,
+     "casou": true
+    },
+    {
+     "w": "livro,",
+     "ini": 9.94,
+     "fim": 10.28,
+     "casou": true
+    },
+    {
+     "w": "aponta",
+     "ini": 10.56,
+     "fim": 10.84,
+     "casou": true
+    },
+    {
+     "w": "mais",
+     "ini": 10.84,
+     "fim": 11.3,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 11.3,
+     "fim": 11.44,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 11.44,
+     "fim": 11.52,
+     "casou": true
+    },
+    {
+     "w": "aspecto.",
+     "ini": 11.52,
+     "fim": 12.16,
+     "casou": true
+    },
+    {
+     "w": "Séculos",
+     "ini": 12.78,
+     "fim": 13.28,
+     "casou": true
+    },
+    {
+     "w": "depois,",
+     "ini": 13.28,
+     "fim": 13.68,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 14.16,
+     "fim": 14.22,
+     "casou": true
+    },
+    {
+     "w": "profeta",
+     "ini": 14.22,
+     "fim": 14.6,
+     "casou": true
+    },
+    {
+     "w": "Ezequiel",
+     "ini": 14.6,
+     "fim": 15.1,
+     "casou": true
+    },
+    {
+     "w": "escreve,",
+     "ini": 15.1,
+     "fim": 15.76,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 15.98,
+     "fim": 16.08,
+     "casou": true
+    },
+    {
+     "w": "nome",
+     "ini": 16.08,
+     "fim": 16.34,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 16.34,
+     "fim": 16.54,
+     "casou": true
+    },
+    {
+     "w": "Deus:",
+     "ini": 16.54,
+     "fim": 16.78,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 17.5,
+     "fim": 17.72,
+     "casou": true
+    },
+    {
+     "w": "culpa",
+     "ini": 17.72,
+     "fim": 18.02,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 18.02,
+     "fim": 18.22,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 18.22,
+     "fim": 18.74,
+     "casou": true
+    },
+    {
+     "w": "foi",
+     "ini": 18.74,
+     "fim": 19.02,
+     "casou": true
+    },
+    {
+     "w": "soberba,",
+     "ini": 19.02,
+     "fim": 19.7,
+     "casou": true
+    },
+    {
+     "w": "fartura",
+     "ini": 20.0,
+     "fim": 20.54,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 20.54,
+     "fim": 20.82,
+     "casou": true
+    },
+    {
+     "w": "tranquilidade,",
+     "ini": 20.82,
+     "fim": 21.68,
+     "casou": true
+    },
+    {
+     "w": "sem",
+     "ini": 22.08,
+     "fim": 22.38,
+     "casou": true
+    },
+    {
+     "w": "estender",
+     "ini": 22.38,
+     "fim": 22.84,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 22.84,
+     "fim": 23.0,
+     "casou": true
+    },
+    {
+     "w": "mão",
+     "ini": 23.0,
+     "fim": 23.18,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 23.18,
+     "fim": 23.4,
+     "casou": true
+    },
+    {
+     "w": "pobre",
+     "ini": 23.4,
+     "fim": 23.76,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 23.76,
+     "fim": 24.04,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 24.04,
+     "fim": 24.12,
+     "casou": true
+    },
+    {
+     "w": "necessitado.",
+     "ini": 24.12,
+     "fim": 24.9,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 24.9,
+     "fim": 25.66,
+     "casou": true
+    },
+    {
+     "w": "acrescenta",
+     "ini": 25.66,
+     "fim": 26.34,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 26.7,
+     "fim": 26.88,
+     "casou": true
+    },
+    {
+     "w": "foram",
+     "ini": 26.88,
+     "fim": 27.16,
+     "casou": true
+    },
+    {
+     "w": "arrogantes",
+     "ini": 27.16,
+     "fim": 27.9,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 27.9,
+     "fim": 28.26,
+     "casou": true
+    },
+    {
+     "w": "cometeram",
+     "ini": 28.26,
+     "fim": 28.84,
+     "casou": true
+    },
+    {
+     "w": "abominações",
+     "ini": 28.84,
+     "fim": 29.78,
+     "casou": true
+    },
+    {
+     "w": "diante",
+     "ini": 29.78,
+     "fim": 30.22,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 30.22,
+     "fim": 30.46,
+     "casou": true
+    },
+    {
+     "w": "Senhor.",
+     "ini": 30.46,
+     "fim": 30.74,
+     "casou": true
+    },
+    {
+     "w": "Judas",
+     "ini": 31.68,
+     "fim": 32.14,
+     "casou": true
+    },
+    {
+     "w": "diz",
+     "ini": 32.14,
+     "fim": 32.64,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 32.64,
+     "fim": 32.8,
+     "casou": true
+    },
+    {
+     "w": "Sodoma,",
+     "ini": 32.8,
+     "fim": 33.34,
+     "casou": true
+    },
+    {
+     "w": "Gomorra",
+     "ini": 33.64,
+     "fim": 34.16,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 34.16,
+     "fim": 34.38,
+     "casou": true
+    },
+    {
+     "w": "as",
+     "ini": 34.38,
+     "fim": 34.5,
+     "casou": true
+    },
+    {
+     "w": "cidades",
+     "ini": 34.5,
+     "fim": 34.78,
+     "casou": true
+    },
+    {
+     "w": "vizinhas",
+     "ini": 34.78,
+     "fim": 35.4,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 35.4,
+     "fim": 35.94,
+     "casou": true
+    },
+    {
+     "w": "entregaram",
+     "ini": 35.94,
+     "fim": 36.54,
+     "casou": true
+    },
+    {
+     "w": "à",
+     "ini": 36.54,
+     "fim": 36.68,
+     "casou": true
+    },
+    {
+     "w": "imoralidade",
+     "ini": 36.68,
+     "fim": 37.4,
+     "casou": true
+    },
+    {
+     "w": "sexual,",
+     "ini": 37.4,
+     "fim": 37.9,
+     "casou": true
+    },
+    {
+     "w": "foram",
+     "ini": 38.4,
+     "fim": 38.66,
+     "casou": true
+    },
+    {
+     "w": "atrás",
+     "ini": 38.66,
+     "fim": 39.02,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 39.02,
+     "fim": 39.34,
+     "casou": true
+    },
+    {
+     "w": "outra",
+     "ini": 39.34,
+     "fim": 39.6,
+     "casou": true
+    },
+    {
+     "w": "carne,",
+     "ini": 39.6,
+     "fim": 40.12,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 40.12,
+     "fim": 40.66,
+     "casou": true
+    },
+    {
+     "w": "foram",
+     "ini": 40.66,
+     "fim": 40.86,
+     "casou": true
+    },
+    {
+     "w": "postas",
+     "ini": 40.86,
+     "fim": 41.4,
+     "casou": true
+    },
+    {
+     "w": "como",
+     "ini": 41.4,
+     "fim": 41.62,
+     "casou": true
+    },
+    {
+     "w": "exemplo",
+     "ini": 41.62,
+     "fim": 42.04,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 42.04,
+     "fim": 42.24,
+     "casou": true
+    },
+    {
+     "w": "castigo.",
+     "ini": 42.24,
+     "fim": 42.82,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 43.5,
+     "fim": 43.7,
+     "casou": true
+    },
+    {
+     "w": "Jesus",
+     "ini": 43.7,
+     "fim": 43.98,
+     "casou": true
+    },
+    {
+     "w": "fala",
+     "ini": 43.98,
+     "fim": 44.52,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 44.52,
+     "fim": 44.72,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 44.72,
+     "fim": 45.24,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 45.24,
+     "fim": 45.48,
+     "casou": true
+    },
+    {
+     "w": "falar",
+     "ini": 45.48,
+     "fim": 45.74,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 45.74,
+     "fim": 45.98,
+     "casou": true
+    },
+    {
+     "w": "outras",
+     "ini": 45.98,
+     "fim": 46.24,
+     "casou": true
+    },
+    {
+     "w": "cidades:",
+     "ini": 46.24,
+     "fim": 46.78,
+     "casou": true
+    },
+    {
+     "w": "no",
+     "ini": 47.5,
+     "fim": 47.7,
+     "casou": true
+    },
+    {
+     "w": "Dia",
+     "ini": 47.7,
+     "fim": 47.94,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 47.94,
+     "fim": 48.08,
+     "casou": true
+    },
+    {
+     "w": "Juízo,",
+     "ini": 48.08,
+     "fim": 48.56,
+     "casou": true
+    },
+    {
+     "w": "haverá",
+     "ini": 48.56,
+     "fim": 49.22,
+     "casou": true
+    },
+    {
+     "w": "menos",
+     "ini": 49.22,
+     "fim": 49.6,
+     "casou": true
+    },
+    {
+     "w": "rigor",
+     "ini": 49.6,
+     "fim": 49.96,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 49.96,
+     "fim": 50.26,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 50.26,
+     "fim": 50.86,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 50.86,
+     "fim": 51.22,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 51.22,
+     "fim": 51.36,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 51.36,
+     "fim": 51.56,
+     "casou": true
+    },
+    {
+     "w": "cidades",
+     "ini": 51.56,
+     "fim": 52.04,
+     "casou": true
+    },
+    {
+     "w": "onde",
+     "ini": 52.04,
+     "fim": 52.3,
+     "casou": true
+    },
+    {
+     "w": "ele",
+     "ini": 52.3,
+     "fim": 52.46,
+     "casou": true
+    },
+    {
+     "w": "fez",
+     "ini": 52.46,
+     "fim": 52.7,
+     "casou": true
+    },
+    {
+     "w": "milagres",
+     "ini": 52.7,
+     "fim": 53.36,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 53.36,
+     "fim": 53.6,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 53.6,
+     "fim": 53.74,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 53.74,
+     "fim": 53.96,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 53.96,
+     "fim": 54.14,
+     "casou": true
+    },
+    {
+     "w": "arrependeram,",
+     "ini": 54.14,
+     "fim": 54.84,
+     "casou": true
+    },
+    {
+     "w": "como",
+     "ini": 55.1,
+     "fim": 55.38,
+     "casou": true
+    },
+    {
+     "w": "Cafarnaum.",
+     "ini": 56.21,
+     "fim": 57.04,
+     "casou": false
+    },
+    {
+     "w": "Em",
+     "ini": 57.04,
+     "fim": 57.22,
+     "casou": true
+    },
+    {
+     "w": "outro",
+     "ini": 57.22,
+     "fim": 57.44,
+     "casou": true
+    },
+    {
+     "w": "momento,",
+     "ini": 57.44,
+     "fim": 57.86,
+     "casou": true
+    },
+    {
+     "w": "ele",
+     "ini": 58.28,
+     "fim": 58.44,
+     "casou": true
+    },
+    {
+     "w": "descreve",
+     "ini": 58.44,
+     "fim": 58.98,
+     "casou": true
+    },
+    {
+     "w": "gente",
+     "ini": 58.98,
+     "fim": 59.3,
+     "casou": true
+    },
+    {
+     "w": "vivendo",
+     "ini": 59.3,
+     "fim": 59.82,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 59.82,
+     "fim": 59.87,
+     "casou": false
+    },
+    {
+     "w": "cotidiano,",
+     "ini": 59.82,
+     "fim": 60.58,
+     "casou": true
+    },
+    {
+     "w": "comendo,",
+     "ini": 60.88,
+     "fim": 61.38,
+     "casou": true
+    },
+    {
+     "w": "bebendo,",
+     "ini": 61.58,
+     "fim": 62.06,
+     "casou": true
+    },
+    {
+     "w": "comprando,",
+     "ini": 62.28,
+     "fim": 62.72,
+     "casou": true
+    },
+    {
+     "w": "vendendo,",
+     "ini": 63.06,
+     "fim": 63.58,
+     "casou": true
+    },
+    {
+     "w": "plantando",
+     "ini": 63.98,
+     "fim": 64.48,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 64.48,
+     "fim": 64.58,
+     "casou": true
+    },
+    {
+     "w": "construindo,",
+     "ini": 64.58,
+     "fim": 65.22,
+     "casou": true
+    },
+    {
+     "w": "até",
+     "ini": 65.6,
+     "fim": 65.96,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 65.96,
+     "fim": 66.18,
+     "casou": true
+    },
+    {
+     "w": "dia",
+     "ini": 66.18,
+     "fim": 66.42,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 66.42,
+     "fim": 66.52,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 66.52,
+     "fim": 66.66,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 66.66,
+     "fim": 66.94,
+     "casou": true
+    },
+    {
+     "w": "saiu",
+     "ini": 66.94,
+     "fim": 67.32,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 67.32,
+     "fim": 67.46,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 67.46,
+     "fim": 67.98,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 67.98,
+     "fim": 68.28,
+     "casou": true
+    },
+    {
+     "w": "choveu",
+     "ini": 68.28,
+     "fim": 68.6,
+     "casou": true
+    },
+    {
+     "w": "fogo.",
+     "ini": 68.6,
+     "fim": 69.06,
+     "casou": true
+    },
+    {
+     "w": "Na",
+     "ini": 69.8,
+     "fim": 70.0,
+     "casou": true
+    },
+    {
+     "w": "fala",
+     "ini": 70.0,
+     "fim": 70.24,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 70.24,
+     "fim": 70.46,
+     "casou": true
+    },
+    {
+     "w": "Jesus,",
+     "ini": 70.46,
+     "fim": 70.74,
+     "casou": true
+    },
+    {
+     "w": "nenhuma",
+     "ini": 71.26,
+     "fim": 71.6,
+     "casou": true
+    },
+    {
+     "w": "dessas",
+     "ini": 71.6,
+     "fim": 71.94,
+     "casou": true
+    },
+    {
+     "w": "coisas",
+     "ini": 71.94,
+     "fim": 72.42,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 72.42,
+     "fim": 72.6,
+     "casou": true
+    },
+    {
+     "w": "chamada",
+     "ini": 72.6,
+     "fim": 72.98,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 72.98,
+     "fim": 73.14,
+     "casou": true
+    },
+    {
+     "w": "pecado:",
+     "ini": 73.14,
+     "fim": 73.62,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 74.24,
+     "fim": 74.4,
+     "casou": true
+    },
+    {
+     "w": "ponto",
+     "ini": 74.4,
+     "fim": 74.74,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 74.74,
+     "fim": 75.08,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 75.08,
+     "fim": 75.2,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 75.2,
+     "fim": 75.3,
+     "casou": true
+    },
+    {
+     "w": "vida",
+     "ini": 75.3,
+     "fim": 75.48,
+     "casou": true
+    },
+    {
+     "w": "seguia",
+     "ini": 75.48,
+     "fim": 75.9,
+     "casou": true
+    },
+    {
+     "w": "normal",
+     "ini": 75.9,
+     "fim": 76.38,
+     "casou": true
+    },
+    {
+     "w": "até",
+     "ini": 76.38,
+     "fim": 76.98,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 76.98,
+     "fim": 77.16,
+     "casou": true
+    },
+    {
+     "w": "dia",
+     "ini": 77.16,
+     "fim": 77.42,
+     "casou": true
+    },
+    {
+     "w": "em",
+     "ini": 77.42,
+     "fim": 77.52,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 77.52,
+     "fim": 77.62,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 77.62,
+     "fim": 77.78,
+     "casou": true
+    },
+    {
+     "w": "fogo",
+     "ini": 77.78,
+     "fim": 78.0,
+     "casou": true
+    },
+    {
+     "w": "chegou.",
+     "ini": 78.0,
+     "fim": 78.3,
+     "casou": true
+    },
+    {
+     "w": "Não",
+     "ini": 79.16,
+     "fim": 79.44,
+     "casou": true
+    },
+    {
+     "w": "existe",
+     "ini": 79.44,
+     "fim": 79.8,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 79.8,
+     "fim": 80.0,
+     "casou": true
+    },
+    {
+     "w": "resposta",
+     "ini": 80.0,
+     "fim": 80.46,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 80.46,
+     "fim": 80.72,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 80.72,
+     "fim": 80.86,
+     "casou": true
+    },
+    {
+     "w": "frase.",
+     "ini": 80.86,
+     "fim": 81.28,
+     "casou": true
+    },
+    {
+     "w": "A",
+     "ini": 81.72,
+     "fim": 82.06,
+     "casou": true
+    },
+    {
+     "w": "Bíblia",
+     "ini": 82.06,
+     "fim": 82.4,
+     "casou": true
+    },
+    {
+     "w": "fala",
+     "ini": 82.4,
+     "fim": 82.62,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 82.62,
+     "fim": 82.84,
+     "casou": true
+    },
+    {
+     "w": "orgulho",
+     "ini": 82.84,
+     "fim": 83.38,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 83.38,
+     "fim": 83.52,
+     "casou": true
+    },
+    {
+     "w": "fartura",
+     "ini": 83.52,
+     "fim": 84.08,
+     "casou": true
+    },
+    {
+     "w": "sem",
+     "ini": 84.08,
+     "fim": 84.42,
+     "casou": true
+    },
+    {
+     "w": "amparar",
+     "ini": 84.42,
+     "fim": 84.96,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 84.96,
+     "fim": 85.0,
+     "casou": true
+    },
+    {
+     "w": "pobre,",
+     "ini": 85.0,
+     "fim": 85.36,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 85.78,
+     "fim": 85.94,
+     "casou": true
+    },
+    {
+     "w": "violência",
+     "ini": 85.94,
+     "fim": 86.54,
+     "casou": true
+    },
+    {
+     "w": "contra",
+     "ini": 86.54,
+     "fim": 86.78,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 86.78,
+     "fim": 86.9,
+     "casou": true
+    },
+    {
+     "w": "estrangeiro,",
+     "ini": 86.9,
+     "fim": 87.58,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 87.96,
+     "fim": 88.04,
+     "casou": true
+    },
+    {
+     "w": "abominações",
+     "ini": 88.04,
+     "fim": 88.82,
+     "casou": true
+    },
+    {
+     "w": "diante",
+     "ini": 88.82,
+     "fim": 89.18,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 89.18,
+     "fim": 89.38,
+     "casou": true
+    },
+    {
+     "w": "Deus",
+     "ini": 89.38,
+     "fim": 89.68,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 89.68,
+     "fim": 90.2,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 90.2,
+     "fim": 90.32,
+     "casou": true
+    },
+    {
+     "w": "imoralidade",
+     "ini": 90.32,
+     "fim": 91.0,
+     "casou": true
+    },
+    {
+     "w": "sexual",
+     "ini": 91.0,
+     "fim": 91.52,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 91.52,
+     "fim": 91.78,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 91.78,
+     "fim": 91.92,
+     "casou": true
+    },
+    {
+     "w": "Judas",
+     "ini": 91.92,
+     "fim": 92.14,
+     "casou": true
+    },
+    {
+     "w": "fala.",
+     "ini": 92.14,
+     "fim": 92.6,
+     "casou": true
+    },
+    {
+     "w": "Não",
+     "ini": 93.26,
+     "fim": 93.46,
+     "casou": true
+    },
+    {
+     "w": "reduz",
+     "ini": 93.46,
+     "fim": 93.82,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 93.82,
+     "fim": 94.44,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 94.44,
+     "fim": 94.72,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 94.72,
+     "fim": 94.9,
+     "casou": true
+    },
+    {
+     "w": "só",
+     "ini": 94.9,
+     "fim": 95.12,
+     "casou": true
+    },
+    {
+     "w": "pecado.",
+     "ini": 95.12,
+     "fim": 95.64,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "E agora a pergunta que a história deixa:",
+     "ini": 0.0,
+     "fim": 2.28
+    },
+    {
+     "texto": "por quê?",
+     "ini": 2.78,
+     "fim": 3.36
+    },
+    {
+     "texto": "O pecado de Sodoma costuma ser resumido de um jeito só.",
+     "ini": 4.28,
+     "fim": 7.82
+    },
+    {
+     "texto": "A Bíblia, em mais de um livro, aponta mais de um aspecto.",
+     "ini": 8.46,
+     "fim": 12.16
+    },
+    {
+     "texto": "Séculos depois, o profeta Ezequiel escreve, em nome de Deus:",
+     "ini": 12.78,
+     "fim": 16.78
+    },
+    {
+     "texto": "a culpa de Sodoma foi soberba, fartura e tranquilidade, sem estender a mão ao pobre e ao necessitado.",
+     "ini": 17.5,
+     "fim": 24.9
+    },
+    {
+     "texto": "E acrescenta que foram arrogantes e cometeram abominações diante do Senhor.",
+     "ini": 24.9,
+     "fim": 30.74
+    },
+    {
+     "texto": "Judas diz que Sodoma, Gomorra e as cidades vizinhas se entregaram à imoralidade sexual, foram atrás de outra carne, e foram postas como exemplo do castigo.",
+     "ini": 31.68,
+     "fim": 42.82
+    },
+    {
+     "texto": "E Jesus fala de Sodoma ao falar de outras cidades:",
+     "ini": 43.5,
+     "fim": 46.78
+    },
+    {
+     "texto": "no Dia do Juízo, haverá menos rigor para Sodoma do que para cidades onde ele fez milagres e que não se arrependeram, como Cafarnaum.",
+     "ini": 47.5,
+     "fim": 57.04
+    },
+    {
+     "texto": "Em outro momento, ele descreve gente vivendo o cotidiano, comendo, bebendo, comprando, vendendo, plantando e construindo, até o dia em que Ló saiu de Sodoma e choveu fogo.",
+     "ini": 57.04,
+     "fim": 69.06
+    },
+    {
+     "texto": "Na fala de Jesus, nenhuma dessas coisas é chamada de pecado:",
+     "ini": 69.8,
+     "fim": 73.62
+    },
+    {
+     "texto": "o ponto é que a vida seguia normal até o dia em que o fogo chegou.",
+     "ini": 74.24,
+     "fim": 78.3
+    },
+    {
+     "texto": "Não existe uma resposta de uma frase.",
+     "ini": 79.16,
+     "fim": 81.28
+    },
+    {
+     "texto": "A Bíblia fala de orgulho e fartura sem amparar o pobre, de violência contra o estrangeiro, de abominações diante de Deus e da imoralidade sexual de que Judas fala.",
+     "ini": 81.72,
+     "fim": 92.6
+    },
+    {
+     "texto": "Não reduz Sodoma a um só pecado.",
+     "ini": 93.26,
+     "fim": 95.64
+    }
+   ],
+   "cobertura": 0.987,
+   "palavras_asr": 231
+  },
+  "T8": {
+   "duracao_s": 24.03,
+   "inicio_global_s": 411.19,
+   "palavras": [
+    {
+     "w": "O",
+     "ini": 0.0,
+     "fim": 0.18,
+     "casou": true
+    },
+    {
+     "w": "Gênesis",
+     "ini": 0.18,
+     "fim": 0.76,
+     "casou": true
+    },
+    {
+     "w": "conta",
+     "ini": 0.76,
+     "fim": 1.04,
+     "casou": true
+    },
+    {
+     "w": "esse",
+     "ini": 1.04,
+     "fim": 1.3,
+     "casou": true
+    },
+    {
+     "w": "relato",
+     "ini": 1.3,
+     "fim": 1.76,
+     "casou": true
+    },
+    {
+     "w": "como",
+     "ini": 1.76,
+     "fim": 2.06,
+     "casou": true
+    },
+    {
+     "w": "um",
+     "ini": 2.06,
+     "fim": 2.22,
+     "casou": true
+    },
+    {
+     "w": "acontecimento,",
+     "ini": 2.22,
+     "fim": 3.16,
+     "casou": true
+    },
+    {
+     "w": "com",
+     "ini": 3.5,
+     "fim": 3.58,
+     "casou": true
+    },
+    {
+     "w": "nomes",
+     "ini": 3.58,
+     "fim": 4.18,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 4.18,
+     "fim": 4.34,
+     "casou": true
+    },
+    {
+     "w": "lugares.",
+     "ini": 4.34,
+     "fim": 4.72,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 5.44,
+     "fim": 5.58,
+     "casou": true
+    },
+    {
+     "w": "texto",
+     "ini": 5.58,
+     "fim": 5.78,
+     "casou": true
+    },
+    {
+     "w": "fala",
+     "ini": 5.78,
+     "fim": 6.2,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 6.2,
+     "fim": 6.38,
+     "casou": true
+    },
+    {
+     "w": "vale",
+     "ini": 6.38,
+     "fim": 6.68,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 6.68,
+     "fim": 6.9,
+     "casou": true
+    },
+    {
+     "w": "Sidim,",
+     "ini": 6.9,
+     "fim": 7.38,
+     "casou": true
+    },
+    {
+     "w": "cheio",
+     "ini": 7.62,
+     "fim": 8.06,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 8.06,
+     "fim": 8.16,
+     "casou": true
+    },
+    {
+     "w": "poços",
+     "ini": 8.16,
+     "fim": 8.6,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 8.6,
+     "fim": 8.74,
+     "casou": true
+    },
+    {
+     "w": "betume,",
+     "ini": 8.74,
+     "fim": 9.26,
+     "casou": true
+    },
+    {
+     "w": "junto",
+     "ini": 9.48,
+     "fim": 9.7,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 9.7,
+     "fim": 9.94,
+     "casou": true
+    },
+    {
+     "w": "mar",
+     "ini": 9.94,
+     "fim": 10.12,
+     "casou": true
+    },
+    {
+     "w": "Salgado,",
+     "ini": 10.12,
+     "fim": 10.7,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 11.14,
+     "fim": 11.22,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 11.22,
+     "fim": 11.32,
+     "casou": true
+    },
+    {
+     "w": "tradição",
+     "ini": 11.32,
+     "fim": 11.74,
+     "casou": true
+    },
+    {
+     "w": "identifica",
+     "ini": 11.74,
+     "fim": 12.38,
+     "casou": true
+    },
+    {
+     "w": "com",
+     "ini": 12.38,
+     "fim": 12.62,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 12.62,
+     "fim": 12.7,
+     "casou": true
+    },
+    {
+     "w": "Mar",
+     "ini": 12.7,
+     "fim": 12.86,
+     "casou": true
+    },
+    {
+     "w": "Morto.",
+     "ini": 12.86,
+     "fim": 13.34,
+     "casou": true
+    },
+    {
+     "w": "Arqueólogos",
+     "ini": 13.98,
+     "fim": 14.58,
+     "casou": true
+    },
+    {
+     "w": "propõem",
+     "ini": 14.58,
+     "fim": 15.02,
+     "casou": true
+    },
+    {
+     "w": "lugares",
+     "ini": 15.02,
+     "fim": 15.3,
+     "casou": true
+    },
+    {
+     "w": "diferentes,",
+     "ini": 15.3,
+     "fim": 15.84,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 16.42,
+     "fim": 16.54,
+     "casou": true
+    },
+    {
+     "w": "sul",
+     "ini": 16.54,
+     "fim": 16.86,
+     "casou": true
+    },
+    {
+     "w": "ou",
+     "ini": 16.86,
+     "fim": 17.26,
+     "casou": true
+    },
+    {
+     "w": "ao",
+     "ini": 17.26,
+     "fim": 17.44,
+     "casou": true
+    },
+    {
+     "w": "nordeste",
+     "ini": 17.44,
+     "fim": 18.0,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 18.0,
+     "fim": 18.18,
+     "casou": true
+    },
+    {
+     "w": "mar,",
+     "ini": 18.18,
+     "fim": 18.42,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 18.82,
+     "fim": 18.94,
+     "casou": true
+    },
+    {
+     "w": "nenhuma",
+     "ini": 18.94,
+     "fim": 19.24,
+     "casou": true
+    },
+    {
+     "w": "proposta",
+     "ini": 19.24,
+     "fim": 19.86,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 19.86,
+     "fim": 19.96,
+     "casou": true
+    },
+    {
+     "w": "consenso.",
+     "ini": 19.96,
+     "fim": 20.56,
+     "casou": true
+    },
+    {
+     "w": "Prefiro",
+     "ini": 21.0,
+     "fim": 21.4,
+     "casou": true
+    },
+    {
+     "w": "te",
+     "ini": 21.4,
+     "fim": 21.54,
+     "casou": true
+    },
+    {
+     "w": "dizer",
+     "ini": 21.54,
+     "fim": 21.84,
+     "casou": true
+    },
+    {
+     "w": "isso",
+     "ini": 21.84,
+     "fim": 22.28,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 22.28,
+     "fim": 22.54,
+     "casou": true
+    },
+    {
+     "w": "vender",
+     "ini": 22.54,
+     "fim": 22.86,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 22.86,
+     "fim": 23.1,
+     "casou": true
+    },
+    {
+     "w": "certeza.",
+     "ini": 23.1,
+     "fim": 23.48,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "O Gênesis conta esse relato como um acontecimento, com nomes e lugares.",
+     "ini": 0.0,
+     "fim": 4.72
+    },
+    {
+     "texto": "O texto fala do vale de Sidim, cheio de poços de betume, junto ao mar Salgado, que a tradição identifica com o Mar Morto.",
+     "ini": 5.44,
+     "fim": 13.34
+    },
+    {
+     "texto": "Arqueólogos propõem lugares diferentes, ao sul ou ao nordeste do mar, e nenhuma proposta é consenso.",
+     "ini": 13.98,
+     "fim": 20.56
+    },
+    {
+     "texto": "Prefiro te dizer isso a vender uma certeza.",
+     "ini": 21.0,
+     "fim": 23.48
+    }
+   ],
+   "cobertura": 1.0,
+   "palavras_asr": 60
+  },
+  "T9": {
+   "duracao_s": 42.68,
+   "inicio_global_s": 435.22,
+   "palavras": [
+    {
+     "w": "Volte",
+     "ini": 0.0,
+     "fim": 0.44,
+     "casou": true
+    },
+    {
+     "w": "à",
+     "ini": 0.44,
+     "fim": 0.52,
+     "casou": true
+    },
+    {
+     "w": "primeira",
+     "ini": 0.52,
+     "fim": 0.74,
+     "casou": true
+    },
+    {
+     "w": "cena.",
+     "ini": 0.74,
+     "fim": 1.18,
+     "casou": true
+    },
+    {
+     "w": "Abraão,",
+     "ini": 1.82,
+     "fim": 2.36,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 2.64,
+     "fim": 2.74,
+     "casou": true
+    },
+    {
+     "w": "madrugada,",
+     "ini": 2.74,
+     "fim": 3.36,
+     "casou": true
+    },
+    {
+     "w": "olhando",
+     "ini": 3.82,
+     "fim": 4.08,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 4.08,
+     "fim": 4.3,
+     "casou": true
+    },
+    {
+     "w": "fumaça",
+     "ini": 4.3,
+     "fim": 4.7,
+     "casou": true
+    },
+    {
+     "w": "subir.",
+     "ini": 4.7,
+     "fim": 5.08,
+     "casou": true
+    },
+    {
+     "w": "Ele",
+     "ini": 5.92,
+     "fim": 6.12,
+     "casou": true
+    },
+    {
+     "w": "tinha",
+     "ini": 6.12,
+     "fim": 6.32,
+     "casou": true
+    },
+    {
+     "w": "pedido",
+     "ini": 6.32,
+     "fim": 6.72,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 6.72,
+     "fim": 6.94,
+     "casou": true
+    },
+    {
+     "w": "cinquenta.",
+     "ini": 7.48,
+     "fim": 8.02,
+     "casou": false
+    },
+    {
+     "w": "Por",
+     "ini": 8.02,
+     "fim": 8.3,
+     "casou": true
+    },
+    {
+     "w": "dez.",
+     "ini": 8.8,
+     "fim": 9.3,
+     "casou": false
+    },
+    {
+     "w": "A",
+     "ini": 9.3,
+     "fim": 9.48,
+     "casou": true
+    },
+    {
+     "w": "cidade",
+     "ini": 9.48,
+     "fim": 9.76,
+     "casou": true
+    },
+    {
+     "w": "não",
+     "ini": 9.76,
+     "fim": 10.18,
+     "casou": true
+    },
+    {
+     "w": "foi",
+     "ini": 10.18,
+     "fim": 10.48,
+     "casou": true
+    },
+    {
+     "w": "poupada.",
+     "ini": 10.48,
+     "fim": 11.04,
+     "casou": true
+    },
+    {
+     "w": "O",
+     "ini": 11.68,
+     "fim": 11.82,
+     "casou": true
+    },
+    {
+     "w": "texto",
+     "ini": 11.82,
+     "fim": 12.02,
+     "casou": true
+    },
+    {
+     "w": "diz",
+     "ini": 12.02,
+     "fim": 12.44,
+     "casou": true
+    },
+    {
+     "w": "que,",
+     "ini": 12.44,
+     "fim": 12.72,
+     "casou": true
+    },
+    {
+     "w": "quando",
+     "ini": 13.08,
+     "fim": 13.16,
+     "casou": true
+    },
+    {
+     "w": "Deus",
+     "ini": 13.16,
+     "fim": 13.5,
+     "casou": true
+    },
+    {
+     "w": "destruiu",
+     "ini": 13.5,
+     "fim": 14.12,
+     "casou": true
+    },
+    {
+     "w": "aquelas",
+     "ini": 14.12,
+     "fim": 14.46,
+     "casou": true
+    },
+    {
+     "w": "cidades,",
+     "ini": 14.46,
+     "fim": 14.98,
+     "casou": true
+    },
+    {
+     "w": "lembrou-se",
+     "ini": 15.44,
+     "fim": 15.94,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 16.08,
+     "fim": 16.22,
+     "casou": true
+    },
+    {
+     "w": "Abraão",
+     "ini": 16.22,
+     "fim": 16.7,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 16.7,
+     "fim": 17.0,
+     "casou": true
+    },
+    {
+     "w": "tirou",
+     "ini": 17.0,
+     "fim": 17.3,
+     "casou": true
+    },
+    {
+     "w": "Ló",
+     "ini": 17.3,
+     "fim": 17.52,
+     "casou": true
+    },
+    {
+     "w": "do",
+     "ini": 17.52,
+     "fim": 17.7,
+     "casou": true
+    },
+    {
+     "w": "meio",
+     "ini": 17.7,
+     "fim": 18.08,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 18.08,
+     "fim": 18.26,
+     "casou": true
+    },
+    {
+     "w": "destruição.",
+     "ini": 18.26,
+     "fim": 18.9,
+     "casou": true
+    },
+    {
+     "w": "Sodoma",
+     "ini": 19.54,
+     "fim": 20.12,
+     "casou": true
+    },
+    {
+     "w": "lembra",
+     "ini": 20.12,
+     "fim": 20.66,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 20.66,
+     "fim": 20.84,
+     "casou": true
+    },
+    {
+     "w": "existe",
+     "ini": 20.84,
+     "fim": 21.3,
+     "casou": true
+    },
+    {
+     "w": "justiça.",
+     "ini": 21.3,
+     "fim": 22.1,
+     "casou": true
+    },
+    {
+     "w": "E",
+     "ini": 22.64,
+     "fim": 22.74,
+     "casou": true
+    },
+    {
+     "w": "lembra",
+     "ini": 22.74,
+     "fim": 23.02,
+     "casou": true
+    },
+    {
+     "w": "também",
+     "ini": 23.02,
+     "fim": 23.36,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 23.36,
+     "fim": 23.64,
+     "casou": true
+    },
+    {
+     "w": "existe",
+     "ini": 23.64,
+     "fim": 23.98,
+     "casou": true
+    },
+    {
+     "w": "alguém",
+     "ini": 23.98,
+     "fim": 24.36,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 24.36,
+     "fim": 24.58,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 24.58,
+     "fim": 24.72,
+     "casou": true
+    },
+    {
+     "w": "aproxima,",
+     "ini": 24.72,
+     "fim": 25.42,
+     "casou": true
+    },
+    {
+     "w": "número",
+     "ini": 25.6,
+     "fim": 26.0,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 26.0,
+     "fim": 26.26,
+     "casou": true
+    },
+    {
+     "w": "número,",
+     "ini": 26.26,
+     "fim": 26.6,
+     "casou": true
+    },
+    {
+     "w": "pela",
+     "ini": 26.96,
+     "fim": 27.22,
+     "casou": true
+    },
+    {
+     "w": "vida",
+     "ini": 27.22,
+     "fim": 27.58,
+     "casou": true
+    },
+    {
+     "w": "de",
+     "ini": 27.58,
+     "fim": 27.78,
+     "casou": true
+    },
+    {
+     "w": "quem",
+     "ini": 27.78,
+     "fim": 27.96,
+     "casou": true
+    },
+    {
+     "w": "nem",
+     "ini": 27.96,
+     "fim": 28.26,
+     "casou": true
+    },
+    {
+     "w": "era",
+     "ini": 28.26,
+     "fim": 28.6,
+     "casou": true
+    },
+    {
+     "w": "da",
+     "ini": 28.6,
+     "fim": 28.74,
+     "casou": true
+    },
+    {
+     "w": "sua",
+     "ini": 28.74,
+     "fim": 28.94,
+     "casou": true
+    },
+    {
+     "w": "cidade.",
+     "ini": 28.94,
+     "fim": 29.36,
+     "casou": true
+    },
+    {
+     "w": "Agora",
+     "ini": 29.36,
+     "fim": 30.3,
+     "casou": true
+    },
+    {
+     "w": "uma",
+     "ini": 30.3,
+     "fim": 30.54,
+     "casou": true
+    },
+    {
+     "w": "pergunta,",
+     "ini": 30.54,
+     "fim": 30.9,
+     "casou": true
+    },
+    {
+     "w": "e",
+     "ini": 30.9,
+     "fim": 31.54,
+     "casou": true
+    },
+    {
+     "w": "ela",
+     "ini": 31.54,
+     "fim": 31.7,
+     "casou": true
+    },
+    {
+     "w": "é",
+     "ini": 31.7,
+     "fim": 31.8,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 31.8,
+     "fim": 31.92,
+     "casou": true
+    },
+    {
+     "w": "você:",
+     "ini": 31.92,
+     "fim": 32.28,
+     "casou": true
+    },
+    {
+     "w": "quando",
+     "ini": 33.06,
+     "fim": 33.24,
+     "casou": true
+    },
+    {
+     "w": "foi",
+     "ini": 33.24,
+     "fim": 33.58,
+     "casou": true
+    },
+    {
+     "w": "a",
+     "ini": 33.58,
+     "fim": 33.7,
+     "casou": true
+    },
+    {
+     "w": "última",
+     "ini": 33.7,
+     "fim": 34.02,
+     "casou": true
+    },
+    {
+     "w": "vez",
+     "ini": 34.02,
+     "fim": 34.4,
+     "casou": true
+    },
+    {
+     "w": "que",
+     "ini": 34.4,
+     "fim": 34.62,
+     "casou": true
+    },
+    {
+     "w": "você",
+     "ini": 34.62,
+     "fim": 34.86,
+     "casou": true
+    },
+    {
+     "w": "se",
+     "ini": 34.86,
+     "fim": 35.04,
+     "casou": true
+    },
+    {
+     "w": "aproximou",
+     "ini": 35.04,
+     "fim": 35.68,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 35.68,
+     "fim": 35.9,
+     "casou": true
+    },
+    {
+     "w": "interceder",
+     "ini": 35.9,
+     "fim": 36.58,
+     "casou": true
+    },
+    {
+     "w": "por",
+     "ini": 36.58,
+     "fim": 36.74,
+     "casou": true
+    },
+    {
+     "w": "alguém?",
+     "ini": 36.74,
+     "fim": 37.0,
+     "casou": true
+    },
+    {
+     "w": "Se",
+     "ini": 37.7,
+     "fim": 37.84,
+     "casou": true
+    },
+    {
+     "w": "quiser,",
+     "ini": 37.84,
+     "fim": 38.18,
+     "casou": true
+    },
+    {
+     "w": "conte",
+     "ini": 38.66,
+     "fim": 38.82,
+     "casou": true
+    },
+    {
+     "w": "nos",
+     "ini": 38.82,
+     "fim": 39.0,
+     "casou": true
+    },
+    {
+     "w": "comentários.",
+     "ini": 39.0,
+     "fim": 39.52,
+     "casou": true
+    },
+    {
+     "w": "Inscreva-se",
+     "ini": 40.14,
+     "fim": 40.64,
+     "casou": true
+    },
+    {
+     "w": "no",
+     "ini": 40.76,
+     "fim": 40.88,
+     "casou": true
+    },
+    {
+     "w": "canal",
+     "ini": 40.88,
+     "fim": 41.16,
+     "casou": true
+    },
+    {
+     "w": "para",
+     "ini": 41.16,
+     "fim": 41.42,
+     "casou": true
+    },
+    {
+     "w": "o",
+     "ini": 41.42,
+     "fim": 41.56,
+     "casou": true
+    },
+    {
+     "w": "próximo",
+     "ini": 41.56,
+     "fim": 41.8,
+     "casou": true
+    },
+    {
+     "w": "episódio.",
+     "ini": 41.8,
+     "fim": 42.18,
+     "casou": true
+    }
+   ],
+   "frases": [
+    {
+     "texto": "Volte à primeira cena.",
+     "ini": 0.0,
+     "fim": 1.18
+    },
+    {
+     "texto": "Abraão, de madrugada, olhando a fumaça subir.",
+     "ini": 1.82,
+     "fim": 5.08
+    },
+    {
+     "texto": "Ele tinha pedido por cinquenta.",
+     "ini": 5.92,
+     "fim": 8.02
+    },
+    {
+     "texto": "Por dez.",
+     "ini": 8.02,
+     "fim": 9.3
+    },
+    {
+     "texto": "A cidade não foi poupada.",
+     "ini": 9.3,
+     "fim": 11.04
+    },
+    {
+     "texto": "O texto diz que, quando Deus destruiu aquelas cidades, lembrou-se de Abraão e tirou Ló do meio da destruição.",
+     "ini": 11.68,
+     "fim": 18.9
+    },
+    {
+     "texto": "Sodoma lembra que existe justiça.",
+     "ini": 19.54,
+     "fim": 22.1
+    },
+    {
+     "texto": "E lembra também que existe alguém que se aproxima, número por número, pela vida de quem nem era da sua cidade.",
+     "ini": 22.64,
+     "fim": 29.36
+    },
+    {
+     "texto": "Agora uma pergunta, e ela é para você:",
+     "ini": 29.36,
+     "fim": 32.28
+    },
+    {
+     "texto": "quando foi a última vez que você se aproximou para interceder por alguém?",
+     "ini": 33.06,
+     "fim": 37.0
+    },
+    {
+     "texto": "Se quiser, conte nos comentários.",
+     "ini": 37.7,
+     "fim": 39.52
+    },
+    {
+     "texto": "Inscreva-se no canal para o próximo episódio.",
+     "ini": 40.14,
+     "fim": 42.18
+    }
+   ],
+   "cobertura": 0.98,
+   "palavras_asr": 103
+  }
+ },
+ "cobertura_total": 0.991,
+ "duracao_total_s": 477.9
+}
