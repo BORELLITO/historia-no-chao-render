@@ -1,0 +1,79 @@
+{
+ "voz": "Johnes Bittar (sJfod1k0iiI5CA9IP0R2)",
+ "modelo": "eleven_v4",
+ "atempo": 1.1,
+ "trechos": {
+  "T1": {
+   "orig_s": 29.73,
+   "rapida_s": 27.04,
+   "bytes_orig": 493224,
+   "sha256_orig": "3c949979ef47acf6691d8adaedd81aa37273b261fbfa41b9bfbfca2b434c3c8f",
+   "sha256_rapida": "e4e2ec3e82fcaa868d1886e6a468e6f10649e9bb25b1e6260dd3b80d49a76df5"
+  },
+  "T2": {
+   "orig_s": 27.64,
+   "rapida_s": 25.13,
+   "bytes_orig": 459787,
+   "sha256_orig": "fbfceb89f5febc83221162e83b66873ca651498cb8d1f12b3895e206530bf3eb",
+   "sha256_rapida": "b8d8491671f78a7b12182f646672897007cf757c1ec2cbc1fe740e5cbe2ce3c2"
+  },
+  "T3": {
+   "orig_s": 44.59,
+   "rapida_s": 40.54,
+   "bytes_orig": 731043,
+   "sha256_orig": "35dac3a1a7c6338e7184988495a61746cc2adee7def621b9c11d5bdecd36f74b",
+   "sha256_rapida": "435757954d33b686a981c1c1234fde865be0c76077733bf3a0cd60923a262d28"
+  },
+  "T4a": {
+   "orig_s": 47.8,
+   "rapida_s": 43.47,
+   "bytes_orig": 782452,
+   "sha256_orig": "eb52acda025d6dd21094cea874dc73967ac7bcee3caa89fe651f201cb3e19cf2",
+   "sha256_rapida": "dba2d4876cfb03c31fb42b7d68bc5abaa4d3df5ff4f95a2f4a59860f2632eb1b"
+  },
+  "T4b": {
+   "orig_s": 18.36,
+   "rapida_s": 16.72,
+   "bytes_orig": 311412,
+   "sha256_orig": "4a4fe7ffbc32cc1325a73abd0fac18950c20c8ae619822f8105e10789e8a6efa",
+   "sha256_rapida": "93a2e853b5d1382a7f305eddf7cb1b386dfd4ba4ef35f9a7564d783cf1061307"
+  },
+  "T5": {
+   "orig_s": 70.69,
+   "rapida_s": 64.26,
+   "bytes_orig": 1148584,
+   "sha256_orig": "bab86b361236e53b3b1ba220edfa4d926da6c3f771cf2ad74cfd6b65249e24a2",
+   "sha256_rapida": "436afc577902c34940c96e112db3b0c62c1fefbdf2c4ac325a308e11beb28729"
+  },
+  "T6": {
+   "orig_s": 76.43,
+   "rapida_s": 69.51,
+   "bytes_orig": 1240535,
+   "sha256_orig": "9afe393babfd4cc14be689d5880648a646e48fe12b15ec13423df96692bee9a6",
+   "sha256_rapida": "000cd011f8a3a87058fa93a51098718a17c1fdb31da7d22cf036104e54ecdf02"
+  },
+  "T7": {
+   "orig_s": 95.95,
+   "rapida_s": 87.25,
+   "bytes_orig": 1552751,
+   "sha256_orig": "e5e75de4681339e4c5a2ccbdd5d56cb457665db29a42d7efd544cce079471325",
+   "sha256_rapida": "b62b81a7e4decad00f9f491d311db0f37226b58027f5c8ef2c2d89ed90ad30f6"
+  },
+  "T8": {
+   "orig_s": 24.03,
+   "rapida_s": 21.86,
+   "bytes_orig": 402109,
+   "sha256_orig": "e9f046b1f5734a5d72bcff568ec00a00e8ecfa5dc5b20242d921654adc90be88",
+   "sha256_rapida": "1f4ccd874285070578f22c5aa461132ddd291c5aeb93879294f58698282d968d"
+  },
+  "T9": {
+   "orig_s": 42.68,
+   "rapida_s": 38.82,
+   "bytes_orig": 700532,
+   "sha256_orig": "831cf3ec35a3a9cd402832a6ca74637a12b4622a71499d92593ce2b3886f4d17",
+   "sha256_rapida": "10ae8c9145a6e29e2b45737006f102e910aa582fc848609ca539cd86f4233cad"
+  }
+ },
+ "total_orig_s": 477.9,
+ "total_rapida_s": 434.6
+}
