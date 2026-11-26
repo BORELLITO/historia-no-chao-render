@@ -1,0 +1,50 @@
+name: HNC previa do episodio (publico)
+# Previa EP01: voz real + 86 planos V7 + karaoke sincronizado. ARTE PROVISORIA (dominio publico, reuso declarado). Nao gasta credito, nao publica.
+# Resultado: mp4 960x540 na branch orfa "previa" (nao e merge nem publicacao).
+on:
+  push:
+    branches: ["main"]
+    paths: ["run/previa.json"]
+permissions:
+  contents: write
+concurrency:
+  group: hnc-previa
+  cancel-in-progress: false
+jobs:
+  previa:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: python -m pip install --disable-pip-version-check -q pillow numpy imageio-ffmpeg opencv-python-headless pytest
+      - run: python -m pip install --disable-pip-version-check -q torch --index-url https://download.pytorch.org/whl/cpu
+      - run: python -m pip install --disable-pip-version-check -q transformers
+      - name: Busca ativos (dominio publico, 30 s entre arquivos)
+        run: |
+          cd hnc
+          for m in manifest_ep01.json manifest_lote4.json manifest_lote5b.json manifest_cena56.json; do
+            python hnc_fetch.py --manifest $m --mode fetch || true
+            cp ledger.json /tmp/ledger_$m || true
+          done
+          ls -l quarentena || true
+      - name: Monta shots e audio
+        run: |
+          python voz/montar_previa.py --exige-arquivos | tee /tmp/montagem.log
+          python voz/montar_audio.py /tmp/voz_previa.wav | tee -a /tmp/montagem.log
+      - name: Render
+        run: python hnc/engine_d.py hnc/shots_ep01_previa.json /tmp/video_mudo.mp4 preview 2>&1 | grep -v "^[A-Za-z0-9+/=]\{200,\}" | tail -60
+      - name: Mux e publica na branch previa
+        run: |
+          ffmpeg -y -loglevel error -i /tmp/video_mudo.mp4 -i /tmp/voz_previa.wav -c:v copy -c:a aac -b:a 128k -shortest /tmp/HNC_EP01_PREVIA.mp4
+          ls -l /tmp/HNC_EP01_PREVIA.mp4; ffprobe -v error -show_entries format=duration,size -of default=nw=1 /tmp/HNC_EP01_PREVIA.mp4
+          mkdir /tmp/pv && cp /tmp/HNC_EP01_PREVIA.mp4 voz/previa_mapa.txt hnc/shots_ep01_previa.json /tmp/montagem.log /tmp/pv/ && cp /tmp/ledger_*.json /tmp/pv/ 2>/dev/null || true
+          git config user.name "hnc-previa"; git config user.email "hnc-previa@users.noreply.github.com"
+          git checkout -q --orphan previa; git rm -rfq . ; cp -r /tmp/pv/. .
+          git add -A; git commit -q -m "HNC EP01: previa do episodio (arte provisoria, nao aprovada)"
+          git push -q -f origin previa
+          git checkout -q -f main 2>/dev/null || git checkout -q -f ${{ github.sha }}
+          git rm -q run/previa.json && git commit -q -m "HNC EP01: previa gerada (gatilho consumido)" && for i in 1 2 3 4; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done
