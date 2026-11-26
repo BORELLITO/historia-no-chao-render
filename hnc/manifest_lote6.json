@@ -1,0 +1,105 @@
+{
+ "episode": "HNC01",
+ "max_files": 12,
+ "assets": [
+  {
+   "id": "TIS-037",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Tissot_Drawing_037_Abraham_and_the_three_angels_%28Genesis_18_2%29_for_Brunoff_034_Abraham_et_les_trois_Anges.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_Drawing_037_Abraham_and_the_three_angels_%28Genesis_18_2%29_for_Brunoff_034_Abraham_et_les_trois_Anges.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Tissot (Brooklyn Museum), Abraao e os tres anjos; PD; asas NAO VERIFICADO"
+  },
+  {
+   "id": "TIS-040",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Tissot_Drawing_040_Abraham_see_Sodom_burning_%28Genesis_19_28%29_for_Brunoff_037_Abram_voit_Sodome_en_flammes.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_Drawing_040_Abraham_see_Sodom_burning_%28Genesis_19_28%29_for_Brunoff_037_Abram_voit_Sodome_en_flammes.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Tissot, Abraao ve Sodoma em chamas; PD"
+  },
+  {
+   "id": "TIS-028",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Tissot_Drawing_028_for_Brunoff_027_Promesses_de_Dieu_%C3%A0_Abram.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_Drawing_028_for_Brunoff_027_Promesses_de_Dieu_%C3%A0_Abram.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Tissot, promessas a Abrao; PD"
+  },
+  {
+   "id": "TIS-031",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Tissot_Drawing_031_for_Brunoff_024_Conseils_d%27Abram_%C3%A0_Sara%C3%AF.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_Drawing_031_for_Brunoff_024_Conseils_d%27Abram_%C3%A0_Sara%C3%AF.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Tissot, Abrao e Sarai; PD"
+  },
+  {
+   "id": "TIS-024",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Tissot_Drawing_024_for_Brunoff_023_La_caravane_d%27Abram.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_Drawing_024_for_Brunoff_023_La_caravane_d%27Abram.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Tissot, caravana de Abrao (retrato); PD"
+  },
+  {
+   "id": "TIS-048",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Tissot_Drawing_048_The_Sodomites_%28Genesis_19_5%29_for_Brunoff_036_Les_Sodomites.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_Drawing_048_The_Sodomites_%28Genesis_19_5%29_for_Brunoff_036_Les_Sodomites.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Tissot, os sodomitas a porta (retrato); PD"
+  },
+  {
+   "id": "TIS-038",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Tissot_Drawing_038_Sarah_hears_the_promise_and_laughs_%28Genesis_18_10%29_for_Brunoff_035_Sara_rit_en_%C3%A9coutant-12.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_Drawing_038_Sarah_hears_the_promise_and_laughs_%28Genesis_18_10%29_for_Brunoff_035_Sara_rit_en_%C3%A9coutant-12.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Tissot, Sara ri (retrato); PD"
+  },
+  {
+   "id": "TIS-034",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Tissot_Drawing_034_The_offerings_of_Melchizedek_%28Genesis_14_18%29_for_Brunoff_029_L%27offrande_de_Melchis%C3%A9dech.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_Drawing_034_The_offerings_of_Melchizedek_%28Genesis_14_18%29_for_Brunoff_029_L%27offrande_de_Melchis%C3%A9dech.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Tissot, Melquisedeque; PD"
+  },
+  {
+   "id": "DORE-011",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:011.Abraham_Goes_to_the_Land_of_Canaan.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/011.Abraham_Goes_to_the_Land_of_Canaan.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Dore, Abraao rumo a Canaa; PD"
+  },
+  {
+   "id": "DORE-012",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:012.Abraham_and_the_Three_Angels.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/012.Abraham_and_the_Three_Angels.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Dore, Abraao e os tres anjos (retrato); PD"
+  },
+  {
+   "id": "DORE-013",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:013.Lot_Flees_as_Sodom_and_Gomorrah_Burn.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/013.Lot_Flees_as_Sodom_and_Gomorrah_Burn.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Dore, Lo foge (retrato); PD"
+  }
+ ]
+}

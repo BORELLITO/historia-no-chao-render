@@ -1,0 +1,69 @@
+{
+ "episode": "HNC01",
+ "max_files": 12,
+ "assets": [
+  {
+   "id": "BRU-MAMRE",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_%28I%29_Abraham_und_die_Engel_in_Mamre.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Brueghel_%28I%29_Abraham_und_die_Engel_in_Mamre.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "J. Brueghel, Abraao e anjos em Manre; PD"
+  },
+  {
+   "id": "LAS-ABR",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Pieter_Lastman_-_Abraham_and_the_Three_Angels.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Pieter_Lastman_-_Abraham_and_the_Three_Angels.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Lastman; PD"
+  },
+  {
+   "id": "JM-SODOMA",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:John_Martin_-_Sodom_and_Gomorrah.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Martin_-_Sodom_and_Gomorrah.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "John Martin, destruicao de Sodoma; PD"
+  },
+  {
+   "id": "DUB-SODOMA",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Mathieu_Dubus_-_Destruction_of_Sodom_and_Gomorrah.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathieu_Dubus_-_Destruction_of_Sodom_and_Gomorrah.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Dubus; PD"
+  },
+  {
+   "id": "MOS-LO",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Gillis_Mostaert_-_Lot_and_his_daughters_guided_by_angels%2C_the_destruction_of_Sodom_and_Gomorrah_beyond.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Gillis_Mostaert_-_Lot_and_his_daughters_guided_by_angels%2C_the_destruction_of_Sodom_and_Gomorrah_beyond.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Mostaert; PD"
+  },
+  {
+   "id": "KEU-LO",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Keuninck_-_Lot_verlaat_Sodom.jpg",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Keuninck_-_Lot_verlaat_Sodom.jpg",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Keuninck; PD"
+  },
+  {
+   "id": "RUB-LO",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Lot_and_his_family_leaving_Sodom.JPG",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Paul_Rubens_-_Lot_and_his_family_leaving_Sodom.JPG",
+   "license_marker": "public domain",
+   "planos": [],
+   "qa": "Rubens; PD"
+  }
+ ]
+}

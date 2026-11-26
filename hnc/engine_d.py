@@ -60,7 +60,7 @@ def cap_masks(text, ref=None, center=False):
         if d.textlength(t, font=ft) <= maxw or not cur: cur = t
         else: lines.append(cur); cur = wd
     if cur: lines.append(cur)
-    lh = int(fs * 1.3); top = (H * 2 - lh * len(lines)) // 2 if center else H * 2 - int(190 * SC) - lh * len(lines)
+    lh = int(fs * 1.3); top = (int(H * 2 * 0.635) - lh * len(lines) // 2) if center == 'mid_low' else ((H * 2 - lh * len(lines)) // 2 if center else H * 2 - int(190 * SC) - lh * len(lines))
     wl = []; tot = sum(len(w_) + 1 for w_ in text.split()) or 1; acc = 0
     for n, ln in enumerate(lines):
         x0 = (W * 2 - d.textlength(ln, font=ft)) / 2; y0 = top + n * lh; d.text((x0, y0), ln, font=ft, fill=255); pre = ""
@@ -71,6 +71,7 @@ def cap_masks(text, ref=None, center=False):
         fr_, _ = _font(int(56 * SC)); d.text((W * 2 - int(120 * SC) - d.textlength(ref, font=fr_), int(100 * SC)), ref, font=fr_, fill=255)
     ol = big.filter(ImageFilter.MaxFilter(max(3, int(11 * SC) | 1))).filter(ImageFilter.GaussianBlur(5 * SC)); return f_(big), np.clip(f_(ol) * 1.7, 0, 1), wl
 _by = np.linspace(0, 1, H, dtype=np.float32)[:, None, None]; BAND = (0.55 * np.clip((_by - 0.60) / 0.40, 0, 1) ** 1.6).astype(np.float32)
+MIDBAND = (0.42 * np.exp(-(((_by - 0.635) / 0.14) ** 2))).astype(np.float32)  # faixa suave atras da legenda centralizada (um pouco abaixo do meio)
 def cap_al(i, F):
     if not CAPV2: return min(1, i / 14, (F - 1 - i) / 14)
     dl = min(0.5 * FPS, 0.15 * F); fi = min(0.6 * FPS, 0.2 * F); fo = min(0.5 * FPS, 0.2 * F)
@@ -133,9 +134,9 @@ shots = cfg["shots"]
 for s in shots:
     s["_black"] = s.get("kind") == "black"
     if not s["_black"]: assert min(s["a"][2], s["b"][2]) >= 0.55, f"janela estreita demais em {s['src']}"
-    tx, ol, wl = cap_masks(s.get("cap", ""), s.get("ref"), center=bool(s["_black"] or s.get("cap_pos") == "center")); s["_tx"], s["_ol"] = tx, ol
+    tx, ol, wl = cap_masks(s.get("cap", ""), s.get("ref"), center=("mid_low" if s.get("cap_pos") == "mid_low" else bool(s["_black"] or s.get("cap_pos") == "center"))); s["_tx"], s["_ol"] = tx, ol
     s["_T"] = kara_map(wl, int(s["dur"] * FPS), s.get("kara")) if (KARA and wl) else None
-    band = BAND if (CAPV2 and not s["_black"] and s.get("cap_pos") != "center") else 0
+    band = MIDBAND if (CAPV2 and s.get("cap_pos") == "mid_low") else (BAND if (CAPV2 and not s["_black"] and s.get("cap_pos") != "center") else 0)
     s["_band"] = band; s["_K1"] = (1 - (0.75 if not CAPV2 else 0.85) * ol) * (1 - tx) * (1 - band); s["_C1"] = COL * tx; s["_dust"] = Dust(); s["_emb"] = Embers()
 WHITE = np.array(cfg.get("karaoke_base_rgb", [.98, .98, .96]), np.float32)
 def kcol(s, i):

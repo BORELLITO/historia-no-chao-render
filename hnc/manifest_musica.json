@@ -1,0 +1,33 @@
+{
+ "episode": "HNC01",
+ "max_files": 4,
+ "assets": [
+  {
+   "id": "MUS-ARIA",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Goldberg_Variations_BWV_988_01_Aria.flac",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Goldberg_Variations_BWV_988_01_Aria.flac",
+   "license_marker": "CC0",
+   "planos": [],
+   "qa": "Bach/Ishizaka CC0"
+  },
+  {
+   "id": "MUS-V13",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Goldberg_Variations_BWV_988_14_Variatio_13_a_2_Clav.flac",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Goldberg_Variations_BWV_988_14_Variatio_13_a_2_Clav.flac",
+   "license_marker": "CC0",
+   "planos": [],
+   "qa": "Bach/Ishizaka CC0"
+  },
+  {
+   "id": "MUS-V25",
+   "source": "wikimedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Goldberg_Variations_BWV_988_26_Variatio_25_a_2_Clav.flac",
+   "file": "https://commons.wikimedia.org/wiki/Special:FilePath/Goldberg_Variations_BWV_988_26_Variatio_25_a_2_Clav.flac",
+   "license_marker": "CC0",
+   "planos": [],
+   "qa": "Bach/Ishizaka CC0"
+  }
+ ]
+}

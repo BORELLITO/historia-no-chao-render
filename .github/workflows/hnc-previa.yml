@@ -13,7 +13,7 @@ concurrency:
 jobs:
   previa:
     runs-on: ubuntu-24.04
-    timeout-minutes: 90
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
       - uses: actions/setup-python@v5
@@ -26,20 +26,33 @@ jobs:
       - name: Busca ativos (dominio publico, 30 s entre arquivos)
         run: |
           cd hnc
-          for m in manifest_ep01.json manifest_lote4.json manifest_lote5b.json manifest_cena56.json; do
+          for m in manifest_ep01.json manifest_lote4.json manifest_lote5b.json manifest_lote6.json manifest_lote7.json manifest_musica.json; do
             python hnc_fetch.py --manifest $m --mode fetch || true
             cp ledger.json /tmp/ledger_$m || true
           done
+          python - <<'PY'
+          import glob, os
+          from PIL import Image
+          Image.MAX_IMAGE_PIXELS = None
+          for f in glob.glob("quarentena/*"):
+              b, e = os.path.splitext(f)
+              if e.lower() in (".png", ".jpeg", ".jpg", ".tif", ".tiff") and not f.endswith(".jpg"):
+                  Image.open(f).convert("RGB").save(b + ".jpg", quality=92); os.remove(f)
+              elif e == ".jpg":
+                  im = Image.open(f)
+                  if max(im.size) > 4200:
+                      im = im.convert("RGB"); r = 4200 / max(im.size); im.resize((int(im.width * r), int(im.height * r)), Image.LANCZOS).save(f, quality=92)
+          PY
           ls -l quarentena || true
       - name: Monta shots e audio
         run: |
           python voz/montar_previa.py --exige-arquivos | tee /tmp/montagem.log
-          python voz/montar_audio.py /tmp/voz_previa.wav | tee -a /tmp/montagem.log
+          python voz/montar_audio.py /tmp/voz_previa.wav hnc/quarentena | tee -a /tmp/montagem.log
       - name: Render
         run: python hnc/engine_d.py hnc/shots_ep01_previa.json /tmp/video_mudo.mp4 preview 2>&1 | grep -v "^[A-Za-z0-9+/=]\{200,\}" | tail -60
       - name: Mux e publica na branch previa
         run: |
-          ffmpeg -y -loglevel error -i /tmp/video_mudo.mp4 -i /tmp/voz_previa.wav -c:v libx264 -crf 30 -preset medium -maxrate 800k -bufsize 1600k -pix_fmt yuv420p -c:a aac -b:a 112k -shortest -movflags +faststart /tmp/HNC_EP01_PREVIA.mp4
+          ffmpeg -y -loglevel error -i /tmp/video_mudo.mp4 -i /tmp/voz_previa.wav -c:v libx264 -crf 30 -preset medium -maxrate 800k -bufsize 1600k -pix_fmt yuv420p -c:a aac -b:a 160k -shortest -movflags +faststart /tmp/HNC_EP01_PREVIA.mp4
           ls -l /tmp/HNC_EP01_PREVIA.mp4; ffprobe -v error -show_entries format=duration,size -of default=nw=1 /tmp/HNC_EP01_PREVIA.mp4
           mkdir /tmp/pv && cp /tmp/HNC_EP01_PREVIA.mp4 voz/previa_mapa.txt hnc/shots_ep01_previa.json /tmp/montagem.log /tmp/pv/ && cp /tmp/ledger_*.json /tmp/pv/ 2>/dev/null || true
           git config user.name "hnc-previa"; git config user.email "hnc-previa@users.noreply.github.com"
