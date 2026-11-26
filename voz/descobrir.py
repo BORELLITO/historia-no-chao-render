@@ -9,7 +9,7 @@ def api(**p):
         except Exception as e: print("erro", repr(e)[:100]); time.sleep(8)
     return {}
 for q in QS:
-    print("\n### ", q["q"]); time.sleep(3)
+    print("\n### ", q["q"]); time.sleep(10)
     r = api(action="query", generator="search", gsrnamespace=6, gsrsearch=q["q"], gsrlimit=q.get("n", 12), prop="imageinfo", iiprop="url|size|mime|extmetadata", iiextmetadatafilter="LicenseShortName|Artist|ObjectName")
     for p in sorted((r.get("query", {}).get("pages", {})).values(), key=lambda x: x.get("index", 0)):
         ii = (p.get("imageinfo") or [{}])[0]; m = ii.get("extmetadata", {})
