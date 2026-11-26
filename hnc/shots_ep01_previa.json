@@ -42,15 +42,6 @@
    ],
    "sepia": true
   },
-  "DUB-SODOMA": {
-   "box": [
-    0.01,
-    0.01,
-    0.99,
-    0.99
-   ],
-   "sepia": false
-  },
   "JM-SODOMA": {
    "box": [
     0.01,
@@ -62,10 +53,10 @@
   },
   "KEU-LO": {
    "box": [
-    0.01,
-    0.01,
-    0.99,
-    0.99
+    0.05,
+    0.11,
+    0.95,
+    0.87
    ],
    "sepia": false
   },
@@ -126,6 +117,15 @@
    ],
    "sepia": true
   },
+  "RK-LO-MENIGTE": {
+   "box": [
+    0.11,
+    0.065,
+    0.74,
+    0.77
+   ],
+   "sepia": true
+  },
   "RK-LOTSVROUW": {
    "box": [
     0.035,
@@ -135,84 +135,21 @@
    ],
    "sepia": true
   },
+  "RK-SODOMA-CEGOS": {
+   "box": [
+    0.02,
+    0.02,
+    0.98,
+    0.84
+   ],
+   "sepia": true
+  },
   "RUB-LO": {
    "box": [
     0.01,
     0.01,
     0.99,
     0.99
-   ],
-   "sepia": false
-  },
-  "TIS-024": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-028": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-031": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-034": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-037": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-038": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-040": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-048": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
    ],
    "sepia": false
   },
@@ -233,6 +170,15 @@
     0.41
    ],
    "sepia": false
+  },
+  "WM-FRENCH-ABRAHAM": {
+   "box": [
+    0.03,
+    0.03,
+    0.97,
+    0.97
+   ],
+   "sepia": true
   },
   "WM-MARTIN": {
    "box": [
@@ -413,7 +359,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-040",
+   "src": "WH-ESCAPE-BODE",
    "a": [
     0.3,
     0.5,
@@ -489,7 +435,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "WH-ESCAPE-BODE",
+   "src": "DORE-011",
    "a": [
     0.3,
     0.5,
@@ -653,16 +599,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-024",
+   "src": "RB-RIJKS-TERRASANTA",
    "a": [
+    0.3,
     0.5,
-    0.27,
-    1.0
+    0.75
    ],
    "b": [
+    0.7,
     0.5,
-    0.73,
-    1.0
+    0.75
    ],
    "fx": {
     "parallax": 12,
@@ -941,16 +887,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-048",
+   "src": "WC-HOET-PORTA",
    "a": [
+    0.3,
     0.5,
-    0.27,
-    1.0
+    0.75
    ],
    "b": [
+    0.7,
     0.5,
-    0.73,
-    1.0
+    0.75
    ],
    "fx": {
     "parallax": 12,
@@ -1169,7 +1115,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-037",
+   "src": "WM-FRENCH-ABRAHAM",
    "a": [
     0.3,
     0.5,
@@ -1535,16 +1481,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-038",
+   "src": "WM-FRENCH-ABRAHAM",
    "a": [
-    0.5,
-    0.27,
-    1.0
+    0.7,
+    0.52,
+    0.75
    ],
    "b": [
+    0.32,
     0.5,
-    0.73,
-    1.0
+    0.72
    ],
    "fx": {
     "parallax": 12,
@@ -1647,16 +1593,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-040",
+   "src": "WM-PATINIR-SODOMA",
    "a": [
-    0.7,
-    0.52,
+    0.3,
+    0.5,
     0.75
    ],
    "b": [
-    0.32,
+    0.7,
     0.5,
-    0.72
+    0.75
    ],
    "fx": {
     "parallax": 12,
@@ -1747,16 +1693,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "RB-RIJKS-TERRASANTA",
+   "src": "RB-HEBRON",
    "a": [
-    0.3,
-    0.5,
+    0.7,
+    0.52,
     0.75
    ],
    "b": [
-    0.7,
+    0.32,
     0.5,
-    0.75
+    0.72
    ],
    "fx": {
     "parallax": 12,
@@ -1895,16 +1841,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-024",
+   "src": "DORE-011",
    "a": [
-    0.5,
-    0.73,
-    1.0
+    0.7,
+    0.52,
+    0.75
    ],
    "b": [
+    0.32,
     0.5,
-    0.27,
-    1.0
+    0.72
    ],
    "fx": {
     "parallax": 12,
@@ -1959,16 +1905,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "DORE-011",
+   "src": "RB-RIJKS-TERRASANTA",
    "a": [
-    0.3,
-    0.5,
+    0.7,
+    0.52,
     0.75
    ],
    "b": [
-    0.7,
+    0.32,
     0.5,
-    0.75
+    0.72
    ],
    "fx": {
     "parallax": 12,
@@ -2027,16 +1973,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-028",
+   "src": "DORE-012",
    "a": [
-    0.3,
     0.5,
-    0.75
+    0.73,
+    1.0
    ],
    "b": [
-    0.7,
     0.5,
-    0.75
+    0.27,
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -2183,16 +2129,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-034",
+   "src": "RB-MARMORTO-BM",
    "a": [
-    0.3,
-    0.5,
+    0.7,
+    0.52,
     0.75
    ],
    "b": [
-    0.7,
+    0.32,
     0.5,
-    0.75
+    0.72
    ],
    "fx": {
     "parallax": 12,
@@ -2281,16 +2227,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-028",
+   "src": "WM-FRENCH-ABRAHAM",
    "a": [
-    0.7,
-    0.52,
-    0.75
+    0.5,
+    0.5,
+    1.0
    ],
    "b": [
-    0.32,
     0.5,
-    0.72
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -2377,14 +2323,14 @@
    "in": "dissolve",
    "src": "RB-HEBRON",
    "a": [
-    0.7,
-    0.52,
-    0.75
+    0.5,
+    0.5,
+    1.0
    ],
    "b": [
-    0.32,
     0.5,
-    0.72
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -2479,16 +2425,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "DUB-SODOMA",
+   "src": "WM-PATINIR-SODOMA",
    "a": [
-    0.3,
-    0.5,
+    0.7,
+    0.52,
     0.75
    ],
    "b": [
-    0.7,
+    0.32,
     0.5,
-    0.75
+    0.72
    ],
    "fx": {
     "parallax": 12,
@@ -2571,7 +2517,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-040",
+   "src": "WH-ESCAPE-BODE",
    "a": [
     0.5,
     0.5,
@@ -2823,16 +2769,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-031",
+   "src": "RK-ABRAAO-REFEICAO",
    "a": [
-    0.3,
     0.5,
-    0.75
+    0.5,
+    1.0
    ],
    "b": [
-    0.7,
     0.5,
-    0.75
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -2891,7 +2837,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "WC-HOET-PORTA",
+   "src": "RK-LO-MENIGTE",
    "a": [
     0.3,
     0.5,
@@ -2951,16 +2897,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-048",
+   "src": "WC-HOET-PORTA",
    "a": [
-    0.5,
-    0.73,
-    1.0
+    0.7,
+    0.52,
+    0.75
    ],
    "b": [
+    0.32,
     0.5,
-    0.27,
-    1.0
+    0.72
    ],
    "fx": {
     "parallax": 12,
@@ -3035,16 +2981,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-037",
+   "src": "WM-FRENCH-ABRAHAM",
    "a": [
-    0.7,
-    0.52,
-    0.75
+    0.5,
+    0.5,
+    0.66
    ],
    "b": [
-    0.32,
     0.5,
-    0.72
+    0.5,
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -3103,7 +3049,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "WM-PATINIR-SODOMA",
+   "src": "RK-SODOMA-CEGOS",
    "a": [
     0.3,
     0.5,
@@ -3187,7 +3133,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "WC-HOET-PORTA",
+   "src": "RK-LO-MENIGTE",
    "a": [
     0.7,
     0.52,
@@ -3247,16 +3193,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-048",
+   "src": "WC-HOET-PORTA",
    "a": [
     0.5,
-    0.27,
+    0.5,
     1.0
    ],
    "b": [
     0.5,
-    0.73,
-    1.0
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -3331,7 +3277,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "MOS-LO",
+   "src": "RK-SODOMA-CEGOS",
    "a": [
     0.7,
     0.52,
@@ -3431,7 +3377,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "WC-HOET-PORTA",
+   "src": "RK-LO-MENIGTE",
    "a": [
     0.5,
     0.5,
@@ -3521,16 +3467,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-048",
+   "src": "RK-SODOMA-CEGOS",
    "a": [
     0.5,
-    0.73,
+    0.5,
     1.0
    ],
    "b": [
     0.5,
-    0.27,
-    1.0
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -3665,7 +3611,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-031",
+   "src": "LAS-ABR",
    "a": [
     0.7,
     0.52,
@@ -3931,14 +3877,14 @@
    "in": "dissolve",
    "src": "MOS-LO",
    "a": [
-    0.5,
-    0.5,
-    1.0
+    0.7,
+    0.52,
+    0.75
    ],
    "b": [
+    0.32,
     0.5,
-    0.5,
-    0.66
+    0.72
    ],
    "fx": {
     "parallax": 12,
@@ -4499,14 +4445,14 @@
    "in": "dissolve",
    "src": "RB-RIJKS-TERRASANTA",
    "a": [
-    0.7,
-    0.52,
-    0.75
+    0.5,
+    0.5,
+    1.0
    ],
    "b": [
-    0.32,
     0.5,
-    0.72
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -4721,12 +4667,12 @@
    "a": [
     0.5,
     0.5,
-    1.0
+    0.66
    ],
    "b": [
     0.5,
     0.5,
-    0.66
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -4945,16 +4891,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "DUB-SODOMA",
+   "src": "RB-HEBRON",
    "a": [
-    0.7,
-    0.52,
-    0.75
+    0.5,
+    0.5,
+    0.66
    ],
    "b": [
-    0.32,
     0.5,
-    0.72
+    0.5,
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -5021,12 +4967,12 @@
    "a": [
     0.5,
     0.5,
-    1.0
+    0.66
    ],
    "b": [
     0.5,
     0.5,
-    0.66
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -5089,12 +5035,12 @@
    "a": [
     0.5,
     0.5,
-    0.66
+    1.0
    ],
    "b": [
     0.5,
     0.5,
-    1.0
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -5239,14 +5185,14 @@
    "in": "dissolve",
    "src": "WM-PATINIR-SODOMA",
    "a": [
-    0.7,
-    0.52,
-    0.75
+    0.5,
+    0.5,
+    1.0
    ],
    "b": [
-    0.32,
     0.5,
-    0.72
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -5319,14 +5265,14 @@
    "in": "dissolve",
    "src": "RB-MARMORTO-BM",
    "a": [
-    0.7,
-    0.52,
-    0.75
+    0.5,
+    0.5,
+    1.0
    ],
    "b": [
-    0.32,
     0.5,
-    0.72
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -5501,12 +5447,12 @@
    "a": [
     0.5,
     0.5,
-    1.0
+    0.66
    ],
    "b": [
     0.5,
     0.5,
-    0.66
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -5583,14 +5529,14 @@
    "in": "dissolve",
    "src": "RB-HEBRON",
    "a": [
-    0.5,
-    0.5,
-    1.0
+    0.35,
+    0.4,
+    0.7
    ],
    "b": [
-    0.5,
-    0.5,
-    0.66
+    0.6,
+    0.6,
+    0.7
    ],
    "fx": {
     "parallax": 12,
@@ -5681,16 +5627,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-024",
+   "src": "DORE-011",
    "a": [
     0.5,
-    0.27,
+    0.5,
     1.0
    ],
    "b": [
     0.5,
-    0.73,
-    1.0
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -5853,15 +5799,15 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-048",
+   "src": "RK-SODOMA-CEGOS",
    "a": [
     0.5,
-    0.27,
-    1.0
+    0.5,
+    0.66
    ],
    "b": [
     0.5,
-    0.73,
+    0.5,
     1.0
    ],
    "fx": {
@@ -6033,12 +5979,12 @@
    "a": [
     0.5,
     0.5,
-    1.0
+    0.66
    ],
    "b": [
     0.5,
     0.5,
-    0.66
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -6151,14 +6097,14 @@
    "in": "dissolve",
    "src": "WH-ESCAPE-BODE",
    "a": [
-    0.5,
-    0.5,
-    0.66
+    0.35,
+    0.4,
+    0.7
    ],
    "b": [
-    0.5,
-    0.5,
-    1.0
+    0.6,
+    0.6,
+    0.7
    ],
    "fx": {
     "parallax": 12,
@@ -6239,14 +6185,14 @@
    "in": "dissolve",
    "src": "RB-RIJKS-TERRASANTA",
    "a": [
-    0.5,
-    0.5,
-    0.66
+    0.35,
+    0.4,
+    0.7
    ],
    "b": [
-    0.5,
-    0.5,
-    1.0
+    0.6,
+    0.6,
+    0.7
    ],
    "fx": {
     "parallax": 12,
@@ -6295,14 +6241,14 @@
    "in": "dissolve",
    "src": "RB-HEBRON",
    "a": [
-    0.5,
-    0.5,
-    0.66
+    0.65,
+    0.6,
+    0.7
    ],
    "b": [
-    0.5,
-    0.5,
-    1.0
+    0.4,
+    0.4,
+    0.7
    ],
    "fx": {
     "parallax": 12,
@@ -6361,7 +6307,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-040",
+   "src": "WM-PATINIR-SODOMA",
    "a": [
     0.5,
     0.5,
@@ -6433,16 +6379,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-028",
+   "src": "DORE-012",
    "a": [
     0.5,
-    0.5,
+    0.27,
     1.0
    ],
    "b": [
     0.5,
-    0.5,
-    0.66
+    0.73,
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -6577,16 +6523,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "WM-PATINIR-SODOMA",
+   "src": "WM-MARTIN",
    "a": [
     0.5,
     0.5,
-    1.0
+    0.66
    ],
    "b": [
     0.5,
     0.5,
-    0.66
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -6685,16 +6631,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "TIS-037",
+   "src": "BRU-MAMRE",
    "a": [
     0.5,
     0.5,
-    1.0
+    0.66
    ],
    "b": [
     0.5,
     0.5,
-    0.66
+    1.0
    ],
    "fx": {
     "parallax": 12,
@@ -6781,16 +6727,16 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "DORE-012",
+   "src": "LAS-ABR",
    "a": [
     0.5,
-    0.73,
+    0.5,
     1.0
    ],
    "b": [
     0.5,
-    0.27,
-    1.0
+    0.5,
+    0.66
    ],
    "fx": {
     "parallax": 12,
@@ -6865,7 +6811,7 @@
    ],
    "cap_pos": "mid_low",
    "in": "dissolve",
-   "src": "BRU-MAMRE",
+   "src": "DORE-011",
    "a": [
     0.5,
     0.5,

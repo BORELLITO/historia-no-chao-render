@@ -1,84 +1,9 @@
 {
  "retrato": [
-  "TIS-024",
-  "TIS-048",
-  "TIS-038",
   "DORE-012",
   "DORE-013"
  ],
  "novas": {
-  "TIS-037": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-040": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-028": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-031": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-024": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-048": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-038": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
-  "TIS-034": {
-   "box": [
-    0.04,
-    0.03,
-    0.96,
-    0.97
-   ],
-   "sepia": false
-  },
   "DORE-011": {
    "box": [
     0.03,
@@ -133,15 +58,6 @@
    ],
    "sepia": false
   },
-  "DUB-SODOMA": {
-   "box": [
-    0.01,
-    0.01,
-    0.99,
-    0.99
-   ],
-   "sepia": false
-  },
   "MOS-LO": {
    "box": [
     0.01,
@@ -153,10 +69,10 @@
   },
   "KEU-LO": {
    "box": [
-    0.01,
-    0.01,
-    0.99,
-    0.99
+    0.05,
+    0.11,
+    0.95,
+    0.87
    ],
    "sepia": false
   },
@@ -168,56 +84,74 @@
     0.99
    ],
    "sepia": false
+  },
+  "RK-SODOMA-CEGOS": {
+   "box": [
+    0.02,
+    0.02,
+    0.98,
+    0.84
+   ],
+   "sepia": true
+  },
+  "RK-LO-MENIGTE": {
+   "box": [
+    0.11,
+    0.065,
+    0.74,
+    0.77
+   ],
+   "sepia": true
   }
  },
  "plano": {
   "1": "RB-HEBRON",
-  "2": "TIS-040",
-  "3": "WH-ESCAPE-BODE",
+  "2": "WH-ESCAPE-BODE",
+  "3": "DORE-011",
   "4": "RB-MARMORTO-BM",
-  "5": "TIS-024",
+  "5": "RB-RIJKS-TERRASANTA",
   "6": "WM-MARTIN",
   "7": "JM-SODOMA",
-  "8": "TIS-048",
+  "8": "WC-HOET-PORTA",
   "9": "RK-ABRAAO-REFEICAO",
   "10": "BRU-MAMRE",
-  "11": "TIS-037",
+  "11": "WM-FRENCH-ABRAHAM",
   "12": "DORE-012",
   "13": "RK-ABRAAO-REFEICAO",
   "14": "preto",
   "15": "LAS-ABR",
-  "16": "TIS-038",
-  "17": "TIS-040",
-  "18": "RB-RIJKS-TERRASANTA",
+  "16": "WM-FRENCH-ABRAHAM",
+  "17": "WM-PATINIR-SODOMA",
+  "18": "RB-HEBRON",
   "19": "WH-ESCAPE-BODE",
-  "20": "TIS-024",
-  "21": "DORE-011",
-  "22": "TIS-028",
+  "20": "DORE-011",
+  "21": "RB-RIJKS-TERRASANTA",
+  "22": "DORE-012",
   "23": "BRU-MAMRE",
-  "24": "TIS-034",
+  "24": "RB-MARMORTO-BM",
   "25": "preto",
   "26": "preto",
   "27": "preto",
-  "28": "TIS-028",
+  "28": "WM-FRENCH-ABRAHAM",
   "29": "preto",
   "30": "RB-HEBRON",
-  "31": "DUB-SODOMA",
-  "32": "TIS-040",
+  "31": "WM-PATINIR-SODOMA",
+  "32": "WH-ESCAPE-BODE",
   "33": "KEU-LO",
   "34": "MOS-LO",
-  "35": "TIS-031",
-  "36": "WC-HOET-PORTA",
-  "37": "TIS-048",
-  "38": "TIS-037",
-  "39": "WM-PATINIR-SODOMA",
-  "40": "WC-HOET-PORTA",
-  "41": "TIS-048",
-  "42": "MOS-LO",
-  "43": "WC-HOET-PORTA",
+  "35": "RK-ABRAAO-REFEICAO",
+  "36": "RK-LO-MENIGTE",
+  "37": "WC-HOET-PORTA",
+  "38": "WM-FRENCH-ABRAHAM",
+  "39": "RK-SODOMA-CEGOS",
+  "40": "RK-LO-MENIGTE",
+  "41": "WC-HOET-PORTA",
+  "42": "RK-SODOMA-CEGOS",
+  "43": "RK-LO-MENIGTE",
   "44": "preto",
-  "45": "TIS-048",
+  "45": "RK-SODOMA-CEGOS",
   "46": "KEU-LO",
-  "47": "TIS-031",
+  "47": "LAS-ABR",
   "48": "RK-LO-FUGA",
   "49": "RUB-LO",
   "50": "MOS-LO",
@@ -233,7 +167,7 @@
   "60": "WH-ESCAPE-BODE",
   "61": "JM-SODOMA",
   "62": "WM-MARTIN",
-  "63": "DUB-SODOMA",
+  "63": "RB-HEBRON",
   "64": "RB-RIJKS-TERRASANTA",
   "65": "MOS-LO",
   "66": "KEU-LO",
@@ -242,20 +176,20 @@
   "69": "BRU-MAMRE",
   "70": "RK-ABRAAO-REFEICAO",
   "71": "RB-HEBRON",
-  "72": "TIS-024",
+  "72": "DORE-011",
   "73": "JM-SODOMA",
-  "74": "TIS-048",
+  "74": "RK-SODOMA-CEGOS",
   "75": "WM-MARTIN",
   "76": "RB-MARMORTO-BM",
   "77": "WH-ESCAPE-BODE",
   "78": "RB-RIJKS-TERRASANTA",
   "79": "RB-HEBRON",
-  "80": "TIS-040",
-  "81": "TIS-028",
+  "80": "WM-PATINIR-SODOMA",
+  "81": "DORE-012",
   "82": "DORE-013",
-  "83": "WM-PATINIR-SODOMA",
-  "84": "TIS-037",
-  "85": "DORE-012",
-  "86": "BRU-MAMRE"
+  "83": "WM-MARTIN",
+  "84": "BRU-MAMRE",
+  "85": "LAS-ABR",
+  "86": "DORE-011"
  }
 }
