@@ -88,7 +88,10 @@ def frases(words):
 def transcrever(mp3):
     from faster_whisper import WhisperModel
     model = WhisperModel("small", device="cpu", compute_type="int8")
-    segs, _ = model.transcribe(str(mp3), language="pt", word_timestamps=True, vad_filter=False, beam_size=5)
+    import numpy as np, subprocess, shutil
+    raw = subprocess.run([shutil.which("ffmpeg"), "-v", "error", "-i", str(mp3), "-f", "f32le", "-ac", "1", "-ar", "16000", "-"], capture_output=True, check=True).stdout
+    audio = np.frombuffer(raw, dtype=np.float32)
+    segs, _ = model.transcribe(audio, language="pt", word_timestamps=True, vad_filter=False, beam_size=5)
     return [(w.word.strip(), float(w.start), float(w.end)) for s in segs for w in s.words]
 
 
