@@ -1,0 +1,4 @@
+shots=86 com_arte=80 cartao_preto=6 chapas=['BRU-MAMRE', 'DORE-011', 'DORE-012', 'DORE-013', 'JM-SODOMA', 'KEU-LO', 'LAS-ABR', 'MOS-LO', 'NGA-DURER-FUGA', 'RB-HEBRON', 'RB-MARMORTO-BM', 'RB-RIJKS-TERRASANTA', 'RK-ABRAAO-REFEICAO', 'RK-LO-FUGA', 'RK-LO-MENIGTE', 'RK-LOTSVROUW', 'RK-SODOMA-CEGOS', 'RUB-LO', 'WC-HOET-PORTA', 'WH-ESCAPE-BODE', 'WM-FRENCH-ABRAHAM', 'WM-MARTIN', 'WM-PATINIR-SODOMA']
+duracao_total_s= 484.5
+audio_previa dur_s=484.52 silencios=[(82.41, 1.0), (148.32999999999998, 2.0), (232.94, 1.0), (238.42000000000002, 3.0)] total_silencio_s=7.0
+loudness voz: I:         -21 | Peak:       -0.7 | mix final: I:         -17 | Peak:       -3.9
