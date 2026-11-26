@@ -39,7 +39,7 @@ jobs:
         run: python hnc/engine_d.py hnc/shots_ep01_previa.json /tmp/video_mudo.mp4 preview 2>&1 | grep -v "^[A-Za-z0-9+/=]\{200,\}" | tail -60
       - name: Mux e publica na branch previa
         run: |
-          ffmpeg -y -loglevel error -i /tmp/video_mudo.mp4 -i /tmp/voz_previa.wav -c:v copy -c:a aac -b:a 128k -shortest /tmp/HNC_EP01_PREVIA.mp4
+          ffmpeg -y -loglevel error -i /tmp/video_mudo.mp4 -i /tmp/voz_previa.wav -c:v libx264 -crf 30 -preset medium -maxrate 800k -bufsize 1600k -pix_fmt yuv420p -c:a aac -b:a 112k -shortest -movflags +faststart /tmp/HNC_EP01_PREVIA.mp4
           ls -l /tmp/HNC_EP01_PREVIA.mp4; ffprobe -v error -show_entries format=duration,size -of default=nw=1 /tmp/HNC_EP01_PREVIA.mp4
           mkdir /tmp/pv && cp /tmp/HNC_EP01_PREVIA.mp4 voz/previa_mapa.txt hnc/shots_ep01_previa.json /tmp/montagem.log /tmp/pv/ && cp /tmp/ledger_*.json /tmp/pv/ 2>/dev/null || true
           git config user.name "hnc-previa"; git config user.email "hnc-previa@users.noreply.github.com"
