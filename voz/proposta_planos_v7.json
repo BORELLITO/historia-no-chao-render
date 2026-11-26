@@ -1,0 +1,1174 @@
+{
+ "versao_audio": "orig",
+ "duracao_total_s": 484.4,
+ "planos": [
+  {
+   "n": 1,
+   "trecho": "T1",
+   "ini": 0.0,
+   "dur": 6.26,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P002",
+   "v5_cobre": [
+    "P002",
+    "P001"
+   ],
+   "texto": "Ele acordou cedo. Foi até o lugar onde, na véspera, tinha estado diante do Senhor."
+  },
+  {
+   "n": 2,
+   "trecho": "T1",
+   "ini": 6.26,
+   "dur": 6.44,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P004",
+   "v5_cobre": [
+    "P004",
+    "P003"
+   ],
+   "texto": "Olhou para o vale. E viu a fumaça subindo da terra, como a fumaça de uma fornalha."
+  },
+  {
+   "n": 3,
+   "trecho": "T1",
+   "ini": 12.7,
+   "dur": 6.16,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P007",
+   "v5_cobre": [
+    "P007",
+    "P006"
+   ],
+   "texto": "O nome dele era Abraão. A cidade que ardia lá embaixo era Sodoma."
+  },
+  {
+   "n": 4,
+   "trecho": "T1",
+   "ini": 18.86,
+   "dur": 4.48,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P008",
+   "v5_cobre": [
+    "P008"
+   ],
+   "texto": "O texto não registra o que ele sentiu. Só registra o que ele viu."
+  },
+  {
+   "n": 5,
+   "trecho": "T1",
+   "ini": 23.34,
+   "dur": 6.39,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P009",
+   "v5_cobre": [
+    "P009"
+   ],
+   "texto": "Para entender, precisamos voltar para a véspera. E para um número em que Abraão parou."
+  },
+  {
+   "n": 6,
+   "trecho": "T2",
+   "ini": 29.73,
+   "dur": 8.56,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P010",
+   "v5_cobre": [
+    "P010",
+    "P013",
+    "P012",
+    "P011"
+   ],
+   "texto": "Muita gente conhece o final: fogo, enxofre, uma mulher virando sal. Mas o começo costuma ficar de fora."
+  },
+  {
+   "n": 7,
+   "trecho": "T2",
+   "ini": 38.29,
+   "dur": 6.22,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P014",
+   "v5_cobre": [
+    "P014"
+   ],
+   "texto": "E o que a própria Bíblia diz, em outro livro, sobre a culpa de Sodoma, também fica de fora."
+  },
+  {
+   "n": 8,
+   "trecho": "T2",
+   "ini": 44.51,
+   "dur": 6.18,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P015",
+   "v5_cobre": [
+    "P015",
+    "P016"
+   ],
+   "texto": "No caminho, você vai ver um homem interceder diante de Deus, e uma porta que não abria."
+  },
+  {
+   "n": 9,
+   "trecho": "T2",
+   "ini": 50.69,
+   "dur": 6.68,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P017",
+   "v5_cobre": [
+    "P017",
+    "P018"
+   ],
+   "texto": "E, no fim, uma resposta que raramente cabe numa frase só. Tudo começa com uma refeição."
+  },
+  {
+   "n": 10,
+   "trecho": "T3",
+   "ini": 57.37,
+   "dur": 4.62,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P021",
+   "v5_cobre": [
+    "P021",
+    "P019",
+    "P020"
+   ],
+   "texto": "No calor do dia, em Manre, o Senhor aparece a Abraão."
+  },
+  {
+   "n": 11,
+   "trecho": "T3",
+   "ini": 61.99,
+   "dur": 4.62,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P022",
+   "v5_cobre": [
+    "P022"
+   ],
+   "texto": "E o que Abraão vê são três homens, de pé, diante dele."
+  },
+  {
+   "n": 12,
+   "trecho": "T3",
+   "ini": 66.61,
+   "dur": 7.16,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P023",
+   "v5_cobre": [
+    "P023",
+    "P024",
+    "P025"
+   ],
+   "texto": "Abraão, já idoso, corre ao encontro deles. Curva-se até o chão. Pede que fiquem."
+  },
+  {
+   "n": 13,
+   "trecho": "T3",
+   "ini": 73.77,
+   "dur": 7.72,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P029",
+   "v5_cobre": [
+    "P029",
+    "P028",
+    "P027",
+    "P026"
+   ],
+   "texto": "Manda assar pão, escolhe um novilho, serve coalhada e leite, e fica de pé ao lado deles, enquanto comem."
+  },
+  {
+   "n": 14,
+   "trecho": "T3",
+   "ini": 81.49,
+   "dur": 2.48,
+   "batida": true,
+   "flag": "",
+   "v5_principal": "P030",
+   "v5_cobre": [
+    "P030"
+   ],
+   "texto": "Para estranhos."
+  },
+  {
+   "n": 15,
+   "trecho": "T3",
+   "ini": 83.97,
+   "dur": 7.22,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P032",
+   "v5_cobre": [
+    "P032",
+    "P031"
+   ],
+   "texto": "Compare isso com o que vem depois. Um deles diz a Abraão que, em um ano, Sara terá um filho."
+  },
+  {
+   "n": 16,
+   "trecho": "T3",
+   "ini": 91.19,
+   "dur": 4.3,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P032",
+   "v5_cobre": [
+    "P032"
+   ],
+   "texto": "Sara, que ouvia da entrada da tenda, ri consigo mesma."
+  },
+  {
+   "n": 17,
+   "trecho": "T3",
+   "ini": 95.49,
+   "dur": 7.47,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P034",
+   "v5_cobre": [
+    "P034",
+    "P035"
+   ],
+   "texto": "Então os homens se levantam, olham na direção de Sodoma, e o Senhor decide não esconder de Abraão o que vai fazer."
+  },
+  {
+   "n": 18,
+   "trecho": "T4a",
+   "ini": 102.96,
+   "dur": 6.86,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P036",
+   "v5_cobre": [
+    "P036",
+    "P037"
+   ],
+   "texto": "O Senhor diz que o clamor contra Sodoma e Gomorra cresceu, e que o pecado delas é muito grave."
+  },
+  {
+   "n": 19,
+   "trecho": "T4a",
+   "ini": 109.82,
+   "dur": 6.44,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P038",
+   "v5_cobre": [
+    "P038",
+    "P037"
+   ],
+   "texto": "Vai descer para ver. O texto fala de um clamor, e esse clamor chegou até Deus."
+  },
+  {
+   "n": 20,
+   "trecho": "T4a",
+   "ini": 116.26,
+   "dur": 3.48,
+   "batida": false,
+   "flag": "CURTO",
+   "v5_principal": "P039",
+   "v5_cobre": [
+    "P039",
+    "P040"
+   ],
+   "texto": "Dois dos homens seguem para a cidade. Abraão fica."
+  },
+  {
+   "n": 21,
+   "trecho": "T4a",
+   "ini": 119.74,
+   "dur": 5.52,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P041",
+   "v5_cobre": [
+    "P041"
+   ],
+   "texto": "E faz algo inesperado diante de uma sentença: se aproxima."
+  },
+  {
+   "n": 22,
+   "trecho": "T4a",
+   "ini": 125.26,
+   "dur": 4.48,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P042",
+   "v5_cobre": [
+    "P042"
+   ],
+   "texto": "Ele pergunta: o Juiz de toda a terra não faria justiça?"
+  },
+  {
+   "n": 23,
+   "trecho": "T4a",
+   "ini": 129.74,
+   "dur": 5.2,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P043",
+   "v5_cobre": [
+    "P043",
+    "P042"
+   ],
+   "texto": "Destruiria o justo junto com o ímpio? E se houver cinquenta justos?"
+  },
+  {
+   "n": 24,
+   "trecho": "T4a",
+   "ini": 134.94,
+   "dur": 8.16,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P044",
+   "v5_cobre": [
+    "P044",
+    "P045"
+   ],
+   "texto": "Deus responde: por causa de cinquenta, pouparia a cidade inteira. Abraão insiste. Quarenta e cinco."
+  },
+  {
+   "n": 25,
+   "trecho": "T4a",
+   "ini": 143.1,
+   "dur": 1.16,
+   "batida": true,
+   "flag": "",
+   "v5_principal": "P046",
+   "v5_cobre": [
+    "P046"
+   ],
+   "texto": "Quarenta."
+  },
+  {
+   "n": 26,
+   "trecho": "T4a",
+   "ini": 144.26,
+   "dur": 0.98,
+   "batida": true,
+   "flag": "",
+   "v5_principal": "P047",
+   "v5_cobre": [
+    "P047"
+   ],
+   "texto": "Trinta."
+  },
+  {
+   "n": 27,
+   "trecho": "T4a",
+   "ini": 145.24,
+   "dur": 0.96,
+   "batida": true,
+   "flag": "",
+   "v5_principal": "P048",
+   "v5_cobre": [
+    "P048"
+   ],
+   "texto": "Vinte."
+  },
+  {
+   "n": 28,
+   "trecho": "T4a",
+   "ini": 146.2,
+   "dur": 3.08,
+   "batida": false,
+   "flag": "CURTO",
+   "v5_principal": "P049",
+   "v5_cobre": [
+    "P049"
+   ],
+   "texto": "Cada vez mais baixo, pedindo licença para continuar."
+  },
+  {
+   "n": 29,
+   "trecho": "T4a",
+   "ini": 149.28,
+   "dur": 3.48,
+   "batida": true,
+   "flag": "",
+   "v5_principal": "P050",
+   "v5_cobre": [
+    "P050"
+   ],
+   "texto": "Dez."
+  },
+  {
+   "n": 30,
+   "trecho": "T4b",
+   "ini": 152.76,
+   "dur": 5.26,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P051",
+   "v5_cobre": [
+    "P051"
+   ],
+   "texto": "E a conversa termina. O relato não diz por que Abraão parou no dez."
+  },
+  {
+   "n": 31,
+   "trecho": "T4b",
+   "ini": 158.02,
+   "dur": 7.52,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P052",
+   "v5_cobre": [
+    "P052",
+    "P053"
+   ],
+   "texto": "Só diz que o Senhor se retira, e Abraão volta para o seu lugar. Em Sodoma morava Ló, sobrinho dele."
+  },
+  {
+   "n": 32,
+   "trecho": "T4b",
+   "ini": 165.54,
+   "dur": 5.58,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P054",
+   "v5_cobre": [
+    "P054"
+   ],
+   "texto": "O texto não diz que era em Ló que Abraão pensava. Mas é difícil não se perguntar."
+  },
+  {
+   "n": 33,
+   "trecho": "T5",
+   "ini": 171.12,
+   "dur": 7.24,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P055",
+   "v5_cobre": [
+    "P055"
+   ],
+   "texto": "Ao anoitecer, os dois que partiram de Manre chegam a Sodoma. O texto agora os chama de anjos."
+  },
+  {
+   "n": 34,
+   "trecho": "T5",
+   "ini": 178.36,
+   "dur": 6.24,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P056",
+   "v5_cobre": [
+    "P056",
+    "P057"
+   ],
+   "texto": "Ló, sentado à porta da cidade, se levanta, curva-se e os convida para a sua casa."
+  },
+  {
+   "n": 35,
+   "trecho": "T5",
+   "ini": 184.6,
+   "dur": 5.98,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P058",
+   "v5_cobre": [
+    "P058",
+    "P057"
+   ],
+   "texto": "Eles recusam. Ló insiste, e eles aceitam. Por que tanta insistência?"
+  },
+  {
+   "n": 36,
+   "trecho": "T5",
+   "ini": 190.58,
+   "dur": 4.66,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P059",
+   "v5_cobre": [
+    "P059",
+    "P058"
+   ],
+   "texto": "O relato não explica. Antes de dormirem, a casa é cercada."
+  },
+  {
+   "n": 37,
+   "trecho": "T5",
+   "ini": 195.24,
+   "dur": 4.14,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P060",
+   "v5_cobre": [
+    "P060",
+    "P061"
+   ],
+   "texto": "Jovens e velhos, a cidade inteira. Queriam os visitantes."
+  },
+  {
+   "n": 38,
+   "trecho": "T5",
+   "ini": 199.38,
+   "dur": 7.4,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P063",
+   "v5_cobre": [
+    "P063",
+    "P061",
+    "P062"
+   ],
+   "texto": "Queriam abusar deles. Lembra da cena em Manre? Um homem idoso correu para acolher estranhos."
+  },
+  {
+   "n": 39,
+   "trecho": "T5",
+   "ini": 206.78,
+   "dur": 5.1,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P063",
+   "v5_cobre": [
+    "P063"
+   ],
+   "texto": "Em Sodoma, uma cidade inteira cercou uma casa para abusar deles."
+  },
+  {
+   "n": 40,
+   "trecho": "T5",
+   "ini": 211.88,
+   "dur": 5.12,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P064",
+   "v5_cobre": [
+    "P064"
+   ],
+   "texto": "Ló sai, fecha a porta atrás de si e pede que não façam esse mal."
+  },
+  {
+   "n": 41,
+   "trecho": "T5",
+   "ini": 217.0,
+   "dur": 4.68,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P065",
+   "v5_cobre": [
+    "P065"
+   ],
+   "texto": "A resposta é desprezo: este estrangeiro quer ser juiz?"
+  },
+  {
+   "n": 42,
+   "trecho": "T5",
+   "ini": 221.68,
+   "dur": 5.78,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P066",
+   "v5_cobre": [
+    "P066"
+   ],
+   "texto": "E ameaçam tratá-lo pior do que aos visitantes. Avançam contra ele, tentando arrombar a porta."
+  },
+  {
+   "n": 43,
+   "trecho": "T5",
+   "ini": 227.46,
+   "dur": 7.8,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P067",
+   "v5_cobre": [
+    "P067",
+    "P068"
+   ],
+   "texto": "Os visitantes o puxam para dentro e fecham a porta. E os homens do lado de fora ficam cegos."
+  },
+  {
+   "n": 44,
+   "trecho": "T5",
+   "ini": 235.26,
+   "dur": 2.12,
+   "batida": true,
+   "flag": "",
+   "v5_principal": "P069",
+   "v5_cobre": [
+    "P069"
+   ],
+   "texto": "Cegos."
+  },
+  {
+   "n": 45,
+   "trecho": "T5",
+   "ini": 237.38,
+   "dur": 8.43,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P071",
+   "v5_cobre": [
+    "P071",
+    "P070"
+   ],
+   "texto": "Eles já não enxergavam. E, segundo o relato, se cansaram procurando a entrada."
+  },
+  {
+   "n": 46,
+   "trecho": "T6",
+   "ini": 245.81,
+   "dur": 5.5,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P073",
+   "v5_cobre": [
+    "P073",
+    "P075"
+   ],
+   "texto": "Ainda de noite, Ló sai e avisa os genros. Eles acham que é brincadeira."
+  },
+  {
+   "n": 47,
+   "trecho": "T6",
+   "ini": 251.31,
+   "dur": 4.26,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P076",
+   "v5_cobre": [
+    "P076"
+   ],
+   "texto": "Imagine avisar alguém da sua família... e ouvir uma risada."
+  },
+  {
+   "n": 48,
+   "trecho": "T6",
+   "ini": 255.57,
+   "dur": 6.2,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P074",
+   "v5_cobre": [
+    "P074",
+    "P073b"
+   ],
+   "texto": "Ao amanhecer, os anjos apressam Ló: levanta, leva a tua mulher e as tuas duas filhas,"
+  },
+  {
+   "n": 49,
+   "trecho": "T6",
+   "ini": 261.77,
+   "dur": 5.02,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P077",
+   "v5_cobre": [
+    "P077",
+    "P074"
+   ],
+   "texto": "saiam da cidade. E Ló ainda hesita. A Bíblia não esconde isso."
+  },
+  {
+   "n": 50,
+   "trecho": "T6",
+   "ini": 266.79,
+   "dur": 6.44,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P078",
+   "v5_cobre": [
+    "P078",
+    "P079"
+   ],
+   "texto": "Então os anjos o seguram pela mão, e também a mulher e as filhas, e os levam para fora, porque,"
+  },
+  {
+   "n": 51,
+   "trecho": "T6",
+   "ini": 273.23,
+   "dur": 6.94,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P079",
+   "v5_cobre": [
+    "P079",
+    "P080"
+   ],
+   "texto": "diz o texto, o Senhor teve misericórdia dele. Um deles diz: fuja pela sua vida."
+  },
+  {
+   "n": 52,
+   "trecho": "T6",
+   "ini": 280.17,
+   "dur": 4.94,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P081",
+   "v5_cobre": [
+    "P081",
+    "P080"
+   ],
+   "texto": "Não olhe para trás. Ló pede para ir a uma cidade pequena, ali perto."
+  },
+  {
+   "n": 53,
+   "trecho": "T6",
+   "ini": 285.11,
+   "dur": 6.76,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P082",
+   "v5_cobre": [
+    "P082"
+   ],
+   "texto": "E a resposta que ele recebe é surpreendente: apresse-se, porque nada posso fazer enquanto você não chegar"
+  },
+  {
+   "n": 54,
+   "trecho": "T6",
+   "ini": 291.87,
+   "dur": 6.16,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P084",
+   "v5_cobre": [
+    "P084",
+    "P083",
+    "P082"
+   ],
+   "texto": "lá. A destruição esperou por ele. O sol já nascia quando Ló entrou em Zoar."
+  },
+  {
+   "n": 55,
+   "trecho": "T6",
+   "ini": 298.03,
+   "dur": 3.4,
+   "batida": false,
+   "flag": "CURTO",
+   "v5_principal": "P085",
+   "v5_cobre": [
+    "P085"
+   ],
+   "texto": "Então o Senhor fez chover enxofre e fogo do céu."
+  },
+  {
+   "n": 56,
+   "trecho": "T6",
+   "ini": 301.43,
+   "dur": 5.38,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P088",
+   "v5_cobre": [
+    "P088",
+    "P089"
+   ],
+   "texto": "E a mulher de Ló olhou para trás. E virou uma estátua de sal."
+  },
+  {
+   "n": 57,
+   "trecho": "T6",
+   "ini": 306.81,
+   "dur": 4.96,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P090",
+   "v5_cobre": [
+    "P090"
+   ],
+   "texto": "Muitos séculos depois, ao falar do dia em que o Filho do Homem se manifestar,"
+  },
+  {
+   "n": 58,
+   "trecho": "T6",
+   "ini": 311.77,
+   "dur": 6.1,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P090",
+   "v5_cobre": [
+    "P090",
+    "P091"
+   ],
+   "texto": "e de não voltar atrás por causa de bens, Jesus disse: lembrem-se da mulher de Ló."
+  },
+  {
+   "n": 59,
+   "trecho": "T6",
+   "ini": 317.87,
+   "dur": 4.37,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P092",
+   "v5_cobre": [
+    "P092"
+   ],
+   "texto": "Gênesis não explica por que ela olhou. Só conta o olhar."
+  },
+  {
+   "n": 60,
+   "trecho": "T7",
+   "ini": 322.24,
+   "dur": 4.28,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P096",
+   "v5_cobre": [
+    "P096"
+   ],
+   "texto": "E agora a pergunta que a história deixa: por quê?"
+  },
+  {
+   "n": 61,
+   "trecho": "T7",
+   "ini": 326.52,
+   "dur": 4.18,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P097",
+   "v5_cobre": [
+    "P097"
+   ],
+   "texto": "O pecado de Sodoma costuma ser resumido de um jeito só."
+  },
+  {
+   "n": 62,
+   "trecho": "T7",
+   "ini": 330.7,
+   "dur": 4.32,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P098",
+   "v5_cobre": [
+    "P098"
+   ],
+   "texto": "A Bíblia, em mais de um livro, aponta mais de um aspecto."
+  },
+  {
+   "n": 63,
+   "trecho": "T7",
+   "ini": 335.02,
+   "dur": 7.22,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P099",
+   "v5_cobre": [
+    "P099",
+    "P100"
+   ],
+   "texto": "Séculos depois, o profeta Ezequiel escreve, em nome de Deus: a culpa de Sodoma foi soberba,"
+  },
+  {
+   "n": 64,
+   "trecho": "T7",
+   "ini": 342.24,
+   "dur": 4.9,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P103",
+   "v5_cobre": [
+    "P103",
+    "P101"
+   ],
+   "texto": "fartura e tranquilidade, sem estender a mão ao pobre e ao necessitado."
+  },
+  {
+   "n": 65,
+   "trecho": "T7",
+   "ini": 347.14,
+   "dur": 6.78,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P104",
+   "v5_cobre": [
+    "P104"
+   ],
+   "texto": "E acrescenta que foram arrogantes e cometeram abominações diante do Senhor."
+  },
+  {
+   "n": 66,
+   "trecho": "T7",
+   "ini": 353.92,
+   "dur": 6.72,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P105",
+   "v5_cobre": [
+    "P105"
+   ],
+   "texto": "Judas diz que Sodoma, Gomorra e as cidades vizinhas se entregaram à imoralidade sexual,"
+  },
+  {
+   "n": 67,
+   "trecho": "T7",
+   "ini": 360.64,
+   "dur": 5.1,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P105",
+   "v5_cobre": [
+    "P105"
+   ],
+   "texto": "foram atrás de outra carne, e foram postas como exemplo do castigo."
+  },
+  {
+   "n": 68,
+   "trecho": "T7",
+   "ini": 365.74,
+   "dur": 5.06,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P106",
+   "v5_cobre": [
+    "P106",
+    "P107"
+   ],
+   "texto": "E Jesus fala de Sodoma ao falar de outras cidades: no Dia do Juízo,"
+  },
+  {
+   "n": 69,
+   "trecho": "T7",
+   "ini": 370.8,
+   "dur": 6.54,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P107",
+   "v5_cobre": [
+    "P107"
+   ],
+   "texto": "haverá menos rigor para Sodoma do que para cidades onde ele fez milagres e que não se arrependeram,"
+  },
+  {
+   "n": 70,
+   "trecho": "T7",
+   "ini": 377.34,
+   "dur": 8.88,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P108",
+   "v5_cobre": [
+    "P108",
+    "P107"
+   ],
+   "texto": "como Cafarnaum. Em outro momento, ele descreve gente vivendo o cotidiano, comendo, bebendo, comprando, vendendo,"
+  },
+  {
+   "n": 71,
+   "trecho": "T7",
+   "ini": 386.22,
+   "dur": 5.82,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P108",
+   "v5_cobre": [
+    "P108"
+   ],
+   "texto": "plantando e construindo, até o dia em que Ló saiu de Sodoma e choveu fogo."
+  },
+  {
+   "n": 72,
+   "trecho": "T7",
+   "ini": 392.04,
+   "dur": 6.58,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P108",
+   "v5_cobre": [
+    "P108"
+   ],
+   "texto": "Na fala de Jesus, nenhuma dessas coisas é chamada de pecado: o ponto é que a vida seguia normal"
+  },
+  {
+   "n": 73,
+   "trecho": "T7",
+   "ini": 398.62,
+   "dur": 5.34,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P108",
+   "v5_cobre": [
+    "P108",
+    "P109"
+   ],
+   "texto": "até o dia em que o fogo chegou. Não existe uma resposta de uma frase."
+  },
+  {
+   "n": 74,
+   "trecho": "T7",
+   "ini": 403.96,
+   "dur": 6.24,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P110",
+   "v5_cobre": [
+    "P110"
+   ],
+   "texto": "A Bíblia fala de orgulho e fartura sem amparar o pobre, de violência contra o estrangeiro,"
+  },
+  {
+   "n": 75,
+   "trecho": "T7",
+   "ini": 410.2,
+   "dur": 7.99,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P111",
+   "v5_cobre": [
+    "P111"
+   ],
+   "texto": "de abominações diante de Deus e da imoralidade sexual de que Judas fala. Não reduz Sodoma a um só pecado."
+  },
+  {
+   "n": 76,
+   "trecho": "T8",
+   "ini": 418.19,
+   "dur": 5.44,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P113",
+   "v5_cobre": [
+    "P113"
+   ],
+   "texto": "O Gênesis conta esse relato como um acontecimento, com nomes e lugares."
+  },
+  {
+   "n": 77,
+   "trecho": "T8",
+   "ini": 423.63,
+   "dur": 8.54,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P114",
+   "v5_cobre": [
+    "P114",
+    "P113"
+   ],
+   "texto": "O texto fala do vale de Sidim, cheio de poços de betume, junto ao mar Salgado, que a tradição identifica com o Mar Morto."
+  },
+  {
+   "n": 78,
+   "trecho": "T8",
+   "ini": 432.17,
+   "dur": 7.02,
+   "batida": false,
+   "flag": "LONGO",
+   "v5_principal": "P115",
+   "v5_cobre": [
+    "P115"
+   ],
+   "texto": "Arqueólogos propõem lugares diferentes, ao sul ou ao nordeste do mar, e nenhuma proposta é consenso."
+  },
+  {
+   "n": 79,
+   "trecho": "T8",
+   "ini": 439.19,
+   "dur": 3.03,
+   "batida": false,
+   "flag": "CURTO",
+   "v5_principal": "P115",
+   "v5_cobre": [
+    "P115"
+   ],
+   "texto": "Prefiro te dizer isso a vender uma certeza."
+  },
+  {
+   "n": 80,
+   "trecho": "T9",
+   "ini": 442.22,
+   "dur": 5.92,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P116",
+   "v5_cobre": [
+    "P116"
+   ],
+   "texto": "Volte à primeira cena. Abraão, de madrugada, olhando a fumaça subir."
+  },
+  {
+   "n": 81,
+   "trecho": "T9",
+   "ini": 448.14,
+   "dur": 5.76,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P117",
+   "v5_cobre": [
+    "P117",
+    "P118"
+   ],
+   "texto": "Ele tinha pedido por cinquenta. Por dez. A cidade não foi poupada."
+  },
+  {
+   "n": 82,
+   "trecho": "T9",
+   "ini": 453.9,
+   "dur": 6.58,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P118",
+   "v5_cobre": [
+    "P118"
+   ],
+   "texto": "O texto diz que, quando Deus destruiu aquelas cidades, lembrou-se de Abraão e tirou Ló do meio da"
+  },
+  {
+   "n": 83,
+   "trecho": "T9",
+   "ini": 460.48,
+   "dur": 4.38,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P119",
+   "v5_cobre": [
+    "P119",
+    "P118"
+   ],
+   "texto": "destruição. Sodoma lembra que existe justiça."
+  },
+  {
+   "n": 84,
+   "trecho": "T9",
+   "ini": 464.86,
+   "dur": 6.72,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P119",
+   "v5_cobre": [
+    "P119"
+   ],
+   "texto": "E lembra também que existe alguém que se aproxima, número por número, pela vida de quem nem era da sua cidade."
+  },
+  {
+   "n": 85,
+   "trecho": "T9",
+   "ini": 471.58,
+   "dur": 6.54,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P120",
+   "v5_cobre": [
+    "P120"
+   ],
+   "texto": "Agora uma pergunta, e ela é para você: quando foi a última vez que você se aproximou para"
+  },
+  {
+   "n": 86,
+   "trecho": "T9",
+   "ini": 478.12,
+   "dur": 6.28,
+   "batida": false,
+   "flag": "",
+   "v5_principal": "P120",
+   "v5_cobre": [
+    "P120",
+    "P120b"
+   ],
+   "texto": "interceder por alguém? Se quiser, conte nos comentários. Inscreva-se no canal para o próximo episódio."
+  }
+ ]
+}

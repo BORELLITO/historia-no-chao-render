@@ -1,0 +1,1148 @@
+{
+ "versao_audio": "orig",
+ "silencios": [
+  {
+   "apos_palavra": "estranhos.",
+   "s": 1.0,
+   "rotulo": "pausa 'Para estranhos.' (P030)"
+  },
+  {
+   "apos_palavra": "Dez.",
+   "s": 2.0,
+   "rotulo": "silencio total apos 'Dez.' (P050)"
+  },
+  {
+   "apos_palavra": "Cegos.",
+   "s": 1.0,
+   "rotulo": "silencio apos 'Cegos.' (P069)"
+  },
+  {
+   "apos_palavra": "entrada.",
+   "s": 3.0,
+   "rotulo": "transicao noite -> madrugada (P072)"
+  }
+ ],
+ "duracao_total_s": 484.4,
+ "planos": [
+  {
+   "id": "P001",
+   "tipo": "STOCK",
+   "ini": 0.0,
+   "dur_visual": 1.6,
+   "dur_v5": 3,
+   "casadas": "3/3",
+   "flag": "CURTO <4s",
+   "texto": "Ele acordou cedo."
+  },
+  {
+   "id": "P002",
+   "tipo": "FOTO",
+   "ini": 1.6,
+   "dur_visual": 4.66,
+   "dur_v5": 4,
+   "casadas": "12/12",
+   "flag": "",
+   "texto": "Foi até o lugar onde, na véspera, tinha estado diante do Senhor."
+  },
+  {
+   "id": "P003",
+   "tipo": "STOCK",
+   "ini": 6.26,
+   "dur_visual": 1.76,
+   "dur_v5": 3,
+   "casadas": "4/4",
+   "flag": "CURTO <4s",
+   "texto": "Olhou para o vale."
+  },
+  {
+   "id": "P004",
+   "tipo": "ARTE",
+   "ini": 8.02,
+   "dur_visual": 4.68,
+   "dur_v5": 5,
+   "casadas": "13/13",
+   "flag": "",
+   "texto": "E viu a fumaça subindo da terra, como a fumaça de uma fornalha."
+  },
+  {
+   "id": "P006",
+   "tipo": "ARTE",
+   "ini": 12.7,
+   "dur_visual": 2.36,
+   "dur_v5": 4,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "O nome dele era Abraão."
+  },
+  {
+   "id": "P007",
+   "tipo": "ARTE",
+   "ini": 15.06,
+   "dur_visual": 3.8,
+   "dur_v5": 3,
+   "casadas": "8/8",
+   "flag": "CURTO <4s",
+   "texto": "A cidade que ardia lá embaixo era Sodoma."
+  },
+  {
+   "id": "P008",
+   "tipo": "TIPO",
+   "ini": 18.86,
+   "dur_visual": 4.48,
+   "dur_v5": 5,
+   "casadas": "14/14",
+   "flag": "",
+   "texto": "O texto não registra o que ele sentiu. Só registra o que ele viu."
+  },
+  {
+   "id": "P009",
+   "tipo": "GRAF",
+   "ini": 23.34,
+   "dur_visual": 6.39,
+   "dur_v5": 5,
+   "casadas": "15/15",
+   "flag": "",
+   "texto": "Para entender, precisamos voltar para a véspera. E para um número em q"
+  },
+  {
+   "id": "P010",
+   "tipo": "ARTE",
+   "ini": 29.73,
+   "dur_visual": 2.9,
+   "dur_v5": 3,
+   "casadas": "6/6",
+   "flag": "CURTO <4s",
+   "texto": "Muita gente conhece o final: fogo,"
+  },
+  {
+   "id": "P011",
+   "tipo": "ARTE",
+   "ini": 32.63,
+   "dur_visual": 0.92,
+   "dur_v5": 2,
+   "casadas": "1/1",
+   "flag": "CURTO <4s",
+   "texto": "enxofre,"
+  },
+  {
+   "id": "P012",
+   "tipo": "STOCK",
+   "ini": 33.55,
+   "dur_visual": 1.86,
+   "dur_v5": 2,
+   "casadas": "4/4",
+   "flag": "CURTO <4s",
+   "texto": "uma mulher virando sal."
+  },
+  {
+   "id": "P013",
+   "tipo": "FOTO",
+   "ini": 35.41,
+   "dur_visual": 2.88,
+   "dur_v5": 3,
+   "casadas": "7/7",
+   "flag": "CURTO <4s",
+   "texto": "Mas o começo costuma ficar de fora."
+  },
+  {
+   "id": "P014",
+   "tipo": "GRAF",
+   "ini": 38.29,
+   "dur_visual": 6.22,
+   "dur_v5": 6,
+   "casadas": "19/19",
+   "flag": "",
+   "texto": "E o que a própria Bíblia diz, em outro livro, sobre a culpa de Sodoma,"
+  },
+  {
+   "id": "P015",
+   "tipo": "GRAF",
+   "ini": 44.51,
+   "dur_visual": 3.58,
+   "dur_v5": 3,
+   "casadas": "11/11",
+   "flag": "CURTO <4s",
+   "texto": "No caminho, você vai ver um homem interceder diante de Deus,"
+  },
+  {
+   "id": "P016",
+   "tipo": "STOCK",
+   "ini": 48.09,
+   "dur_visual": 2.6,
+   "dur_v5": 3,
+   "casadas": "6/6",
+   "flag": "CURTO <4s",
+   "texto": "e uma porta que não abria."
+  },
+  {
+   "id": "P017",
+   "tipo": "ARTE",
+   "ini": 50.69,
+   "dur_visual": 3.74,
+   "dur_v5": 4,
+   "casadas": "11/11",
+   "flag": "CURTO <4s",
+   "texto": "E, no fim, uma resposta que raramente cabe numa frase só."
+  },
+  {
+   "id": "P018",
+   "tipo": "FOTO",
+   "ini": 54.43,
+   "dur_visual": 2.94,
+   "dur_v5": 4,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "Tudo começa com uma refeição."
+  },
+  {
+   "id": "P019",
+   "tipo": "STOCK",
+   "ini": 57.37,
+   "dur_visual": 1.42,
+   "dur_v5": 4,
+   "casadas": "4/4",
+   "flag": "CURTO <4s",
+   "texto": "No calor do dia,"
+  },
+  {
+   "id": "P020",
+   "tipo": "TIPO",
+   "ini": 58.79,
+   "dur_visual": 0.94,
+   "dur_v5": 3,
+   "casadas": "2/2",
+   "flag": "CURTO <4s",
+   "texto": "em Manre,"
+  },
+  {
+   "id": "P021",
+   "tipo": "ARTE",
+   "ini": 59.73,
+   "dur_visual": 2.26,
+   "dur_v5": 4,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "o Senhor aparece a Abraão."
+  },
+  {
+   "id": "P022",
+   "tipo": "ARTE",
+   "ini": 61.99,
+   "dur_visual": 4.62,
+   "dur_v5": 3,
+   "casadas": "12/12",
+   "flag": "",
+   "texto": "E o que Abraão vê são três homens, de pé, diante dele."
+  },
+  {
+   "id": "P023",
+   "tipo": "ARTE",
+   "ini": 66.61,
+   "dur_visual": 3.84,
+   "dur_v5": 4,
+   "casadas": "7/7",
+   "flag": "CURTO <4s",
+   "texto": "Abraão, já idoso, corre ao encontro deles."
+  },
+  {
+   "id": "P024",
+   "tipo": "ARTE",
+   "ini": 70.45,
+   "dur_visual": 1.82,
+   "dur_v5": 4,
+   "casadas": "4/4",
+   "flag": "CURTO <4s",
+   "texto": "Curva-se até o chão."
+  },
+  {
+   "id": "P025",
+   "tipo": "FOTO",
+   "ini": 72.27,
+   "dur_visual": 1.5,
+   "dur_v5": 3,
+   "casadas": "3/3",
+   "flag": "CURTO <4s",
+   "texto": "Pede que fiquem."
+  },
+  {
+   "id": "P026",
+   "tipo": "STOCK",
+   "ini": 73.77,
+   "dur_visual": 1.36,
+   "dur_v5": 3,
+   "casadas": "3/3",
+   "flag": "CURTO <4s",
+   "texto": "Manda assar pão,"
+  },
+  {
+   "id": "P027",
+   "tipo": "FOTO",
+   "ini": 75.13,
+   "dur_visual": 1.38,
+   "dur_v5": 3,
+   "casadas": "3/3",
+   "flag": "CURTO <4s",
+   "texto": "escolhe um novilho,"
+  },
+  {
+   "id": "P028",
+   "tipo": "STOCK",
+   "ini": 76.51,
+   "dur_visual": 1.5,
+   "dur_v5": 3,
+   "casadas": "4/4",
+   "flag": "CURTO <4s",
+   "texto": "serve coalhada e leite,"
+  },
+  {
+   "id": "P029",
+   "tipo": "ARTE",
+   "ini": 78.01,
+   "dur_visual": 3.48,
+   "dur_v5": 3,
+   "casadas": "9/9",
+   "flag": "CURTO <4s",
+   "texto": "e fica de pé ao lado deles, enquanto comem."
+  },
+  {
+   "id": "P030",
+   "tipo": "TIPO",
+   "ini": 81.49,
+   "dur_visual": 2.48,
+   "dur_v5": 4,
+   "casadas": "2/2",
+   "flag": "CURTO <4s",
+   "texto": "Para estranhos."
+  },
+  {
+   "id": "P031",
+   "tipo": "ARTE",
+   "ini": 83.97,
+   "dur_visual": 2.44,
+   "dur_v5": 4,
+   "casadas": "7/7",
+   "flag": "CURTO <4s",
+   "texto": "Compare isso com o que vem depois."
+  },
+  {
+   "id": "P032",
+   "tipo": "ARTE",
+   "ini": 86.41,
+   "dur_visual": 9.08,
+   "dur_v5": 4,
+   "casadas": "23/23",
+   "flag": "LONGO >7s",
+   "texto": "Um deles diz a Abraão que, em um ano, Sara terá um filho. Sara, que ou"
+  },
+  {
+   "id": "P034",
+   "tipo": "ARTE",
+   "ini": 95.49,
+   "dur_visual": 3.94,
+   "dur_v5": 5,
+   "casadas": "10/10",
+   "flag": "CURTO <4s",
+   "texto": "Então os homens se levantam, olham na direção de Sodoma,"
+  },
+  {
+   "id": "P035",
+   "tipo": "TIPO",
+   "ini": 99.43,
+   "dur_visual": 3.53,
+   "dur_v5": 2,
+   "casadas": "12/12",
+   "flag": "CURTO <4s",
+   "texto": "e o Senhor decide não esconder de Abraão o que vai fazer."
+  },
+  {
+   "id": "P036",
+   "tipo": "ARTE",
+   "ini": 102.96,
+   "dur_visual": 3.92,
+   "dur_v5": 4,
+   "casadas": "11/11",
+   "flag": "CURTO <4s",
+   "texto": "O Senhor diz que o clamor contra Sodoma e Gomorra cresceu,"
+  },
+  {
+   "id": "P037",
+   "tipo": "ARTE",
+   "ini": 106.88,
+   "dur_visual": 4.72,
+   "dur_v5": 5,
+   "casadas": "12/12",
+   "flag": "",
+   "texto": "e que o pecado delas é muito grave. Vai descer para ver."
+  },
+  {
+   "id": "P038",
+   "tipo": "GRAF",
+   "ini": 111.6,
+   "dur_visual": 4.66,
+   "dur_v5": 6,
+   "casadas": "12/12",
+   "flag": "",
+   "texto": "O texto fala de um clamor, e esse clamor chegou até Deus."
+  },
+  {
+   "id": "P039",
+   "tipo": "ARTE",
+   "ini": 116.26,
+   "dur_visual": 2.68,
+   "dur_v5": 4,
+   "casadas": "7/7",
+   "flag": "CURTO <4s",
+   "texto": "Dois dos homens seguem para a cidade."
+  },
+  {
+   "id": "P040",
+   "tipo": "ARTE",
+   "ini": 118.94,
+   "dur_visual": 0.8,
+   "dur_v5": 4,
+   "casadas": "2/2",
+   "flag": "CURTO <4s",
+   "texto": "Abraão fica."
+  },
+  {
+   "id": "P041",
+   "tipo": "ARTE",
+   "ini": 119.74,
+   "dur_visual": 5.52,
+   "dur_v5": 7,
+   "casadas": "10/10",
+   "flag": "",
+   "texto": "E faz algo inesperado diante de uma sentença: se aproxima."
+  },
+  {
+   "id": "P042",
+   "tipo": "GRAF",
+   "ini": 125.26,
+   "dur_visual": 6.76,
+   "dur_v5": 5,
+   "casadas": "18/18",
+   "flag": "",
+   "texto": "Ele pergunta: o Juiz de toda a terra não faria justiça? Destruiria o j"
+  },
+  {
+   "id": "P043",
+   "tipo": "GRAF",
+   "ini": 132.02,
+   "dur_visual": 2.92,
+   "dur_v5": 5,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "E se houver cinquenta justos?"
+  },
+  {
+   "id": "P044",
+   "tipo": "GRAF",
+   "ini": 134.94,
+   "dur_visual": 5.26,
+   "dur_v5": 5,
+   "casadas": "10/10",
+   "flag": "",
+   "texto": "Deus responde: por causa de cinquenta, pouparia a cidade inteira."
+  },
+  {
+   "id": "P045",
+   "tipo": "GRAF",
+   "ini": 140.2,
+   "dur_visual": 2.9,
+   "dur_v5": 4,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "Abraão insiste. Quarenta e cinco."
+  },
+  {
+   "id": "P046",
+   "tipo": "GRAF",
+   "ini": 143.1,
+   "dur_visual": 1.16,
+   "dur_v5": 3,
+   "casadas": "1/1",
+   "flag": "CURTO <4s",
+   "texto": "Quarenta."
+  },
+  {
+   "id": "P047",
+   "tipo": "GRAF",
+   "ini": 144.26,
+   "dur_visual": 0.98,
+   "dur_v5": 3,
+   "casadas": "1/1",
+   "flag": "CURTO <4s",
+   "texto": "Trinta."
+  },
+  {
+   "id": "P048",
+   "tipo": "GRAF",
+   "ini": 145.24,
+   "dur_visual": 0.96,
+   "dur_v5": 3,
+   "casadas": "1/1",
+   "flag": "CURTO <4s",
+   "texto": "Vinte."
+  },
+  {
+   "id": "P049",
+   "tipo": "ARTE",
+   "ini": 146.2,
+   "dur_visual": 3.08,
+   "dur_v5": 7,
+   "casadas": "8/8",
+   "flag": "CURTO <4s",
+   "texto": "Cada vez mais baixo, pedindo licença para continuar."
+  },
+  {
+   "id": "P050",
+   "tipo": "GRAF",
+   "ini": 149.28,
+   "dur_visual": 3.48,
+   "dur_v5": 8,
+   "casadas": "1/1",
+   "flag": "CURTO <4s",
+   "texto": "Dez."
+  },
+  {
+   "id": "P051",
+   "tipo": "GRAF",
+   "ini": 152.76,
+   "dur_visual": 5.26,
+   "dur_v5": 5,
+   "casadas": "14/14",
+   "flag": "",
+   "texto": "E a conversa termina. O relato não diz por que Abraão parou no dez."
+  },
+  {
+   "id": "P052",
+   "tipo": "STOCK",
+   "ini": 158.02,
+   "dur_visual": 4.5,
+   "dur_v5": 5,
+   "casadas": "14/14",
+   "flag": "",
+   "texto": "Só diz que o Senhor se retira, e Abraão volta para o seu lugar."
+  },
+  {
+   "id": "P053",
+   "tipo": "ARTE",
+   "ini": 162.52,
+   "dur_visual": 3.02,
+   "dur_v5": 4,
+   "casadas": "6/6",
+   "flag": "CURTO <4s",
+   "texto": "Em Sodoma morava Ló, sobrinho dele."
+  },
+  {
+   "id": "P054",
+   "tipo": "TIPO",
+   "ini": 165.54,
+   "dur_visual": 5.58,
+   "dur_v5": 5,
+   "casadas": "17/17",
+   "flag": "",
+   "texto": "O texto não diz que era em Ló que Abraão pensava. Mas é difícil não se"
+  },
+  {
+   "id": "P055",
+   "tipo": "FOTO",
+   "ini": 171.12,
+   "dur_visual": 7.24,
+   "dur_v5": 4,
+   "casadas": "18/18",
+   "flag": "LONGO >7s",
+   "texto": "Ao anoitecer, os dois que partiram de Manre chegam a Sodoma. O texto a"
+  },
+  {
+   "id": "P056",
+   "tipo": "ARTE",
+   "ini": 178.36,
+   "dur_visual": 3.88,
+   "dur_v5": 4,
+   "casadas": "9/9",
+   "flag": "CURTO <4s",
+   "texto": "Ló, sentado à porta da cidade, se levanta, curva-se"
+  },
+  {
+   "id": "P057",
+   "tipo": "STOCK",
+   "ini": 182.24,
+   "dur_visual": 3.66,
+   "dur_v5": 4,
+   "casadas": "9/9",
+   "flag": "CURTO <4s",
+   "texto": "e os convida para a sua casa. Eles recusam."
+  },
+  {
+   "id": "P058",
+   "tipo": "TIPO",
+   "ini": 185.9,
+   "dur_visual": 6.36,
+   "dur_v5": 4,
+   "casadas": "13/13",
+   "flag": "",
+   "texto": "Ló insiste, e eles aceitam. Por que tanta insistência? O relato não ex"
+  },
+  {
+   "id": "P059",
+   "tipo": "STOCK",
+   "ini": 192.26,
+   "dur_visual": 2.98,
+   "dur_v5": 4,
+   "casadas": "7/7",
+   "flag": "CURTO <4s",
+   "texto": "Antes de dormirem, a casa é cercada."
+  },
+  {
+   "id": "P060",
+   "tipo": "GRAF",
+   "ini": 195.24,
+   "dur_visual": 2.98,
+   "dur_v5": 4,
+   "casadas": "6/6",
+   "flag": "CURTO <4s",
+   "texto": "Jovens e velhos, a cidade inteira."
+  },
+  {
+   "id": "P061",
+   "tipo": "GRAF",
+   "ini": 198.22,
+   "dur_visual": 3.64,
+   "dur_v5": 4,
+   "casadas": "6/6",
+   "flag": "CURTO <4s",
+   "texto": "Queriam os visitantes. Queriam abusar deles."
+  },
+  {
+   "id": "P062",
+   "tipo": "ARTE",
+   "ini": 201.86,
+   "dur_visual": 1.9,
+   "dur_v5": 3,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "Lembra da cena em Manre?"
+  },
+  {
+   "id": "P063",
+   "tipo": "GRAF",
+   "ini": 203.76,
+   "dur_visual": 8.12,
+   "dur_v5": 8,
+   "casadas": "18/18",
+   "flag": "LONGO >7s",
+   "texto": "Um homem idoso correu para acolher estranhos. Em Sodoma, uma cidade in"
+  },
+  {
+   "id": "P064",
+   "tipo": "STOCK",
+   "ini": 211.88,
+   "dur_visual": 5.12,
+   "dur_v5": 4,
+   "casadas": "15/15",
+   "flag": "",
+   "texto": "Ló sai, fecha a porta atrás de si e pede que não façam esse mal."
+  },
+  {
+   "id": "P065",
+   "tipo": "TIPO",
+   "ini": 217.0,
+   "dur_visual": 4.68,
+   "dur_v5": 4,
+   "casadas": "9/9",
+   "flag": "",
+   "texto": "A resposta é desprezo: este estrangeiro quer ser juiz?"
+  },
+  {
+   "id": "P066",
+   "tipo": "GRAF",
+   "ini": 221.68,
+   "dur_visual": 5.78,
+   "dur_v5": 4,
+   "casadas": "15/15",
+   "flag": "",
+   "texto": "E ameaçam tratá-lo pior do que aos visitantes. Avançam contra ele, ten"
+  },
+  {
+   "id": "P067",
+   "tipo": "STOCK",
+   "ini": 227.46,
+   "dur_visual": 4.48,
+   "dur_v5": 4,
+   "casadas": "10/10",
+   "flag": "",
+   "texto": "Os visitantes o puxam para dentro e fecham a porta."
+  },
+  {
+   "id": "P068",
+   "tipo": "GRAF",
+   "ini": 231.94,
+   "dur_visual": 3.32,
+   "dur_v5": 5,
+   "casadas": "9/9",
+   "flag": "CURTO <4s",
+   "texto": "E os homens do lado de fora ficam cegos."
+  },
+  {
+   "id": "P069",
+   "tipo": "TIPO",
+   "ini": 235.26,
+   "dur_visual": 2.12,
+   "dur_v5": 4,
+   "casadas": "1/1",
+   "flag": "CURTO <4s",
+   "texto": "Cegos."
+  },
+  {
+   "id": "P070",
+   "tipo": "STOCK",
+   "ini": 237.38,
+   "dur_visual": 1.26,
+   "dur_v5": 6,
+   "casadas": "4/4",
+   "flag": "CURTO <4s",
+   "texto": "Eles já não enxergavam."
+  },
+  {
+   "id": "P071",
+   "tipo": "STOCK",
+   "ini": 238.64,
+   "dur_visual": 7.17,
+   "dur_v5": 5,
+   "casadas": "9/9",
+   "flag": "LONGO >7s",
+   "texto": "E, segundo o relato, se cansaram procurando a entrada."
+  },
+  {
+   "id": "P073",
+   "tipo": "STOCK",
+   "ini": 245.81,
+   "dur_visual": 3.54,
+   "dur_v5": 4,
+   "casadas": "9/9",
+   "flag": "CURTO <4s",
+   "texto": "Ainda de noite, Ló sai e avisa os genros."
+  },
+  {
+   "id": "P075",
+   "tipo": "ARTE",
+   "ini": 249.35,
+   "dur_visual": 1.96,
+   "dur_v5": 4,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "Eles acham que é brincadeira."
+  },
+  {
+   "id": "P076",
+   "tipo": "GRAF",
+   "ini": 251.31,
+   "dur_visual": 4.26,
+   "dur_v5": 5,
+   "casadas": "10/10",
+   "flag": "",
+   "texto": "Imagine avisar alguém da sua família... e ouvir uma risada."
+  },
+  {
+   "id": "P073b",
+   "tipo": "STOCK",
+   "ini": 255.57,
+   "dur_visual": 2.92,
+   "dur_v5": 4,
+   "casadas": "6/6",
+   "flag": "CURTO <4s",
+   "texto": "Ao amanhecer, os anjos apressam Ló:"
+  },
+  {
+   "id": "P074",
+   "tipo": "ARTE",
+   "ini": 258.49,
+   "dur_visual": 4.7,
+   "dur_v5": 5,
+   "casadas": "13/13",
+   "flag": "",
+   "texto": "levanta, leva a tua mulher e as tuas duas filhas, saiam da cidade."
+  },
+  {
+   "id": "P077",
+   "tipo": "ARTE",
+   "ini": 263.19,
+   "dur_visual": 3.6,
+   "dur_v5": 4,
+   "casadas": "9/9",
+   "flag": "CURTO <4s",
+   "texto": "E Ló ainda hesita. A Bíblia não esconde isso."
+  },
+  {
+   "id": "P078",
+   "tipo": "ARTE",
+   "ini": 266.79,
+   "dur_visual": 4.3,
+   "dur_v5": 5,
+   "casadas": "14/14",
+   "flag": "",
+   "texto": "Então os anjos o seguram pela mão, e também a mulher e as filhas,"
+  },
+  {
+   "id": "P079",
+   "tipo": "STOCK",
+   "ini": 271.09,
+   "dur_visual": 6.02,
+   "dur_v5": 5,
+   "casadas": "14/14",
+   "flag": "",
+   "texto": "e os levam para fora, porque, diz o texto, o Senhor teve misericórdia "
+  },
+  {
+   "id": "P080",
+   "tipo": "TIPO",
+   "ini": 277.11,
+   "dur_visual": 4.68,
+   "dur_v5": 4,
+   "casadas": "11/11",
+   "flag": "",
+   "texto": "Um deles diz: fuja pela sua vida. Não olhe para trás."
+  },
+  {
+   "id": "P081",
+   "tipo": "FOTO",
+   "ini": 281.79,
+   "dur_visual": 3.32,
+   "dur_v5": 5,
+   "casadas": "10/10",
+   "flag": "CURTO <4s",
+   "texto": "Ló pede para ir a uma cidade pequena, ali perto."
+  },
+  {
+   "id": "P082",
+   "tipo": "ARTE",
+   "ini": 285.11,
+   "dur_visual": 7.6,
+   "dur_v5": 6,
+   "casadas": "18/18",
+   "flag": "LONGO >7s",
+   "texto": "E a resposta que ele recebe é surpreendente: apresse-se, porque nada p"
+  },
+  {
+   "id": "P083",
+   "tipo": "GRAF",
+   "ini": 292.71,
+   "dur_visual": 2.24,
+   "dur_v5": 4,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "A destruição esperou por ele."
+  },
+  {
+   "id": "P084",
+   "tipo": "STOCK",
+   "ini": 294.95,
+   "dur_visual": 3.08,
+   "dur_v5": 5,
+   "casadas": "9/9",
+   "flag": "CURTO <4s",
+   "texto": "O sol já nascia quando Ló entrou em Zoar."
+  },
+  {
+   "id": "P085",
+   "tipo": "ARTE",
+   "ini": 298.03,
+   "dur_visual": 3.4,
+   "dur_v5": 5,
+   "casadas": "10/10",
+   "flag": "CURTO <4s",
+   "texto": "Então o Senhor fez chover enxofre e fogo do céu."
+  },
+  {
+   "id": "P088",
+   "tipo": "ARTE",
+   "ini": 301.43,
+   "dur_visual": 2.78,
+   "dur_v5": 5,
+   "casadas": "8/8",
+   "flag": "CURTO <4s",
+   "texto": "E a mulher de Ló olhou para trás."
+  },
+  {
+   "id": "P089",
+   "tipo": "STOCK",
+   "ini": 304.21,
+   "dur_visual": 2.6,
+   "dur_v5": 5,
+   "casadas": "6/6",
+   "flag": "CURTO <4s",
+   "texto": "E virou uma estátua de sal."
+  },
+  {
+   "id": "P090",
+   "tipo": "TIPO",
+   "ini": 306.81,
+   "dur_visual": 8.92,
+   "dur_v5": 6,
+   "casadas": "26/26",
+   "flag": "LONGO >7s",
+   "texto": "Muitos séculos depois, ao falar do dia em que o Filho do Homem se mani"
+  },
+  {
+   "id": "P091",
+   "tipo": "ARTE",
+   "ini": 315.73,
+   "dur_visual": 2.14,
+   "dur_v5": 4,
+   "casadas": "5/5",
+   "flag": "CURTO <4s",
+   "texto": "lembrem-se da mulher de Ló."
+  },
+  {
+   "id": "P092",
+   "tipo": "ARTE",
+   "ini": 317.87,
+   "dur_visual": 4.37,
+   "dur_v5": 5,
+   "casadas": "11/11",
+   "flag": "",
+   "texto": "Gênesis não explica por que ela olhou. Só conta o olhar."
+  },
+  {
+   "id": "P096",
+   "tipo": "TIPO",
+   "ini": 322.24,
+   "dur_visual": 4.28,
+   "dur_v5": 4,
+   "casadas": "10/10",
+   "flag": "",
+   "texto": "E agora a pergunta que a história deixa: por quê?"
+  },
+  {
+   "id": "P097",
+   "tipo": "TIPO",
+   "ini": 326.52,
+   "dur_visual": 4.18,
+   "dur_v5": 6,
+   "casadas": "11/11",
+   "flag": "",
+   "texto": "O pecado de Sodoma costuma ser resumido de um jeito só."
+  },
+  {
+   "id": "P098",
+   "tipo": "GRAF",
+   "ini": 330.7,
+   "dur_visual": 4.32,
+   "dur_v5": 4,
+   "casadas": "12/12",
+   "flag": "",
+   "texto": "A Bíblia, em mais de um livro, aponta mais de um aspecto."
+  },
+  {
+   "id": "P099",
+   "tipo": "TIPO",
+   "ini": 335.02,
+   "dur_visual": 4.72,
+   "dur_v5": 5,
+   "casadas": "10/10",
+   "flag": "",
+   "texto": "Séculos depois, o profeta Ezequiel escreve, em nome de Deus:"
+  },
+  {
+   "id": "P100",
+   "tipo": "TIPO",
+   "ini": 339.74,
+   "dur_visual": 2.5,
+   "dur_v5": 4,
+   "casadas": "6/6",
+   "flag": "CURTO <4s",
+   "texto": "a culpa de Sodoma foi soberba,"
+  },
+  {
+   "id": "P101",
+   "tipo": "ARTE",
+   "ini": 342.24,
+   "dur_visual": 2.08,
+   "dur_v5": 4,
+   "casadas": "3/3",
+   "flag": "CURTO <4s",
+   "texto": "fartura e tranquilidade,"
+  },
+  {
+   "id": "P103",
+   "tipo": "FOTO",
+   "ini": 344.32,
+   "dur_visual": 2.82,
+   "dur_v5": 7,
+   "casadas": "9/9",
+   "flag": "CURTO <4s",
+   "texto": "sem estender a mão ao pobre e ao necessitado."
+  },
+  {
+   "id": "P104",
+   "tipo": "TIPO",
+   "ini": 347.14,
+   "dur_visual": 6.78,
+   "dur_v5": 4,
+   "casadas": "11/11",
+   "flag": "",
+   "texto": "E acrescenta que foram arrogantes e cometeram abominações diante do Se"
+  },
+  {
+   "id": "P105",
+   "tipo": "TIPO",
+   "ini": 353.92,
+   "dur_visual": 11.82,
+   "dur_v5": 7,
+   "casadas": "26/26",
+   "flag": "LONGO >7s",
+   "texto": "Judas diz que Sodoma, Gomorra e as cidades vizinhas se entregaram à im"
+  },
+  {
+   "id": "P106",
+   "tipo": "GRAF",
+   "ini": 365.74,
+   "dur_visual": 4.0,
+   "dur_v5": 5,
+   "casadas": "10/10",
+   "flag": "",
+   "texto": "E Jesus fala de Sodoma ao falar de outras cidades:"
+  },
+  {
+   "id": "P107",
+   "tipo": "FOTO",
+   "ini": 369.74,
+   "dur_visual": 9.54,
+   "dur_v5": 6,
+   "casadas": "24/24",
+   "flag": "LONGO >7s",
+   "texto": "no Dia do Juízo, haverá menos rigor para Sodoma do que para cidades on"
+  },
+  {
+   "id": "P108",
+   "tipo": "FOTO",
+   "ini": 379.28,
+   "dur_visual": 22.12,
+   "dur_v5": 7,
+   "casadas": "55/55",
+   "flag": "LONGO >7s",
+   "texto": "Em outro momento, ele descreve gente vivendo o cotidiano, comendo, beb"
+  },
+  {
+   "id": "P109",
+   "tipo": "GRAF",
+   "ini": 401.4,
+   "dur_visual": 2.56,
+   "dur_v5": 5,
+   "casadas": "7/7",
+   "flag": "CURTO <4s",
+   "texto": "Não existe uma resposta de uma frase."
+  },
+  {
+   "id": "P110",
+   "tipo": "GRAF",
+   "ini": 403.96,
+   "dur_visual": 6.24,
+   "dur_v5": 8,
+   "casadas": "16/16",
+   "flag": "",
+   "texto": "A Bíblia fala de orgulho e fartura sem amparar o pobre, de violência c"
+  },
+  {
+   "id": "P111",
+   "tipo": "GRAF",
+   "ini": 410.2,
+   "dur_visual": 7.99,
+   "dur_v5": 6,
+   "casadas": "20/20",
+   "flag": "LONGO >7s",
+   "texto": "de abominações diante de Deus e da imoralidade sexual de que Judas fal"
+  },
+  {
+   "id": "P113",
+   "tipo": "STOCK",
+   "ini": 418.19,
+   "dur_visual": 9.48,
+   "dur_v5": 7,
+   "casadas": "24/24",
+   "flag": "LONGO >7s",
+   "texto": "O Gênesis conta esse relato como um acontecimento, com nomes e lugares"
+  },
+  {
+   "id": "P114",
+   "tipo": "STOCK",
+   "ini": 427.67,
+   "dur_visual": 4.5,
+   "dur_v5": 6,
+   "casadas": "12/12",
+   "flag": "",
+   "texto": "junto ao mar Salgado, que a tradição identifica com o Mar Morto."
+  },
+  {
+   "id": "P115",
+   "tipo": "STOCK",
+   "ini": 432.17,
+   "dur_visual": 10.05,
+   "dur_v5": 7,
+   "casadas": "24/24",
+   "flag": "LONGO >7s",
+   "texto": "Arqueólogos propõem lugares diferentes, ao sul ou ao nordeste do mar, "
+  },
+  {
+   "id": "P116",
+   "tipo": "ARTE",
+   "ini": 442.22,
+   "dur_visual": 5.92,
+   "dur_v5": 4,
+   "casadas": "11/11",
+   "flag": "",
+   "texto": "Volte à primeira cena. Abraão, de madrugada, olhando a fumaça subir."
+  },
+  {
+   "id": "P117",
+   "tipo": "GRAF",
+   "ini": 448.14,
+   "dur_visual": 3.38,
+   "dur_v5": 5,
+   "casadas": "7/7",
+   "flag": "CURTO <4s",
+   "texto": "Ele tinha pedido por cinquenta. Por dez."
+  },
+  {
+   "id": "P118",
+   "tipo": "ARTE",
+   "ini": 451.52,
+   "dur_visual": 10.24,
+   "dur_v5": 6,
+   "casadas": "24/24",
+   "flag": "LONGO >7s",
+   "texto": "A cidade não foi poupada. O texto diz que, quando Deus destruiu aquela"
+  },
+  {
+   "id": "P119",
+   "tipo": "ARTE",
+   "ini": 461.76,
+   "dur_visual": 9.82,
+   "dur_v5": 7,
+   "casadas": "26/26",
+   "flag": "LONGO >7s",
+   "texto": "Sodoma lembra que existe justiça. E lembra também que existe alguém qu"
+  },
+  {
+   "id": "P120",
+   "tipo": "TIPO",
+   "ini": 471.58,
+   "dur_visual": 10.78,
+   "dur_v5": 7,
+   "casadas": "26/26",
+   "flag": "LONGO >7s",
+   "texto": "Agora uma pergunta, e ela é para você: quando foi a última vez que voc"
+  },
+  {
+   "id": "P120b",
+   "tipo": "TIPO",
+   "ini": 482.36,
+   "dur_visual": 2.04,
+   "dur_v5": 3,
+   "casadas": "7/7",
+   "flag": "CURTO <4s",
+   "texto": "Inscreva-se no canal para o próximo episódio."
+  }
+ ]
+}

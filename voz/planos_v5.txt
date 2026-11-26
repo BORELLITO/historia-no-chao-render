@@ -1,0 +1,114 @@
+P001|3|STOCK|Ele acordou cedo.
+P002|4|FOTO|Foi até o lugar onde, na véspera, tinha estado diante do Senhor.
+P003|3|STOCK|Olhou para o vale.
+P004|5|ARTE|E viu a fumaça subindo da terra, como a fumaça de uma fornalha.
+P005|3|ARTE|(fumaça de uma fornalha)
+P006|4|ARTE|O nome dele era Abraão.
+P007|3|ARTE|A cidade que ardia lá embaixo era Sodoma.
+P008|5|TIPO|O texto não registra o que ele sentiu. Só registra o que ele viu.
+P009|5|GRAF|Para entender, precisamos voltar para a véspera. E para um número em que Abraão parou.
+P010|3|ARTE|Muita gente conhece o final: fogo,
+P011|2|ARTE|enxofre,
+P012|2|STOCK|uma mulher virando sal.
+P013|3|FOTO|Mas o começo costuma ficar de fora.
+P014|6|GRAF|E o que a própria Bíblia diz, em outro livro, sobre a culpa de Sodoma, também fica de fora.
+P015|3|GRAF|No caminho, você vai ver um homem interceder diante de Deus,
+P016|3|STOCK|e uma porta que não abria.
+P017|4|ARTE|E, no fim, uma resposta que raramente cabe numa frase só.
+P018|4|FOTO|Tudo começa com uma refeição.
+P019|4|STOCK|No calor do dia,
+P020|3|TIPO|em Manre,
+P021|4|ARTE|o Senhor aparece a Abraão.
+P022|3|ARTE|E o que Abraão vê são três homens, de pé, diante dele.
+P023|4|ARTE|Abraão, já idoso, corre ao encontro deles.
+P024|4|ARTE|Curva-se até o chão.
+P025|3|FOTO|Pede que fiquem.
+P026|3|STOCK|Manda assar pão,
+P027|3|FOTO|escolhe um novilho,
+P028|3|STOCK|serve coalhada e leite,
+P029|3|ARTE|e fica de pé ao lado deles, enquanto comem.
+P030|4|TIPO|Para estranhos.
+P031|4|ARTE|Compare isso com o que vem depois.
+P032|4|ARTE|Um deles diz a Abraão que, em um ano, Sara terá um filho. Sara, que ouvia da entrada da tenda, ri consigo mesma.
+P034|5|ARTE|Então os homens se levantam, olham na direção de Sodoma,
+P035|2|TIPO|e o Senhor decide não esconder de Abraão o que vai fazer.
+P036|4|ARTE|O Senhor diz que o clamor contra Sodoma e Gomorra cresceu,
+P037|5|ARTE|e que o pecado delas é muito grave. Vai descer para ver.
+P038|6|GRAF|O texto fala de um clamor, e esse clamor chegou até Deus.
+P039|4|ARTE|Dois dos homens seguem para a cidade.
+P040|4|ARTE|Abraão fica.
+P041|7|ARTE|E faz algo inesperado diante de uma sentença: se aproxima.
+P042|5|GRAF|Ele pergunta: o Juiz de toda a terra não faria justiça? Destruiria o justo junto com o ímpio?
+P043|5|GRAF|E se houver cinquenta justos?
+P044|5|GRAF|Deus responde: por causa de cinquenta, pouparia a cidade inteira.
+P045|4|GRAF|Abraão insiste. Quarenta e cinco.
+P046|3|GRAF|Quarenta.
+P047|3|GRAF|Trinta.
+P048|3|GRAF|Vinte.
+P049|7|ARTE|Cada vez mais baixo, pedindo licença para continuar.
+P050|8|GRAF|Dez.
+P051|5|GRAF|E a conversa termina. O relato não diz por que Abraão parou no dez.
+P052|5|STOCK|Só diz que o Senhor se retira, e Abraão volta para o seu lugar.
+P053|4|ARTE|Em Sodoma morava Ló, sobrinho dele.
+P054|5|TIPO|O texto não diz que era em Ló que Abraão pensava. Mas é difícil não se perguntar.
+P055|4|FOTO|Ao anoitecer, os dois que partiram de Manre chegam a Sodoma. O texto agora os chama de anjos.
+P056|4|ARTE|Ló, sentado à porta da cidade, se levanta, curva-se
+P057|4|STOCK|e os convida para a sua casa. Eles recusam.
+P058|4|TIPO|Ló insiste, e eles aceitam. Por que tanta insistência? O relato não explica.
+P059|4|STOCK|Antes de dormirem, a casa é cercada.
+P060|4|GRAF|Jovens e velhos, a cidade inteira.
+P061|4|GRAF|Queriam os visitantes. Queriam abusar deles.
+P062|3|ARTE|Lembra da cena em Manre?
+P063|8|GRAF|Um homem idoso correu para acolher estranhos. Em Sodoma, uma cidade inteira cercou uma casa para abusar deles.
+P064|4|STOCK|Ló sai, fecha a porta atrás de si e pede que não façam esse mal.
+P065|4|TIPO|A resposta é desprezo: este estrangeiro quer ser juiz?
+P066|4|GRAF|E ameaçam tratá-lo pior do que aos visitantes. Avançam contra ele, tentando arrombar a porta.
+P067|4|STOCK|Os visitantes o puxam para dentro e fecham a porta.
+P068|5|GRAF|E os homens do lado de fora ficam cegos.
+P069|4|TIPO|Cegos.
+P070|6|STOCK|Eles já não enxergavam.
+P071|5|STOCK|E, segundo o relato, se cansaram procurando a entrada.
+P072|3|GRAF|(transição sem fala)
+P073|4|STOCK|Ainda de noite, Ló sai e avisa os genros.
+P075|4|ARTE|Eles acham que é brincadeira.
+P076|5|GRAF|Imagine avisar alguém da sua família... e ouvir uma risada.
+P073b|4|STOCK|Ao amanhecer, os anjos apressam Ló:
+P074|5|ARTE|levanta, leva a tua mulher e as tuas duas filhas, saiam da cidade.
+P077|4|ARTE|E Ló ainda hesita. A Bíblia não esconde isso.
+P078|5|ARTE|Então os anjos o seguram pela mão, e também a mulher e as filhas,
+P079|5|STOCK|e os levam para fora, porque, diz o texto, o Senhor teve misericórdia dele.
+P080|4|TIPO|Um deles diz: fuja pela sua vida. Não olhe para trás.
+P081|5|FOTO|Ló pede para ir a uma cidade pequena, ali perto.
+P082|6|ARTE|E a resposta que ele recebe é surpreendente: apresse-se, porque nada posso fazer enquanto você não chegar lá.
+P083|4|GRAF|A destruição esperou por ele.
+P084|5|STOCK|O sol já nascia quando Ló entrou em Zoar.
+P085|5|ARTE|Então o Senhor fez chover enxofre e fogo do céu.
+P088|5|ARTE|E a mulher de Ló olhou para trás.
+P089|5|STOCK|E virou uma estátua de sal.
+P090|6|TIPO|Muitos séculos depois, ao falar do dia em que o Filho do Homem se manifestar, e de não voltar atrás por causa de bens, Jesus disse:
+P091|4|ARTE|lembrem-se da mulher de Ló.
+P092|5|ARTE|Gênesis não explica por que ela olhou. Só conta o olhar.
+P096|4|TIPO|E agora a pergunta que a história deixa: por quê?
+P097|6|TIPO|O pecado de Sodoma costuma ser resumido de um jeito só.
+P098|4|GRAF|A Bíblia, em mais de um livro, aponta mais de um aspecto.
+P099|5|TIPO|Séculos depois, o profeta Ezequiel escreve, em nome de Deus:
+P100|4|TIPO|a culpa de Sodoma foi soberba,
+P101|4|ARTE|fartura e tranquilidade,
+P103|7|FOTO|sem estender a mão ao pobre e ao necessitado.
+P104|4|TIPO|E acrescenta que foram arrogantes e cometeram abominações diante do Senhor.
+P105|7|TIPO|Judas diz que Sodoma, Gomorra e as cidades vizinhas se entregaram à imoralidade sexual, foram atrás de outra carne, e foram postas como exemplo do castigo.
+P106|5|GRAF|E Jesus fala de Sodoma ao falar de outras cidades:
+P107|6|FOTO|no Dia do Juízo, haverá menos rigor para Sodoma do que para cidades onde ele fez milagres e que não se arrependeram, como Cafarnaum.
+P108|7|FOTO|Em outro momento, ele descreve gente vivendo o cotidiano, comendo, bebendo, comprando, vendendo, plantando e construindo, até o dia em que Ló saiu de Sodoma e choveu fogo. Na fala de Jesus, nenhuma dessas coisas é chamada de pecado: o ponto é que a vida seguia normal até o dia em que o fogo chegou.
+P109|5|GRAF|Não existe uma resposta de uma frase.
+P110|8|GRAF|A Bíblia fala de orgulho e fartura sem amparar o pobre, de violência contra o estrangeiro,
+P111|6|GRAF|de abominações diante de Deus e da imoralidade sexual de que Judas fala. Não reduz Sodoma a um só pecado.
+P113|7|STOCK|O Gênesis conta esse relato como um acontecimento, com nomes e lugares. O texto fala do vale de Sidim, cheio de poços de betume,
+P114|6|STOCK|junto ao mar Salgado, que a tradição identifica com o Mar Morto.
+P115|7|STOCK|Arqueólogos propõem lugares diferentes, ao sul ou ao nordeste do mar, e nenhuma proposta é consenso. Prefiro te dizer isso a vender uma certeza.
+P116|4|ARTE|Volte à primeira cena. Abraão, de madrugada, olhando a fumaça subir.
+P117|5|GRAF|Ele tinha pedido por cinquenta. Por dez.
+P118|6|ARTE|A cidade não foi poupada. O texto diz que, quando Deus destruiu aquelas cidades, lembrou-se de Abraão e tirou Ló do meio da destruição.
+P119|7|ARTE|Sodoma lembra que existe justiça. E lembra também que existe alguém que se aproxima, número por número, pela vida de quem nem era da sua cidade.
+P120|7|TIPO|Agora uma pergunta, e ela é para você: quando foi a última vez que você se aproximou para interceder por alguém? Se quiser, conte nos comentários.
+P120b|3|TIPO|Inscreva-se no canal para o próximo episódio.
